@@ -1,0 +1,5 @@
+ALTER TABLE users ADD COLUMN is_banned BOOLEAN AFTER phone;
+ALTER TABLE users ADD COLUMN is_active BOOLEAN DEFAULT  TRUE AFTER is_banned;
+
+UPDATE users SET is_banned = TRUE WHERE id IN (12, 56, 66, 83, 124, 192, 230, 300, 540, 640, 777, 819, 912, 950);
+UPDATE users SET is_active = FALSE WHERE id IN (8, 32, 77, 98, 150, 201, 290, 414, 512, 621, 721, 800, 901, 931, 970);
