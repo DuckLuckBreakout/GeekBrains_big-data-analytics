@@ -6,7 +6,7 @@
 
 CREATE USER shop_read IDENTIFIED WITH sha256_password BY 'DASDK313>124.daas1';
 CREATE USER shop IDENTIFIED WITH sha256_password BY 'DASDK313>124.daas2';
-GRANT ALL ON shop TO 'shop';
+GRANT ALL ON shop.* TO 'shop';
 GRANT SELECT ON shop.* TO 'shop_read';
 
 /*
