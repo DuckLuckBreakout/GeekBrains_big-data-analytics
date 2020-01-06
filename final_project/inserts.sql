@@ -35148,2006 +35148,2006 @@ INSERT INTO bots VALUES (98, 112522);
 INSERT INTO bots VALUES (99, 112523);
 
 
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (267137, 1, 2, 420605, 277, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1482649, 1305, 6, 803553, 196, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1280", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360659, 1493, 4, 1242323, 232, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%41", 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612597, 646, 2, 365622, 381, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%34", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (3446, 358, 4, 87298, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%27", 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (532079, 839, 2, 21252, 495, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1179", 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (978718, 5, 2, 1121337, 388, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162141, 1101, 6, 642797, 160, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243684, 374, 5, 761, 274, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (915986, 1205, 1, 1227545, 382, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1003", 0, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (441779, 89, 5, 486949, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%937", 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (848040, 1333, 5, 446019, 119, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552431, 248, 3, 1193233, 345, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (123897, 1352, 3, 853762, 413, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (779273, 173, 2, 314946, 344, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988114, 1347, 4, 1310677, 442, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1406818, 283, 4, 243873, 151, 0, NULL, 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1489188, 815, 6, 700957, 297, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1532", 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134567, 957, 2, 45738, 122, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1014", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (759111, 840, 4, 863816, 405, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (683804, 1328, 6, 1157415, 196, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411235, 376, 4, 474445, 225, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%816", 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (419324, 1299, 1, 413267, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1435", 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (586980, 777, 1, 880752, 177, 0, NULL, 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628923, 1151, 6, 751892, 159, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (939832, 1400, 1, 1094271, 4, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1078", 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1369874, 927, 3, 1146326, 383, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (370253, 814, 1, 666355, 308, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (674741, 1016, 6, 95307, 302, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%818", 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1054092, 1148, 4, 755025, 167, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1132", 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483805, 21, 1, 677785, 269, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430453, 927, 3, 758072, 389, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024796, 1035, 3, 974953, 400, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (310966, 660, 3, 1348786, 15, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1555", 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (746396, 113, 4, 217508, 215, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425644, 1039, 1, 715208, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 0, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (403464, 850, 1, 932848, 45, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%25", 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (374788, 766, 1, 1058808, 67, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (252026, 547, 6, 295917, 374, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1485", 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (595771, 1334, 4, 802805, 419, 0, NULL, 1, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164799, 1084, 5, 1306195, 254, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498217, 1125, 5, 1125493, 320, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1109540, 1093, 5, 435446, 209, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221462, 1527, 5, 1229429, 153, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (499580, 437, 4, 258089, 288, 0, NULL, 0, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82381, 138, 4, 1377217, 56, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1006205, 238, 6, 702795, 104, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1135, 852, 2, 256590, 410, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1133", 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890138, 1493, 3, 253219, 151, 0, NULL, 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1007971, 169, 5, 631685, 400, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (874848, 463, 4, 1179117, 2, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357652, 1051, 6, 878942, 269, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1256", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1075500, 467, 6, 1115033, 111, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975162, 1034, 2, 904716, 272, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415102, 191, 6, 1395359, 116, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (333237, 587, 5, 1204437, 486, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%304", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (620491, 1384, 5, 1164711, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%267", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176025, 375, 1, 129270, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%680", 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (839996, 549, 3, 889058, 353, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1149583, 57, 1, 577581, 370, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1026567, 1202, 6, 72098, 422, 0, NULL, 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (450296, 199, 6, 113095, 96, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1201", 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1152718, 809, 4, 1300477, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1465", 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1136747, 967, 2, 544409, 341, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523355, 1481, 1, 123918, 350, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1434166, 192, 3, 818289, 13, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%589", 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146141, 7, 4, 915450, 83, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1095356, 1397, 6, 214891, 320, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (506289, 479, 6, 280689, 72, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1215575, 597, 2, 395087, 62, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%218", 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244417, 462, 5, 1229371, 241, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1383", 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92390, 589, 6, 129801, 66, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%67", 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (467145, 77, 5, 480833, 415, 0, NULL, 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (729773, 776, 6, 1190866, 91, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043356, 384, 4, 1279900, 35, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10208, 1, 2, 50563, 307, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%963", 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366173, 514, 2, 869443, 109, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400447, 104, 1, 1257080, 293, 0, NULL, 1, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (869365, 1147, 3, 1202169, 336, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (432777, 1242, 4, 201329, 216, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1250688, 112, 3, 1240875, 30, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%993", 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1136382, 438, 5, 465925, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%206", 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (494195, 973, 1, 715010, 335, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224106, 510, 6, 1226210, 353, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1549", 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721482, 660, 1, 840736, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%943", 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390485, 251, 5, 308436, 193, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539657, 1069, 6, 486211, 276, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1088", 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1189424, 323, 5, 1302772, 182, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%80", 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621351, 575, 4, 852027, 342, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1298934, 575, 2, 326476, 134, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1385696, 1368, 6, 877450, 386, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1323", 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (853137, 354, 2, 371293, 79, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1214", 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (578811, 1197, 4, 1354524, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%506", 0, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1088272, 1270, 1, 596722, 259, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1457", 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165094, 672, 5, 219339, 447, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%651", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (558287, 813, 3, 527428, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1467", 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (437925, 1256, 2, 1343864, 298, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265353, 304, 6, 255660, 235, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%156", 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323305, 1399, 4, 1012820, 284, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83465, 586, 4, 757687, 418, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (146796, 1398, 5, 1280472, 248, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1029614, 122, 3, 848224, 250, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (171867, 1532, 4, 173365, 121, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1208", 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1035660, 1068, 5, 677285, 5, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540449, 17, 3, 23365, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%538", 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1491529, 129, 4, 1089901, 415, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%28", 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151506, 558, 1, 314227, 39, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626832, 476, 3, 713820, 383, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (203033, 230, 5, 916874, 306, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1020666, 480, 5, 139522, 7, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1230", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349287, 951, 2, 912838, 129, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1467319, 735, 1, 481842, 303, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25191, 128, 5, 1067566, 316, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (521476, 1441, 6, 1041314, 278, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (643245, 117, 6, 1163289, 491, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (783971, 410, 3, 625818, 490, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1050", 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (425120, 281, 3, 427376, 315, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1145451, 83, 4, 588738, 202, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259209, 1356, 5, 904847, 353, 0, NULL, 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1490575, 22, 4, 760112, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%34", 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (163509, 992, 5, 192337, 435, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944445, 538, 3, 889349, 95, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012660, 144, 2, 247310, 48, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534136, 885, 4, 7124, 108, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1544", 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (856526, 281, 6, 761936, 164, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%235", 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (722869, 922, 1, 567433, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1453", 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (978918, 120, 4, 1320586, 331, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (142746, 1104, 5, 669347, 55, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%871", 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (956977, 560, 4, 786715, 184, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%990", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (36269, 652, 3, 923406, 22, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (359424, 40, 1, 430132, 365, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (18629, 493, 3, 1031907, 120, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%316", 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90031, 1011, 3, 471239, 411, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (906212, 1428, 6, 284005, 457, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%445", 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (304355, 1147, 3, 828915, 450, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1410", 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1286577, 1095, 1, 1226824, 264, 0, NULL, 0, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (451399, 695, 2, 795572, 473, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278135, 613, 3, 210722, 281, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (892188, 273, 2, 41024, 155, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%245", 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1401128, 506, 3, 47343, 195, 0, NULL, 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (375226, 453, 5, 10353, 269, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%359", 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (914666, 1046, 3, 400885, 449, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%816", 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658760, 462, 1, 277680, 163, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (606649, 1550, 2, 542056, 471, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%592", 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (165870, 659, 4, 22596, 290, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1448219, 147, 1, 118798, 44, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478579, 975, 6, 361812, 402, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (461069, 80, 4, 140802, 374, 0, NULL, 1, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (55725, 250, 1, 362007, 39, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765979, 1022, 2, 1323950, 140, 0, NULL, 1, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570401, 1128, 5, 453630, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%84", 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221574, 1507, 5, 778386, 130, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1089", 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (175401, 1024, 3, 1082228, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%991", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75254, 8, 4, 653794, 156, 0, NULL, 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (668097, 1012, 2, 292757, 222, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%419", 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1422995, 183, 2, 830387, 111, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1470763, 679, 1, 642697, 106, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (986225, 972, 6, 493066, 92, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1509647, 399, 5, 872449, 409, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%167", 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (829706, 664, 1, 640676, 159, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350546, 1482, 3, 842145, 96, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%120", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046779, 334, 6, 366351, 222, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (680520, 1406, 6, 537851, 182, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658455, 526, 6, 1335977, 68, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (359266, 871, 2, 44359, 287, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (704692, 685, 2, 1301268, 422, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (147189, 1523, 5, 512378, 442, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792860, 1053, 6, 882728, 128, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (250147, 831, 6, 1128280, 83, 0, NULL, 1, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (662667, 698, 2, 215313, 194, 0, NULL, 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1014405, 1033, 3, 999109, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1494", 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1017578, 1159, 4, 212596, 21, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%832", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (486199, 645, 2, 1126100, 370, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (176964, 1332, 5, 1221173, 4, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%926", 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (489159, 364, 3, 1337484, 314, 0, NULL, 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (690869, 1268, 4, 280173, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%68", 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579075, 432, 6, 993417, 162, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1397677, 1042, 6, 1370942, 408, 0, NULL, 0, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179255, 1176, 4, 221876, 351, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%409", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046526, 210, 1, 74339, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1102", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (627488, 57, 5, 323362, 409, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%9", 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (69164, 767, 3, 1400586, 83, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (920944, 1399, 1, 1255264, 391, 0, NULL, 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265882, 1431, 4, 1297893, 488, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%610", 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1401634, 771, 5, 329547, 462, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%376", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (818952, 1190, 6, 301417, 447, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1502942, 779, 4, 775723, 334, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%757", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1293838, 1211, 1, 624960, 187, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1554", 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046034, 172, 6, 770593, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%566", 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (349489, 167, 4, 1076174, 128, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1027", 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931978, 283, 6, 384700, 158, 0, NULL, 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239369, 1141, 3, 244560, 19, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (85138, 660, 6, 1214597, 403, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%675", 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183041, 701, 4, 1262734, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1164", 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1335480, 263, 4, 62236, 473, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%278", 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (280719, 522, 1, 969992, 314, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1369", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (155892, 522, 5, 259540, 400, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%605", 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (966297, 415, 6, 1197248, 387, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1375984, 1012, 3, 74955, 50, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1106159, 937, 5, 341422, 306, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408111, 501, 1, 471564, 253, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%38", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (60473, 1118, 4, 812020, 175, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%749", 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404250, 895, 5, 197061, 47, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360426, 1224, 1, 727429, 77, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%64", 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (862161, 1257, 6, 591590, 99, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1283", 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143886, 734, 6, 1187181, 165, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%765", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (266805, 1452, 1, 375342, 46, 0, NULL, 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1398279, 1058, 1, 219645, 52, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%928", 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552272, 705, 5, 1277646, 344, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%186", 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (551595, 847, 1, 257796, 177, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1417", 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313927, 258, 2, 979539, 225, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221902, 138, 6, 1231239, 397, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%142", 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (529601, 442, 3, 928227, 116, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1229", 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (399882, 1485, 3, 1342354, 443, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%425", 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575955, 1456, 6, 589036, 55, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109049, 290, 5, 364685, 8, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%694", 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (918057, 610, 5, 521180, 269, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108842, 546, 5, 447456, 445, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1208", 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (547892, 32, 2, 1297344, 278, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (8442, 946, 4, 1146070, 446, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1182", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (207944, 1556, 4, 434085, 177, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (853172, 1017, 3, 1398901, 74, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%9", 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087841, 939, 3, 568590, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%86", 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (771955, 1266, 6, 256435, 177, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1452990, 240, 6, 960427, 184, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%367", 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411735, 775, 1, 807174, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%930", 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (662915, 231, 1, 1061589, 78, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (982118, 1038, 2, 1232535, 360, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1376", 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630035, 320, 6, 1301867, 320, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (160901, 394, 6, 8127, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1359", 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1418022, 1466, 4, 679178, 118, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%72", 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134700, 753, 6, 103997, 313, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%101", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162671, 1443, 2, 571604, 344, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1467823, 504, 1, 231094, 67, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%930", 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (983041, 893, 4, 1385984, 20, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (649316, 1321, 4, 1095563, 349, 0, NULL, 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (875337, 895, 5, 514462, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%294", 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801556, 337, 2, 791472, 118, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1156497, 1038, 2, 1010773, 415, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1317", 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186368, 436, 5, 43194, 484, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (655137, 354, 5, 1152592, 170, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (968569, 45, 2, 790815, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%230", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444156, 378, 3, 1091975, 177, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1078848, 644, 5, 501235, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%800", 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972098, 1493, 3, 677763, 38, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (38786, 1446, 1, 1116, 377, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%510", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1547035, 229, 5, 791000, 318, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1256", 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1486944, 250, 1, 473879, 441, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1025", 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (334321, 1294, 4, 475722, 379, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259997, 286, 1, 392764, 71, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (981758, 146, 2, 1404917, 18, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (11768, 223, 2, 699500, 423, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (928727, 110, 3, 46066, 329, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%901", 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (69551, 348, 6, 780993, 488, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (928385, 1134, 2, 333466, 230, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (27355, 164, 3, 128559, 34, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (453630, 1218, 4, 1301312, 349, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (773957, 133, 4, 969210, 393, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%427", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (143137, 253, 2, 1212609, 462, 0, NULL, 1, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1133051, 214, 6, 39227, 418, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786984, 697, 4, 1141572, 188, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%377", 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083838, 1464, 2, 973688, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1179", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (833195, 1219, 3, 1205452, 148, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1456", 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863299, 145, 5, 7901, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%917", 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (504863, 123, 2, 835357, 43, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (556162, 711, 2, 550894, 343, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%589", 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083501, 182, 1, 184210, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%530", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (747819, 1051, 4, 258101, 487, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%883", 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (431469, 341, 6, 611949, 68, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (902599, 772, 5, 319922, 290, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410589, 667, 5, 413213, 437, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%704", 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (539493, 1525, 1, 1170916, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1322", 1, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (990047, 1168, 3, 811142, 392, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%463", 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1183533, 784, 4, 886864, 25, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%670", 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (895251, 540, 3, 770407, 415, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1101187, 437, 2, 272629, 133, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1067", 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408774, 1489, 2, 119201, 274, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%613", 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (285545, 1061, 2, 1404995, 279, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287971, 1402, 4, 411572, 187, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1411", 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1508074, 426, 4, 289679, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1228", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1423963, 588, 4, 418743, 438, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%848", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (416137, 1118, 1, 794536, 396, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (584178, 1154, 5, 1273712, 366, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (912161, 145, 1, 56745, 271, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1510138, 1057, 5, 417337, 48, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%983", 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890618, 477, 2, 567546, 455, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (229930, 391, 6, 1404072, 387, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1482", 1, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083338, 1306, 6, 1099240, 238, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%735", 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (167720, 841, 2, 989616, 252, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1359", 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1219612, 510, 6, 21947, 237, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055791, 1378, 3, 517395, 211, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1279", 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (435734, 688, 2, 843591, 229, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1292", 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (219557, 1239, 5, 385112, 426, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%664", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1061677, 980, 5, 856548, 215, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454229, 1343, 4, 1033023, 402, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%636", 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964431, 1250, 2, 173054, 481, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%829", 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (485152, 1297, 3, 116072, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1463", 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1537624, 944, 5, 848223, 411, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%256", 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (847275, 657, 2, 814378, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%317", 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (870377, 1289, 4, 83368, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%203", 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581983, 1134, 4, 831566, 334, 0, NULL, 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1321770, 1049, 1, 1100039, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%802", 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1338921, 200, 4, 929416, 80, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%547", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715617, 1491, 3, 160173, 461, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1123631, 1502, 1, 343484, 180, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (780963, 620, 5, 420109, 445, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814817, 358, 4, 302935, 289, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%885", 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721353, 904, 1, 701577, 456, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%714", 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143990, 928, 5, 911971, 264, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388003, 502, 3, 681807, 309, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1236", 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1056184, 813, 2, 1364456, 419, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (322047, 1197, 4, 117175, 297, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (508794, 1248, 1, 695913, 225, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1206", 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338710, 283, 3, 51229, 396, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376002, 1078, 1, 1305695, 337, 0, NULL, 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1121039, 98, 4, 1271172, 447, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%859", 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (200883, 1212, 1, 504284, 201, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (102734, 52, 2, 643074, 106, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216830, 908, 3, 633943, 320, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857600, 1244, 6, 1140699, 227, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (601429, 1341, 5, 1064758, 343, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (525529, 365, 4, 554506, 431, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%316", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (858427, 454, 1, 1370764, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1031", 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308837, 881, 5, 909103, 32, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (860076, 1222, 5, 551843, 374, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (242153, 1380, 3, 199894, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1417", 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (37360, 1090, 2, 754656, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%214", 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (87704, 682, 6, 60195, 80, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1001", 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (901786, 942, 6, 511226, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%115", 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75954, 125, 4, 818295, 200, 0, NULL, 1, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523541, 418, 4, 931125, 258, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (213662, 1262, 4, 1194088, 373, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%641", 0, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430846, 654, 5, 378319, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%448", 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (742174, 276, 3, 1034549, 23, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%221", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501221, 148, 3, 737027, 339, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%534", 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146788, 30, 2, 670419, 206, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1526732, 1399, 6, 994716, 483, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%615", 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296354, 1438, 4, 579025, 286, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1451", 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124676, 469, 2, 116632, 444, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1107514, 288, 6, 800505, 377, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1265", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (378563, 1420, 5, 184870, 182, 0, NULL, 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (427317, 829, 4, 70102, 462, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (446240, 735, 4, 736236, 21, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1257", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (257882, 505, 3, 707794, 208, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (136890, 1198, 4, 838337, 450, 0, NULL, 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (323658, 621, 3, 561659, 116, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1545", 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (320476, 1057, 6, 271081, 16, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176809, 1477, 1, 519349, 146, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1067051, 112, 6, 489441, 369, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1145358, 401, 2, 1264545, 264, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%604", 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1138600, 917, 6, 1183593, 189, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177860, 478, 3, 284327, 390, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1301854, 536, 2, 401697, 89, 0, NULL, 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1337292, 1520, 1, 271086, 491, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381364, 1129, 5, 1188207, 263, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1429286, 1546, 2, 795726, 468, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1228", 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (623455, 1364, 4, 210842, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%908", 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (855380, 245, 4, 777034, 279, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1321", 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51523, 273, 5, 267862, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1063", 1, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (921175, 513, 3, 140671, 298, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1393511, 1086, 5, 1162776, 170, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%698", 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (376906, 1524, 1, 419792, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%887", 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1394838, 1069, 6, 681149, 139, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1218564, 1194, 4, 384221, 370, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1299", 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (402733, 1192, 2, 753518, 453, 0, NULL, 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916867, 813, 4, 330552, 422, 0, NULL, 1, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1077405, 1056, 5, 1357137, 122, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (859771, 54, 4, 9320, 54, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (958108, 1243, 5, 359410, 358, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%915", 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73391, 1015, 2, 652805, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%668", 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483432, 578, 3, 736176, 247, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1327674, 524, 3, 87268, 450, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (288410, 343, 6, 452175, 250, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083128, 959, 6, 564832, 361, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1422", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1109751, 321, 1, 1120302, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%44", 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259561, 889, 6, 208231, 175, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (375767, 528, 4, 1213882, 287, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221592, 672, 1, 845214, 92, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%310", 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (936050, 55, 4, 966420, 383, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954117, 641, 6, 479729, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%646", 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308065, 900, 2, 332293, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1462", 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814471, 1080, 1, 1191112, 35, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (246173, 742, 1, 323999, 163, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012051, 749, 3, 361341, 291, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (530098, 1153, 6, 522262, 43, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (17517, 371, 3, 1102513, 168, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540932, 1285, 2, 233012, 398, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%982", 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (905585, 112, 3, 1235474, 295, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%979", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717511, 572, 3, 331520, 218, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%265", 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1350393, 531, 3, 331230, 432, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (850982, 1417, 3, 966944, 242, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696606, 225, 4, 615794, 289, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (523480, 259, 6, 663040, 46, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (907760, 1131, 1, 908340, 317, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1258", 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217324, 1509, 5, 368381, 403, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%340", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863185, 1008, 6, 147936, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1102", 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770679, 1023, 3, 33587, 247, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6381, 883, 6, 975262, 311, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109891, 240, 5, 65682, 425, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952407, 840, 5, 1166729, 191, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410539, 1493, 6, 1393838, 279, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1462", 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (206436, 720, 4, 231284, 144, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%623", 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1460725, 852, 6, 954537, 62, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129471, 1023, 4, 904985, 42, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1377301, 1451, 1, 331057, 115, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1333", 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1141954, 569, 3, 1106845, 86, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1495", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1103496, 1312, 1, 170611, 496, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733130, 10, 4, 779381, 323, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%55", 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1120996, 386, 5, 1171326, 260, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1274", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129349, 77, 1, 813918, 86, 0, NULL, 1, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1407954, 345, 5, 849706, 450, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%26", 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29515, 210, 4, 537645, 498, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%303", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954138, 529, 4, 857265, 243, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575326, 1369, 3, 92443, 467, 0, NULL, 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (755918, 1250, 6, 367192, 249, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%748", 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415962, 820, 5, 384244, 390, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (66960, 914, 3, 612049, 475, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (45696, 1242, 1, 1181905, 211, 0, NULL, 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (726121, 631, 1, 1027106, 268, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1257", 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265519, 1204, 1, 179964, 324, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1005326, 243, 4, 1289270, 485, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1144", 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412352, 1074, 4, 927818, 446, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%843", 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1126116, 689, 1, 1414282, 109, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22786, 1080, 4, 979445, 259, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (250264, 1282, 4, 87583, 458, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (547947, 1504, 6, 628786, 50, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689001, 1087, 6, 1220953, 472, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1067", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721552, 1255, 2, 240147, 316, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1494134, 1522, 3, 1343114, 298, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%869", 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1209390, 1533, 5, 78450, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%993", 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1114621, 923, 1, 43140, 368, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1248340, 1427, 5, 969449, 240, 0, NULL, 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955679, 555, 6, 892175, 222, 0, NULL, 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (642796, 856, 2, 275651, 44, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263420, 878, 4, 1417058, 387, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (747056, 441, 1, 464765, 336, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043792, 1555, 2, 1327904, 142, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1210442, 850, 4, 139204, 234, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1426", 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660479, 184, 5, 1312680, 280, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%303", 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566353, 157, 2, 875793, 334, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%864", 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (950176, 1078, 5, 766702, 218, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1446", 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (96321, 443, 4, 804404, 440, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%569", 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383482, 1410, 2, 591863, 149, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%804", 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (718130, 422, 4, 1354115, 469, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955801, 267, 2, 1225161, 464, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1021", 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941596, 501, 2, 235191, 85, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009342, 378, 5, 394493, 113, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1335", 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (563616, 1032, 6, 185029, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1177", 1, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381836, 681, 3, 421658, 90, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%757", 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (957462, 1424, 5, 1184990, 476, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1058", 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070672, 1116, 6, 592507, 280, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%334", 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (968646, 851, 2, 1110810, 120, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1393", 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (31311, 1449, 4, 561883, 131, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%136", 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689703, 1053, 1, 1232378, 112, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1199544, 1440, 3, 405911, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%232", 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1084544, 1401, 1, 1078631, 443, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170197, 460, 5, 342431, 154, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134741, 901, 1, 835785, 267, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%512", 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (426309, 1396, 4, 1084949, 289, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1447", 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1334728, 1196, 6, 653427, 238, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (50593, 1480, 3, 272225, 303, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (525152, 687, 1, 817725, 192, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%872", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411242, 646, 6, 686740, 52, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%396", 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1068075, 200, 4, 962147, 300, 0, NULL, 1, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412200, 529, 5, 915065, 477, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%440", 1, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (484268, 159, 5, 54672, 454, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (965643, 1540, 3, 948364, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%286", 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259211, 1409, 6, 1347831, 158, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (401629, 528, 3, 811121, 125, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1285756, 1001, 4, 1119708, 284, 0, NULL, 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (949774, 128, 3, 154709, 469, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%39", 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (933216, 1533, 3, 1241749, 497, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379335, 1110, 2, 976270, 356, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381672, 250, 1, 587264, 61, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%947", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (293412, 1350, 1, 50207, 118, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717686, 1206, 1, 947611, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%803", 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305916, 87, 5, 693343, 236, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%745", 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (724305, 178, 4, 1387025, 22, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539941, 310, 5, 519190, 176, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (947806, 568, 4, 830706, 137, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%258", 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (157704, 153, 2, 232669, 125, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (385180, 419, 6, 450842, 78, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%977", 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1307326, 1278, 2, 704192, 352, 0, NULL, 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (799401, 667, 1, 721889, 5, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%818", 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836284, 448, 5, 1231099, 276, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%476", 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (371854, 832, 5, 1032339, 266, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888054, 625, 1, 1415861, 183, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1270", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1011157, 1069, 3, 625085, 315, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904668, 1509, 5, 329843, 32, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296173, 709, 2, 353690, 268, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1048982, 15, 2, 39140, 468, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (300404, 1541, 3, 71347, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%232", 1, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1303191, 1167, 1, 242311, 306, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%180", 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (214727, 347, 2, 236944, 327, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1353377, 1454, 3, 1415390, 79, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1426199, 473, 4, 1026396, 482, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%294", 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1439410, 804, 2, 1374134, 208, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265407, 919, 4, 800999, 282, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%657", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1460252, 1007, 3, 112840, 386, 0, NULL, 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (654855, 737, 6, 1092813, 77, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1554", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (317049, 674, 6, 1180672, 221, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1216607, 1519, 3, 602014, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%738", 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140536, 1502, 5, 314451, 121, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259212, 1387, 2, 883032, 329, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%308", 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1110685, 699, 3, 932117, 38, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1228227, 855, 5, 542406, 112, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193352, 642, 1, 990520, 290, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%769", 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (772640, 1468, 5, 1333941, 376, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (263101, 1427, 6, 182474, 417, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1256470, 1323, 1, 1087417, 26, 0, NULL, 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (650911, 857, 1, 917846, 150, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (677456, 407, 4, 570819, 125, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93871, 1515, 4, 1023540, 338, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579218, 117, 6, 182694, 119, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1153", 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (728814, 1295, 1, 86206, 59, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (139764, 836, 2, 1110048, 83, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%368", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (858976, 69, 4, 665454, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1020", 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1314553, 597, 4, 851184, 393, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (687817, 1524, 6, 1211225, 78, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%680", 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (115982, 1306, 6, 1318336, 50, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256579, 542, 3, 1259563, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%949", 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420107, 803, 4, 1091501, 171, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%444", 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (958561, 847, 4, 239062, 11, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1238997, 324, 6, 1347146, 473, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532673, 771, 2, 375615, 146, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1504161, 931, 6, 550772, 326, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%503", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770191, 566, 3, 722854, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1366", 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1170437, 1543, 2, 1015539, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1456", 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (839044, 33, 4, 1304338, 42, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1247715, 482, 5, 345380, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1338", 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (457533, 335, 6, 688426, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%857", 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129565, 994, 2, 162196, 143, 0, NULL, 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (821860, 816, 3, 51373, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1326", 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357014, 219, 6, 1092098, 379, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%33", 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1504320, 879, 4, 913323, 233, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1424", 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1294426, 1500, 1, 189063, 286, 0, NULL, 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (779833, 210, 5, 415065, 112, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076613, 660, 5, 1217680, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (247277, 364, 3, 303841, 27, 0, NULL, 1, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455725, 1333, 4, 638159, 181, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1301038, 248, 2, 1021176, 237, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1093634, 406, 3, 1207490, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%732", 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1084280, 560, 4, 228923, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%547", 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1486726, 537, 2, 470661, 357, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1341", 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (663832, 1437, 3, 661919, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%38", 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151817, 291, 2, 911240, 153, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%517", 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (569808, 758, 2, 1241551, 345, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1529", 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (694831, 564, 5, 423856, 158, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%976", 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1407960, 1400, 5, 1210358, 163, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (491555, 1143, 4, 37427, 194, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1480890, 1132, 2, 661795, 266, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1090091, 602, 2, 554921, 231, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1311", 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407004, 1328, 3, 348178, 275, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1026", 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (565357, 1236, 4, 199501, 305, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%478", 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1480439, 1502, 1, 877605, 489, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149193, 279, 2, 747776, 211, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (739400, 515, 5, 1054159, 382, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1531258, 637, 1, 22238, 237, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20", 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (124162, 1226, 2, 460483, 182, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614052, 1228, 6, 800843, 70, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1102776, 48, 6, 793473, 424, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1340", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (907100, 1251, 3, 873313, 437, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%258", 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1371022, 554, 3, 245126, 282, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (631622, 998, 4, 13897, 192, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%744", 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (914602, 1072, 1, 449602, 439, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%274", 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411108, 825, 5, 497236, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1284", 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003517, 1096, 1, 701593, 180, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134828, 911, 1, 207599, 431, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1270093, 973, 6, 111454, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%261", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328693, 42, 4, 398720, 473, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801607, 542, 2, 1317188, 309, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857594, 1257, 4, 326865, 486, 0, NULL, 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295296, 111, 4, 847347, 320, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1341379, 1029, 5, 176348, 202, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%262", 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (768541, 280, 6, 719704, 17, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%467", 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476221, 122, 3, 92736, 103, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024444, 896, 2, 954005, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1516", 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412560, 722, 3, 858268, 45, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1247", 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (454396, 1465, 3, 500932, 196, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988999, 1074, 1, 993550, 208, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1080", 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83868, 155, 1, 451866, 16, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1024", 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350198, 1247, 2, 391691, 66, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%722", 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1493931, 360, 3, 879060, 454, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%988", 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164697, 1205, 2, 1337709, 305, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (489359, 373, 3, 144980, 272, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (807815, 302, 5, 1274293, 215, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1451", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363760, 936, 1, 548893, 131, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1214266, 161, 2, 1115243, 255, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (237339, 450, 1, 906794, 457, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%235", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952912, 340, 2, 1258277, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%329", 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (936001, 1185, 6, 439400, 237, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (797863, 1061, 3, 1248280, 199, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1452", 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1066556, 1522, 2, 1391798, 102, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1495", 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (882591, 481, 5, 647951, 283, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1422", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93528, 212, 6, 1018504, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%864", 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1041116, 830, 6, 640228, 325, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1412", 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (841122, 1412, 1, 896179, 48, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (523733, 451, 2, 659035, 155, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%23", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (633002, 730, 4, 64925, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%937", 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444793, 1508, 3, 972037, 419, 0, NULL, 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (393769, 1178, 6, 896757, 301, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1449", 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (372172, 772, 4, 630532, 211, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82963, 896, 5, 843786, 497, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%137", 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338109, 1381, 6, 552620, 251, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1237", 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (352483, 1439, 6, 67398, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%46", 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224794, 1126, 1, 457604, 300, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%308", 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (298394, 344, 1, 1180470, 11, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1315", 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (542911, 96, 2, 202292, 440, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1465002, 1446, 6, 907428, 47, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1400", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625092, 1230, 2, 348482, 49, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1075", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (61194, 1444, 2, 560085, 499, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%926", 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1022321, 1118, 1, 717981, 239, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628312, 1001, 2, 1227646, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%810", 1, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366373, 1497, 5, 847542, 407, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313981, 347, 4, 1388698, 23, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%734", 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (477741, 209, 1, 199652, 65, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (790974, 905, 5, 1197097, 310, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (74319, 167, 5, 50500, 33, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (308632, 434, 5, 715664, 8, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1162517, 1160, 2, 1283531, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1287", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1324323, 467, 4, 880446, 115, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1345672, 1409, 4, 7052, 370, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%470", 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (335402, 249, 1, 589932, 276, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (158050, 809, 3, 815097, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1242", 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21312, 136, 3, 298497, 414, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1074045, 987, 4, 180015, 291, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%561", 1, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (798946, 757, 5, 1217493, 364, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1474274, 532, 5, 967168, 17, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%685", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976982, 627, 5, 530083, 33, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%51", 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458963, 692, 5, 498481, 1, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1115", 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1451232, 1183, 2, 604111, 246, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (217718, 670, 3, 776964, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%414", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1544927, 1098, 5, 811811, 20, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1231", 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (260117, 468, 3, 211285, 258, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1396713, 709, 3, 427949, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%461", 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252682, 366, 1, 417992, 3, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (641224, 930, 4, 809559, 186, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (291535, 1351, 1, 560368, 175, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (113283, 460, 1, 289904, 343, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%371", 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (682617, 568, 2, 36376, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1210", 0, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25660, 197, 2, 1150761, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%183", 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625570, 1381, 2, 208531, 51, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (883837, 134, 4, 493380, 355, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%10", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1099083, 1315, 6, 1314646, 442, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476118, 10, 5, 734994, 239, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (677050, 732, 1, 1215474, 316, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%844", 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1204504, 60, 3, 705269, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1534", 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1047191, 713, 5, 7431, 81, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%649", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478849, 1226, 4, 492664, 454, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081034, 464, 4, 1082936, 303, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%828", 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1098962, 60, 2, 751121, 390, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (286904, 61, 3, 186153, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%154", 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1356651, 657, 6, 915638, 400, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%111", 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (423288, 1131, 3, 598923, 83, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (720082, 82, 4, 830225, 12, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (399637, 1095, 2, 968453, 160, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1004", 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1456047, 1060, 4, 1240122, 273, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379836, 1340, 2, 685157, 452, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%688", 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (791083, 730, 4, 1290134, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%19", 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51176, 1423, 4, 281777, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%972", 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174246, 493, 5, 643084, 76, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%408", 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (596277, 811, 6, 169023, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%677", 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707924, 395, 3, 251093, 310, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1457", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1465004, 301, 2, 174147, 130, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49577, 297, 5, 1004569, 265, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%844", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (202031, 1167, 1, 1271301, 50, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1072", 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (377524, 1531, 6, 938918, 121, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (860158, 999, 2, 888127, 128, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1152285, 478, 4, 1346285, 375, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%378", 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1270818, 892, 6, 919818, 184, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1362805, 938, 5, 132751, 41, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328091, 931, 1, 1005286, 492, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1373", 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1114816, 584, 1, 625402, 263, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (294216, 316, 5, 1029409, 48, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1149761, 1548, 2, 1201504, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%939", 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1154145, 1202, 1, 909598, 250, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (322244, 999, 5, 211884, 379, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (879522, 1231, 5, 1330088, 473, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1177234, 1510, 6, 276622, 155, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (497787, 391, 2, 611526, 367, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281589, 1302, 1, 455155, 476, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%54", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265232, 936, 2, 954033, 102, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1538099, 1158, 3, 1243870, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%733", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (654618, 519, 1, 151275, 281, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%10", 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (71683, 26, 3, 186834, 432, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263473, 1480, 4, 303739, 275, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (934509, 434, 4, 138499, 175, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%585", 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (693462, 1057, 6, 1237063, 66, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (776063, 30, 6, 558194, 302, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%284", 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1375311, 44, 4, 1276283, 417, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168065, 411, 6, 1108139, 85, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1427683, 1459, 3, 1226583, 117, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (862277, 849, 2, 1402112, 336, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (849788, 562, 3, 759180, 43, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (756340, 223, 3, 333697, 100, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%143", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (827944, 138, 1, 1229862, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%628", 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (832972, 1164, 1, 737415, 260, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (238168, 1462, 2, 1259333, 146, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (414637, 731, 5, 1389505, 197, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%185", 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1098513, 1517, 1, 1136430, 175, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (424997, 574, 1, 439828, 255, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%400", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (879233, 919, 3, 850637, 207, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1519", 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44829, 1389, 4, 821424, 12, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (623368, 1368, 5, 953758, 127, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (314744, 1373, 3, 1302707, 443, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (196858, 489, 6, 521570, 290, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1075", 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (636823, 1475, 6, 897968, 340, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%262", 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244473, 1445, 4, 1295980, 130, 0, NULL, 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (515748, 35, 4, 1395753, 295, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%465", 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1344162, 434, 3, 698604, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%622", 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (669958, 1516, 5, 245326, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%458", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (925663, 117, 3, 83835, 397, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1391972, 1318, 1, 355557, 442, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%85", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (886213, 1313, 1, 978383, 72, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%273", 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425582, 755, 1, 1382740, 413, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (580822, 58, 2, 973826, 144, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811640, 430, 6, 1409826, 144, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575761, 224, 1, 608604, 41, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1440180, 544, 2, 901172, 30, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%82", 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087215, 102, 2, 1184737, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1497", 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186063, 1046, 4, 740202, 88, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941269, 961, 3, 1151165, 294, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018629, 679, 5, 507108, 419, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1407", 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1191415, 1222, 4, 875934, 141, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836453, 802, 4, 738013, 276, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513199, 377, 2, 794118, 58, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1423832, 1075, 6, 474698, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%137", 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (270774, 730, 6, 88248, 173, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1025309, 1432, 5, 1196355, 472, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1553118, 322, 6, 322691, 397, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1475", 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (613181, 572, 3, 555791, 32, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%491", 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256127, 1382, 6, 550957, 402, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1175", 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (540201, 731, 6, 84763, 238, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%496", 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552001, 36, 4, 853273, 51, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (996885, 1418, 2, 167035, 483, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1077194, 1255, 2, 533815, 201, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (311667, 1160, 5, 333681, 355, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%87", 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (812665, 1317, 2, 1182306, 324, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237517, 525, 1, 915438, 195, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193777, 873, 1, 723224, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%398", 0, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1413730, 180, 4, 798451, 68, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (648943, 895, 6, 1271156, 410, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1191296, 1031, 5, 318326, 127, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (199229, 926, 1, 16446, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%314", 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (264733, 600, 3, 165842, 127, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%346", 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (996243, 1153, 3, 280503, 234, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (929896, 1109, 2, 1167103, 326, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (873446, 1111, 3, 678366, 46, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%131", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (727239, 1019, 3, 386008, 235, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%982", 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410237, 14, 1, 1036066, 78, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1296518, 457, 4, 155080, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1136", 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708326, 847, 3, 848591, 143, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (195512, 468, 2, 214098, 348, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070976, 325, 5, 519337, 93, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%839", 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1549167, 1549, 5, 77678, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1142", 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1410975, 883, 1, 585810, 56, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%12", 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1267083, 1550, 4, 881448, 88, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%487", 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (209312, 1072, 1, 64251, 488, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1475167, 1231, 6, 1363906, 278, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (813258, 110, 3, 250063, 307, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (335834, 556, 6, 830253, 451, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931267, 477, 3, 1238066, 446, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (850184, 1342, 6, 415689, 457, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (274039, 551, 6, 941051, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305868, 1070, 2, 1112261, 283, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1482", 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256943, 794, 5, 988285, 163, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%752", 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (185435, 1492, 5, 934148, 57, 0, NULL, 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501043, 1271, 6, 534661, 235, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (818813, 924, 4, 19564, 331, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6923, 460, 6, 434574, 20, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1048", 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (327518, 726, 5, 27771, 422, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%257", 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1218240, 394, 3, 604044, 467, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%568", 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (36384, 897, 1, 1255201, 328, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%784", 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (496975, 448, 4, 1394462, 299, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (306117, 826, 2, 692060, 371, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1243896, 1192, 1, 653382, 337, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (219001, 1535, 6, 852723, 119, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612334, 140, 3, 157494, 248, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1231", 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1355026, 573, 1, 699569, 64, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (253319, 140, 2, 1285189, 282, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%795", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1139936, 85, 5, 299258, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1380", 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287681, 1514, 4, 328077, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1287", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1158065, 454, 3, 21875, 346, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%400", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944084, 562, 2, 1276692, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1534250, 1166, 3, 124300, 267, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (389598, 1142, 1, 147354, 43, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%476", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (46374, 889, 3, 424467, 220, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%213", 0, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (137478, 32, 6, 268600, 210, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124395, 1070, 4, 43806, 151, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (795855, 1132, 5, 841195, 79, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1435", 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (394475, 772, 6, 464268, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%579", 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (571684, 380, 2, 1259080, 428, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%733", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254605, 790, 3, 285119, 440, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863815, 1207, 5, 1076598, 371, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%310", 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (897417, 908, 1, 1161627, 484, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1279", 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692952, 856, 2, 736815, 257, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233471, 1126, 1, 1103753, 411, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696410, 462, 4, 29225, 486, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%133", 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1020494, 1399, 1, 1379839, 176, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428522, 1295, 3, 15298, 31, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%184", 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323563, 1118, 2, 897373, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1491", 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94184, 1497, 3, 283493, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%378", 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955258, 815, 1, 87148, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1516", 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1354275, 839, 2, 1333228, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%543", 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (7857, 992, 1, 94920, 478, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90762, 619, 5, 246568, 279, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1346587, 682, 3, 1024552, 59, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1156171, 930, 6, 362162, 30, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952684, 440, 1, 1012414, 448, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430255, 1119, 4, 492343, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%468", 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (115020, 454, 5, 31422, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1028", 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (856040, 98, 3, 1245231, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1309", 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523539, 1545, 3, 1077026, 229, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%457", 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478348, 1041, 1, 815123, 262, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1103", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (32141, 1503, 5, 1332217, 106, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%760", 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (808603, 1043, 2, 1303077, 24, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%359", 1, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (861060, 13, 3, 165406, 42, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%929", 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1421697, 1004, 1, 568085, 466, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%556", 0, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1091115, 1540, 6, 1248284, 236, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876803, 914, 5, 967749, 159, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (271983, 282, 2, 464135, 39, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%484", 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1073699, 603, 1, 1339877, 154, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10429, 832, 3, 1308331, 359, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972649, 1000, 6, 1319703, 10, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1118", 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429182, 852, 3, 895789, 404, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (607651, 53, 5, 1188721, 59, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%649", 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1416957, 1434, 1, 1042388, 29, 0, NULL, 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012283, 1132, 2, 1344846, 359, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660790, 384, 4, 678517, 230, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1006436, 1007, 4, 1306050, 304, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (737558, 119, 5, 1343006, 374, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1556", 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457704, 1218, 4, 1078054, 248, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%952", 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198597, 578, 1, 592885, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%684", 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82873, 1438, 5, 774116, 133, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (306603, 702, 6, 534224, 162, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (796160, 556, 2, 330126, 436, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1435760, 1045, 4, 984769, 177, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%329", 0, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (502975, 56, 2, 290676, 210, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1480", 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (805498, 442, 4, 737700, 484, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625683, 743, 2, 289274, 488, 0, NULL, 0, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1002412, 952, 5, 1101727, 367, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (232749, 111, 2, 612092, 498, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1410", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168727, 224, 4, 1181299, 264, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%592", 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058261, 1084, 2, 1259445, 344, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254384, 1363, 3, 780738, 171, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%889", 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316069, 497, 3, 520457, 12, 0, NULL, 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575615, 1115, 2, 1035079, 322, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (446438, 584, 6, 1318999, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (698169, 70, 2, 914472, 59, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%474", 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (81084, 1013, 6, 397689, 215, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183105, 927, 2, 230470, 254, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149127, 1361, 4, 639202, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%898", 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (709598, 669, 5, 393378, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1475", 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692841, 1355, 3, 782861, 376, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (290478, 542, 6, 1378257, 378, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1182", 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (222779, 1500, 1, 386313, 383, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1007", 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338008, 1175, 5, 568068, 376, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%6", 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083426, 782, 5, 355900, 53, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579317, 941, 6, 1226425, 344, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916955, 763, 5, 989584, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%427", 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (559571, 229, 3, 314597, 256, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%49", 1, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (62925, 300, 4, 532792, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%738", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408923, 682, 1, 1050802, 114, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1191", 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (738292, 16, 4, 1184955, 277, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455514, 1087, 2, 1335963, 30, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (655938, 595, 5, 1179096, 399, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%716", 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153438, 974, 2, 1188259, 175, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (486686, 658, 2, 706, 389, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%45", 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (870472, 120, 1, 563194, 154, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1116167, 1231, 6, 265590, 222, 0, NULL, 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904671, 624, 1, 93497, 457, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1395595, 864, 2, 1028333, 57, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (949791, 1067, 2, 1352536, 475, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1279507, 225, 4, 1339014, 389, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1004941, 1276, 3, 1155915, 346, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%664", 0, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1159506, 1489, 2, 1160087, 496, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%550", 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (837039, 558, 1, 1177215, 331, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660740, 852, 6, 1217396, 391, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1494960, 931, 5, 1048057, 200, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383491, 149, 5, 101593, 9, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1063544, 1507, 5, 1411960, 433, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1544", 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (202854, 792, 3, 601033, 68, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072153, 1105, 5, 1130183, 233, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708320, 881, 5, 1200667, 166, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237263, 1191, 4, 1222689, 144, 0, NULL, 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817237, 273, 5, 1009709, 471, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1013", 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1063033, 1376, 4, 918351, 118, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%240", 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (336289, 1297, 3, 893410, 339, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316066, 981, 5, 50863, 420, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255220, 1058, 5, 352216, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%572", 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621407, 810, 6, 708662, 253, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (518078, 1531, 3, 297246, 477, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (173163, 1445, 4, 55378, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%843", 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68846, 1336, 5, 881051, 378, 0, NULL, 1, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (514548, 30, 5, 369285, 348, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1230089, 589, 2, 16550, 312, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%914", 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1032667, 699, 6, 1375595, 235, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (647902, 557, 1, 1243052, 55, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%846", 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360959, 1554, 6, 280142, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%193", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (945983, 1370, 6, 138742, 313, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316127, 789, 5, 1118111, 291, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307033, 54, 3, 846665, 358, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (479150, 136, 5, 862290, 492, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1371352, 502, 5, 192706, 88, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%437", 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1195514, 346, 6, 262474, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 1, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1059062, 804, 6, 156454, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%460", 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476190, 776, 6, 1399297, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1502", 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (203886, 285, 2, 837876, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%520", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466745, 741, 4, 463924, 80, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857580, 1246, 5, 657850, 393, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1209", 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (577201, 893, 4, 1146723, 332, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (144766, 747, 3, 779776, 88, 0, NULL, 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (785280, 422, 1, 675661, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1319", 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (447937, 1055, 5, 1251585, 432, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%601", 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1311792, 16, 1, 1349, 249, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1246", 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1463863, 1456, 4, 1051690, 303, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%16", 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252410, 529, 4, 1077381, 414, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (946562, 1540, 2, 1337447, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%813", 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998265, 389, 4, 1101047, 439, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%103", 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1013661, 1540, 6, 319357, 36, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (409964, 894, 1, 1073472, 381, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (437877, 840, 5, 326908, 124, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%590", 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1036835, 709, 6, 1402891, 482, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1145", 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (100736, 1137, 2, 929472, 287, 0, NULL, 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (549978, 1227, 1, 656719, 70, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (339653, 107, 3, 1298235, 463, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (679001, 1123, 6, 492419, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%918", 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (961323, 57, 3, 718896, 100, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%287", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1419537, 1543, 3, 917839, 431, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%180", 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243547, 1051, 4, 233906, 174, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (474672, 111, 1, 506854, 139, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%975", 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404036, 1522, 5, 1334453, 5, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%175", 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (54972, 1087, 5, 1242809, 103, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%561", 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (591080, 330, 2, 260287, 308, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381306, 1410, 3, 763653, 319, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383348, 709, 6, 415340, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%211", 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1393970, 782, 2, 765871, 15, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%811", 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1008984, 1284, 6, 453703, 170, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1156", 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501851, 1165, 6, 367196, 72, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1551", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (507836, 1361, 4, 347832, 364, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%110", 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (210735, 262, 6, 1195641, 60, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976533, 1307, 4, 1285423, 462, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%969", 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1432563, 616, 3, 1287524, 296, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%430", 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1052581, 340, 5, 64419, 322, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1225", 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1530683, 749, 3, 918281, 405, 0, NULL, 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1505033, 844, 5, 1080108, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%201", 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1229500, 1126, 6, 727178, 466, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%492", 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1137762, 1459, 5, 1056370, 445, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (33334, 379, 1, 829306, 267, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%299", 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237028, 856, 2, 1327353, 99, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (386886, 397, 3, 1202358, 102, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381675, 911, 5, 1146339, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1088", 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (118909, 810, 1, 675967, 35, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622496, 1490, 5, 54084, 220, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (594510, 1502, 2, 235003, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%675", 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1294730, 1253, 1, 826700, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%811", 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964850, 607, 3, 449227, 14, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (468383, 1012, 2, 1363777, 390, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75625, 1177, 3, 983462, 107, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1505", 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (755345, 210, 5, 394182, 281, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%646", 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801944, 1497, 6, 643699, 90, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%868", 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1214623, 448, 1, 1297816, 76, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%215", 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1200375, 1256, 3, 241645, 69, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1499", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44155, 349, 2, 376120, 338, 0, NULL, 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271298, 670, 3, 1418586, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%155", 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (620737, 1103, 6, 1204612, 175, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863642, 796, 5, 1035965, 360, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%533", 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (838830, 443, 3, 1228837, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1511", 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (832634, 872, 2, 1070226, 17, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (577711, 460, 3, 238461, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1490", 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1027931, 532, 6, 890693, 421, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%449", 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239012, 1051, 5, 246614, 62, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (880750, 841, 6, 976011, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%564", 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076761, 387, 3, 131042, 151, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265972, 324, 5, 348607, 287, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1315055, 104, 1, 1220377, 304, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (53626, 673, 6, 957654, 128, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%387", 1, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1383583, 156, 3, 34460, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1416", 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072542, 330, 5, 299103, 333, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1182448, 159, 3, 1218966, 23, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (506813, 737, 4, 34524, 208, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1212", 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1331659, 551, 1, 442048, 259, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (977283, 244, 5, 122102, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1104", 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (647814, 76, 1, 168296, 251, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%402", 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (842201, 541, 4, 1035939, 99, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (103921, 49, 2, 521241, 484, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (538865, 329, 4, 279869, 148, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (380310, 1346, 2, 848843, 1, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085541, 91, 4, 9157, 183, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%420", 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1049860, 503, 3, 310887, 479, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%73", 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124007, 1269, 4, 881469, 440, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1078206, 1427, 1, 242853, 133, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (55560, 560, 1, 567872, 274, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%25", 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313081, 1375, 3, 984944, 34, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49647, 1270, 1, 1071704, 138, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1098", 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (331501, 604, 1, 910135, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1293", 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (611508, 1295, 1, 99234, 453, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1399", 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1158756, 1259, 5, 1238765, 276, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (438897, 27, 2, 610516, 441, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1116952, 1275, 2, 876716, 90, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (632838, 14461, 6, 1164464, 59, 0, NULL, 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814637, 4911, 6, 437015, 282, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (408375, 10005, 6, 119004, 444, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404229, 12002, 6, 951981, 68, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1082150, 7288, 6, 1365272, 28, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (295221, 11463, 6, 774941, 267, 0, NULL, 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278478, 9449, 6, 985750, 484, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (600266, 16200, 6, 1326040, 222, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998832, 10344, 6, 532306, 432, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221450, 6520, 6, 1234240, 482, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164180, 16934, 6, 1391139, 452, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381698, 10359, 6, 1379861, 160, 0, NULL, 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323149, 12595, 6, 416583, 465, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1246345, 6601, 6, 283638, 460, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86756, 8562, 6, 898080, 409, 0, NULL, 0, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176148, 15990, 6, 312017, 492, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1177171, 3209, 6, 1144305, 197, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (730768, 1893, 6, 1305511, 139, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1160097, 15650, 6, 738955, 349, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (27274, 10775, 6, 1227999, 43, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379313, 8503, 6, 136879, 176, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973247, 2552, 6, 943078, 67, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (847159, 3072, 6, 1343511, 471, 0, NULL, 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (967240, 16664, 6, 249543, 346, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1417014, 16149, 6, 1153637, 18, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975383, 8579, 6, 81265, 325, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457505, 12404, 6, 18800, 149, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (532837, 12528, 6, 812768, 166, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (289436, 2140, 6, 148453, 31, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (79891, 8420, 6, 1048134, 456, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658306, 4968, 6, 280247, 248, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217338, 5642, 6, 540425, 179, 0, NULL, 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (919145, 16196, 6, 608278, 259, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972394, 12904, 6, 1169444, 146, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (238490, 9526, 6, 1372473, 288, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931939, 13268, 6, 840968, 267, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1188521, 8549, 6, 277148, 279, 0, NULL, 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043017, 5075, 6, 1080492, 89, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (943866, 15628, 6, 1371910, 102, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (989071, 5078, 6, 1288955, 371, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1548232, 10966, 6, 186565, 437, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (947019, 6491, 6, 1287629, 84, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (582692, 11599, 6, 476661, 389, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1089512, 11245, 6, 219993, 285, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (128144, 7814, 6, 670818, 342, 0, NULL, 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483436, 9825, 6, 875002, 55, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699610, 8077, 6, 818784, 108, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429488, 6217, 6, 244364, 60, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49667, 4816, 6, 1242169, 299, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (864602, 4064, 6, 1359349, 58, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630062, 2998, 6, 63198, 300, 0, NULL, 1, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1075587, 14715, 6, 1039362, 174, 0, NULL, 1, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186378, 4577, 6, 964642, 5, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221184, 4557, 6, 1212435, 46, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817316, 15206, 6, 254821, 262, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177530, 16679, 6, 1312703, 396, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487201, 13370, 6, 1416002, 477, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (739660, 13483, 6, 390800, 113, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (673818, 11369, 6, 1294633, 224, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400902, 14375, 6, 371305, 79, 0, NULL, 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (837282, 5487, 6, 161458, 454, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (680410, 2633, 6, 342124, 58, 0, NULL, 0, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (553958, 14191, 6, 710381, 152, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570843, 13956, 6, 1293346, 239, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398897, 6836, 6, 538541, 238, 0, NULL, 0, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151469, 14041, 6, 318374, 213, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876381, 16498, 6, 581632, 230, 0, NULL, 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (937977, 13633, 6, 14440, 239, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415403, 5083, 6, 583651, 479, 0, NULL, 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (232851, 14307, 6, 127728, 231, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (574472, 3811, 6, 1002952, 241, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (922041, 9690, 6, 170199, 7, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055205, 5614, 6, 533996, 489, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (351395, 3026, 6, 780843, 388, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458946, 2427, 6, 1195017, 127, 0, NULL, 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483088, 7120, 6, 1389524, 152, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733328, 6448, 6, 266609, 121, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (64792, 9179, 6, 400377, 354, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1548038, 6069, 6, 1152907, 9, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (703348, 8212, 6, 442577, 311, 0, NULL, 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411191, 7365, 6, 778559, 495, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287812, 9357, 6, 502640, 236, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708131, 6232, 6, 443451, 462, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1099936, 14805, 6, 34449, 409, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390737, 11459, 6, 1271566, 470, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (17280, 7833, 6, 816273, 261, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1050808, 12571, 6, 35471, 391, 0, NULL, 1, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1551275, 10444, 6, 828358, 259, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381394, 6626, 6, 647513, 300, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1347108, 9095, 6, 1319944, 51, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (333794, 14603, 6, 85027, 179, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (114135, 4504, 6, 359773, 437, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (663507, 11587, 6, 996001, 155, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612458, 5323, 6, 43150, 66, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (78270, 8859, 6, 558360, 49, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1333569, 8176, 6, 897020, 398, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888104, 16089, 6, 1409382, 414, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (157532, 13443, 6, 580324, 347, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244087, 6430, 6, 1347298, 172, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (470686, 14596, 6, 1332602, 403, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501507, 4899, 6, 239855, 156, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (554914, 11143, 6, 159229, 165, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (758493, 4544, 6, 1373714, 383, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (869677, 13469, 6, 1159619, 153, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349742, 13322, 6, 1306573, 254, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (176906, 14710, 6, 1275407, 393, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350418, 11961, 6, 282147, 421, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1343552, 8759, 6, 479300, 490, 0, NULL, 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (253226, 7750, 6, 217468, 457, 0, NULL, 1, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (589564, 6303, 6, 650237, 42, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1551927, 5496, 6, 552622, 371, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1324497, 1958, 6, 1126434, 139, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1495199, 9304, 6, 244715, 225, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (521695, 3218, 6, 223745, 167, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408625, 13261, 6, 163830, 254, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (113538, 3493, 6, 179377, 488, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (885199, 7853, 6, 306404, 223, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1309635, 2825, 6, 1187673, 29, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1516980, 6876, 6, 617953, 141, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (851956, 11732, 6, 952378, 263, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (227879, 12260, 6, 715598, 71, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428391, 7570, 6, 440779, 427, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179501, 16169, 6, 937938, 151, 0, NULL, 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1140464, 15282, 6, 958255, 419, 0, NULL, 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255353, 9131, 6, 934611, 117, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (161533, 12240, 6, 1088214, 392, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1471103, 14318, 6, 816383, 495, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (52668, 1936, 6, 762530, 278, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1462564, 4481, 6, 690833, 462, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407852, 15478, 6, 143845, 186, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481518, 16898, 6, 327119, 99, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1031833, 13905, 6, 1206828, 351, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86782, 11046, 6, 638267, 276, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1200655, 5311, 6, 293900, 142, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (883551, 1801, 6, 947444, 207, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1314164, 1931, 6, 730813, 430, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (130042, 11149, 6, 532684, 241, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1293381, 4562, 6, 686970, 300, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398708, 3960, 6, 796579, 191, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (194765, 2951, 6, 833734, 85, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (124456, 14364, 6, 285470, 212, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (301322, 16052, 6, 662573, 38, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399115, 10887, 6, 632677, 168, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (291815, 2563, 6, 1164858, 58, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1173554, 4187, 6, 175010, 115, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193734, 14623, 6, 2749, 227, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1342800, 2811, 6, 273631, 48, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179180, 9998, 6, 282381, 220, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (40294, 5337, 6, 139138, 158, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236868, 11636, 6, 276676, 477, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177087, 11985, 6, 448228, 176, 0, NULL, 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1537152, 12091, 6, 114801, 126, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90909, 14594, 6, 426150, 95, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254207, 14951, 6, 978605, 50, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944219, 7202, 6, 1017151, 371, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (172322, 13046, 6, 929769, 441, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454211, 8186, 6, 80474, 171, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (271421, 6772, 6, 1354363, 473, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (164804, 10582, 6, 551085, 285, 0, NULL, 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955593, 5167, 6, 27239, 44, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (235764, 11388, 6, 720509, 412, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (509742, 14428, 6, 644431, 98, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754627, 2917, 6, 340390, 449, 0, NULL, 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (683036, 3348, 6, 301583, 167, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (254266, 10853, 6, 1285699, 181, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29644, 11503, 6, 525097, 7, 0, NULL, 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (396780, 12849, 6, 505842, 32, 0, NULL, 1, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (327880, 9656, 6, 994178, 210, 0, NULL, 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1069715, 1585, 6, 972838, 268, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1326579, 6296, 6, 1335181, 232, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151540, 6338, 6, 1182697, 121, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1249659, 11962, 6, 43524, 286, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1515776, 3508, 6, 472167, 342, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1521488, 4356, 6, 320584, 472, 0, NULL, 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (58707, 4415, 6, 1118134, 196, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (391410, 13647, 6, 484521, 308, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1110408, 12503, 6, 761074, 356, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (60211, 2310, 6, 976452, 126, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411992, 2349, 6, 912664, 129, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (277344, 4876, 6, 937561, 57, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (347090, 13352, 6, 125192, 134, 0, NULL, 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (990270, 10850, 6, 565076, 278, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (800332, 6294, 6, 438043, 371, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444202, 9417, 6, 975476, 458, 0, NULL, 0, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (214984, 10142, 6, 412493, 152, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1392392, 16675, 6, 108347, 336, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224012, 7938, 6, 888417, 59, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (19290, 3762, 6, 1239683, 399, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1360798, 12173, 6, 753598, 160, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140727, 16874, 6, 253543, 420, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376049, 13645, 6, 322284, 408, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1533206, 14408, 6, 727118, 235, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (165600, 8037, 6, 303865, 208, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534680, 1818, 6, 678718, 465, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429667, 14630, 6, 604537, 49, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786688, 13477, 6, 107857, 296, 0, NULL, 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454480, 12999, 6, 974649, 394, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265961, 13874, 6, 609682, 197, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1417998, 5050, 6, 1312752, 25, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1459614, 5761, 6, 365818, 446, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252292, 4356, 6, 314017, 2, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1190608, 9282, 6, 1236200, 394, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (993134, 3920, 6, 194410, 41, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888950, 15781, 6, 1291595, 63, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (749120, 5469, 6, 295558, 319, 0, NULL, 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (61386, 11007, 6, 399661, 2, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534144, 8240, 6, 980492, 291, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233763, 6799, 6, 120594, 264, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1007540, 4029, 6, 508695, 398, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (450637, 11298, 6, 1137953, 493, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (636438, 3857, 6, 290251, 438, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (345462, 8893, 6, 116079, 377, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376777, 7403, 6, 215638, 235, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (909620, 4494, 6, 348217, 352, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420557, 2733, 6, 1367469, 4, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (78983, 5595, 6, 311932, 332, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1086388, 11543, 6, 1086072, 96, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1369530, 16621, 6, 276056, 40, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (480425, 16289, 6, 897800, 161, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (965791, 2360, 6, 1019304, 384, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (656193, 5130, 6, 1369829, 403, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625564, 15521, 6, 1280199, 410, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388948, 7324, 6, 1362975, 406, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (824824, 4423, 6, 975716, 326, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (781005, 8948, 6, 32736, 268, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614517, 1655, 6, 83991, 116, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236232, 12510, 6, 978382, 33, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (606, 8962, 6, 688188, 440, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (934376, 4100, 6, 1172944, 144, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1236110, 2126, 6, 903367, 225, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1336047, 3591, 6, 544169, 350, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (713211, 4766, 6, 820735, 257, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (76158, 10431, 6, 705321, 437, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954050, 2551, 6, 1023303, 316, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (358, 3200, 6, 909597, 194, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (712292, 12317, 6, 343748, 258, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998950, 10908, 6, 246191, 294, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328928, 3149, 6, 112401, 1, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1330290, 9448, 6, 505348, 130, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1168916, 12712, 6, 1116406, 192, 0, NULL, 1, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1031835, 8999, 6, 1082177, 38, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (898480, 16162, 6, 14144, 31, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1352146, 6168, 6, 692744, 289, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (2791, 16779, 6, 1362435, 96, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1004583, 13055, 6, 1418719, 491, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081083, 8474, 6, 1257361, 292, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146294, 12071, 6, 1003382, 261, 0, NULL, 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (417799, 16338, 6, 1055629, 472, 0, NULL, 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (593065, 8268, 6, 1348197, 423, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1068322, 9332, 6, 586811, 64, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (789335, 3144, 6, 1091542, 434, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (422331, 4134, 6, 197816, 167, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383401, 4234, 6, 368166, 1, 0, NULL, 1, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (8442, 4455, 6, 922601, 5, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622382, 5138, 6, 543139, 242, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236601, 12772, 6, 50769, 8, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (362200, 10558, 6, 607252, 407, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (783260, 6320, 6, 18035, 229, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (420891, 12207, 6, 410628, 465, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707531, 2186, 6, 1244460, 125, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1499579, 14708, 6, 23421, 167, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087074, 11669, 6, 642276, 146, 0, NULL, 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (292710, 5551, 6, 983594, 93, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (9425, 5235, 6, 977538, 8, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (648786, 2274, 6, 1310575, 168, 0, NULL, 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1309523, 15990, 6, 413776, 381, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1339382, 3631, 6, 882576, 47, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552560, 8672, 6, 1237589, 131, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1057212, 13771, 6, 268101, 469, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (823112, 2996, 6, 392096, 37, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1203300, 12044, 6, 107615, 73, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1524038, 6122, 6, 546782, 313, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (719034, 10610, 6, 56298, 302, 0, NULL, 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307707, 12298, 6, 1175309, 172, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (830669, 10029, 6, 294801, 266, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151862, 14585, 6, 955622, 460, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (995338, 7494, 6, 788431, 148, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552172, 4687, 6, 104644, 305, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003989, 10545, 6, 112563, 459, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (468961, 2795, 6, 1163976, 307, 0, NULL, 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (599441, 9429, 6, 772938, 240, 0, NULL, 0, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1397211, 8417, 6, 408494, 107, 0, NULL, 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1292116, 4267, 6, 859906, 77, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236251, 8862, 6, 920084, 297, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (141204, 16165, 6, 652346, 191, 0, NULL, 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (499234, 14951, 6, 233113, 390, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307069, 12851, 6, 210788, 393, 0, NULL, 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (308854, 15826, 6, 362813, 80, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1045047, 13626, 6, 440358, 257, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1468968, 1944, 6, 1332253, 213, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430328, 13882, 6, 481991, 246, 0, NULL, 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1336758, 16473, 6, 150532, 420, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622554, 15395, 6, 692272, 243, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1421659, 8899, 6, 499375, 414, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (279625, 16945, 6, 1273780, 394, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265635, 16121, 6, 1191187, 250, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (422055, 15057, 6, 839606, 279, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51589, 4112, 6, 1089590, 203, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (220718, 2536, 6, 1196665, 111, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1166023, 13741, 6, 497962, 2, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1496889, 16294, 6, 1361791, 191, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532304, 11162, 6, 1093025, 409, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (726969, 11394, 6, 1255024, 323, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25647, 10791, 6, 746007, 81, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973985, 6507, 6, 978604, 227, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357149, 15406, 6, 829306, 318, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1010603, 2755, 6, 216064, 118, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1341154, 4711, 6, 476326, 106, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357431, 3736, 6, 197551, 344, 0, NULL, 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043468, 10974, 6, 1408372, 348, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (537925, 13630, 6, 796284, 465, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (619880, 16211, 6, 503788, 405, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (994386, 16098, 6, 234466, 289, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (11786, 5912, 6, 1172373, 366, 0, NULL, 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (602849, 12071, 6, 979445, 75, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (263982, 9479, 6, 1122190, 409, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (7936, 9574, 6, 856906, 127, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308778, 5510, 6, 1066150, 380, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (252769, 10466, 6, 102915, 109, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198203, 11243, 6, 1188011, 395, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (330490, 2965, 6, 203897, 11, 0, NULL, 1, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1440345, 7504, 6, 504144, 187, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481334, 11589, 6, 1088442, 93, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (511396, 2395, 6, 1129, 108, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1470543, 8231, 6, 1051120, 79, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1131970, 16410, 6, 61969, 492, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (665635, 6030, 6, 703657, 297, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1100499, 10193, 6, 92944, 293, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170059, 10432, 6, 605068, 90, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174435, 13221, 6, 759137, 477, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1328233, 8858, 6, 896017, 89, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1093413, 12981, 6, 1097529, 364, 0, NULL, 1, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (119878, 15655, 6, 603126, 368, 0, NULL, 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108981, 13172, 6, 960358, 209, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1533432, 4834, 6, 399994, 257, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (43638, 9127, 6, 1300433, 404, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012546, 9162, 6, 1363303, 227, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (732679, 15188, 6, 408734, 109, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1373064, 4326, 6, 1019932, 353, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1229696, 5026, 6, 460810, 486, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476783, 4750, 6, 132868, 16, 0, NULL, 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501882, 6130, 6, 435455, 422, 0, NULL, 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038990, 16305, 6, 987266, 488, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085729, 5373, 6, 313820, 473, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177805, 6472, 6, 1040369, 40, 0, NULL, 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792895, 6550, 6, 612373, 50, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349602, 6765, 6, 132165, 55, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (316336, 13050, 6, 937352, 433, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765644, 3312, 6, 1001341, 410, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (491136, 1853, 6, 272900, 18, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (117656, 6158, 6, 537122, 449, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (211963, 12472, 6, 1249683, 207, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49208, 9791, 6, 297969, 275, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22640, 12599, 6, 1086778, 37, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1190978, 12503, 6, 1249939, 425, 0, NULL, 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1508980, 3396, 6, 206619, 114, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (587096, 5270, 6, 980030, 449, 0, NULL, 0, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (79517, 9599, 6, 718554, 495, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (597901, 12337, 6, 1214769, 1, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630628, 3673, 6, 1376306, 50, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1389909, 12998, 6, 1254571, 201, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018270, 6491, 6, 215211, 441, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621427, 7964, 6, 72898, 240, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501275, 15125, 6, 103804, 266, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717155, 7021, 6, 1315401, 292, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1034088, 11408, 6, 92419, 7, 0, NULL, 0, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1186929, 11633, 6, 807401, 260, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (619322, 3658, 6, 472050, 482, 0, NULL, 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126402, 9248, 6, 809696, 58, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (24914, 7849, 6, 814403, 471, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (283963, 3413, 6, 459001, 386, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (757481, 11495, 6, 357072, 436, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1080738, 16817, 6, 800828, 91, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (456693, 13656, 6, 623365, 110, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (885804, 4135, 6, 761921, 252, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (84409, 12382, 6, 581228, 108, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (704890, 15215, 6, 533805, 37, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1395427, 4556, 6, 607942, 143, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (791806, 3094, 6, 136999, 151, 0, NULL, 1, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1197387, 10850, 6, 395687, 247, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (759055, 12901, 6, 957695, 259, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369438, 15792, 6, 18706, 412, 0, NULL, 1, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1189842, 7523, 6, 828299, 115, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952278, 7078, 6, 579901, 90, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94304, 14691, 6, 701623, 107, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263401, 3893, 6, 530499, 170, 0, NULL, 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (400939, 16459, 6, 529690, 327, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1208115, 3532, 6, 67177, 229, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817260, 14379, 6, 918831, 178, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399901, 13392, 6, 526802, 499, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733448, 8017, 6, 1410295, 486, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (337583, 2689, 6, 812138, 475, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1343034, 13867, 6, 1156530, 206, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012626, 3791, 6, 669478, 162, 0, NULL, 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1296586, 6867, 6, 1217053, 94, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076246, 16585, 6, 332956, 62, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (829929, 9628, 6, 880220, 453, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (415477, 16619, 6, 581031, 287, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165498, 7392, 6, 205825, 118, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660914, 7324, 6, 470859, 38, 0, NULL, 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1273860, 2989, 6, 359675, 82, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625402, 4689, 6, 823731, 85, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689307, 5344, 6, 593759, 308, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455530, 7251, 6, 1113905, 211, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271724, 1571, 6, 1022014, 83, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278204, 10152, 6, 911280, 57, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534406, 12628, 6, 693817, 297, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1106809, 3953, 6, 588014, 425, 0, NULL, 1, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221703, 5082, 6, 290256, 188, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (444844, 13724, 6, 1245649, 409, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (148178, 10356, 6, 398232, 15, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626612, 15115, 6, 675284, 83, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217171, 5443, 6, 181200, 343, 0, NULL, 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (673683, 7147, 6, 866560, 125, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540273, 9810, 6, 48759, 113, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (279564, 4343, 6, 481984, 206, 0, NULL, 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (590209, 14434, 6, 283911, 53, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009661, 7382, 6, 769425, 374, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94671, 5140, 6, 781587, 86, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (212365, 14330, 6, 987040, 334, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628743, 11689, 6, 30799, 228, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6082, 9242, 6, 1209814, 310, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75540, 9307, 6, 1292908, 244, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (981009, 13735, 6, 573407, 113, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (54165, 14242, 6, 1076158, 387, 0, NULL, 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1525827, 2671, 6, 358195, 160, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (760944, 4303, 6, 1094431, 342, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164244, 13631, 6, 1187311, 116, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (586395, 11881, 6, 764051, 118, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51119, 13738, 6, 1406663, 266, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (596587, 10441, 6, 1315633, 108, 0, NULL, 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539334, 8979, 6, 524948, 322, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1222717, 8236, 6, 1131956, 458, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1013566, 15692, 6, 192921, 377, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (951533, 13431, 6, 468548, 222, 0, NULL, 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (510980, 14422, 6, 127758, 289, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (229699, 7330, 6, 457054, 269, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350077, 16381, 6, 1148912, 221, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1276, 7977, 6, 816314, 83, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072074, 15307, 6, 1137212, 267, 0, NULL, 1, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (444100, 9974, 6, 888006, 297, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (119247, 2174, 6, 1402834, 233, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (62139, 12311, 6, 589958, 7, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (843616, 12472, 6, 196811, 281, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108772, 8837, 6, 1377217, 150, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (803052, 14406, 6, 929740, 96, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (304143, 7882, 6, 491557, 280, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126398, 5715, 6, 589941, 389, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92504, 9811, 6, 149190, 60, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1235438, 15244, 6, 305793, 254, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070544, 14088, 6, 875007, 145, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (315149, 11035, 6, 823957, 163, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (700801, 12522, 6, 1234745, 146, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376203, 14004, 6, 204115, 275, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (702216, 5491, 6, 866936, 244, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (675850, 1583, 6, 913083, 148, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1048282, 14596, 6, 1332047, 427, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058743, 14869, 6, 1408395, 303, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1446588, 8449, 6, 743433, 175, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (852344, 3299, 6, 606552, 339, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44807, 3231, 6, 847688, 418, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (356015, 10164, 6, 233298, 68, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281606, 11875, 6, 59323, 155, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (517774, 8982, 6, 388954, 317, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (245328, 7083, 6, 432578, 62, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717102, 7732, 6, 689804, 305, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (299257, 11979, 6, 229962, 30, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455249, 4380, 6, 158593, 83, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (102148, 9464, 6, 930205, 477, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (572538, 9204, 6, 1056176, 219, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487413, 12046, 6, 1020485, 254, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (267014, 7261, 6, 331769, 486, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (161454, 6750, 6, 173069, 90, 0, NULL, 1, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1447962, 12083, 6, 1315362, 7, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1405041, 12286, 6, 119229, 281, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916262, 15104, 6, 1262817, 338, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (773700, 11068, 6, 786304, 123, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407649, 12340, 6, 478754, 380, 0, NULL, 0, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786233, 4005, 6, 110503, 143, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (539238, 13105, 6, 1288481, 73, 0, NULL, 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (159938, 10968, 6, 430843, 18, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (261516, 5272, 6, 1223659, 212, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (835262, 15885, 6, 667582, 477, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (222795, 15669, 6, 666960, 161, 0, NULL, 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964241, 15254, 6, 1265054, 21, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (516027, 2277, 6, 647804, 350, 0, NULL, 0, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754809, 13932, 6, 93152, 296, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (72718, 13951, 6, 472530, 370, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (403725, 7787, 6, 1415505, 86, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (434342, 3290, 6, 1009504, 191, 0, NULL, 0, 86);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1479309, 4176, 6, 188167, 49, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (685556, 10401, 6, 1379621, 204, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381766, 8003, 6, 917170, 431, 0, NULL, 1, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (71296, 11486, 6, 707713, 350, 0, NULL, 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (112158, 9548, 6, 788861, 402, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532948, 10087, 6, 833488, 103, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (987761, 5579, 6, 671460, 464, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (844054, 9118, 6, 1129324, 197, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715756, 4078, 6, 432135, 97, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305101, 2211, 6, 230531, 169, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660458, 8775, 6, 1105505, 172, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (668282, 16216, 6, 981077, 88, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143021, 1880, 6, 234318, 288, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767421, 7295, 6, 831366, 488, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1282627, 4104, 6, 1400976, 77, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1171642, 7342, 6, 485318, 292, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (337904, 8794, 6, 883363, 367, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (24692, 2110, 6, 111144, 49, 0, NULL, 1, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715782, 7886, 6, 60512, 493, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140214, 13523, 6, 253137, 421, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (295327, 5154, 6, 570735, 277, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770259, 10541, 6, 635027, 497, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369649, 10104, 6, 1285911, 201, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (580684, 10545, 6, 867144, 119, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (485285, 12454, 6, 1098274, 434, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1506174, 2596, 6, 859050, 487, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003154, 16456, 6, 898797, 383, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1482116, 11025, 6, 590665, 88, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178796, 14227, 6, 831825, 382, 0, NULL, 1, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072728, 11348, 6, 561348, 146, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165900, 1777, 6, 1130051, 246, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (357875, 12031, 6, 1144431, 329, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976340, 10314, 6, 797955, 281, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876823, 5843, 6, 247601, 399, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (313443, 11015, 6, 1198894, 399, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (659903, 13475, 6, 1025113, 339, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (98408, 12590, 6, 1086093, 139, 0, NULL, 0, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (277441, 4218, 6, 1089503, 332, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (645517, 13662, 6, 774340, 442, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21017, 7190, 6, 1195587, 377, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (373704, 3607, 6, 487149, 356, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (248835, 6444, 6, 55917, 165, 0, NULL, 1, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1398158, 13820, 6, 855376, 477, 0, NULL, 1, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153001, 12901, 6, 1396830, 121, 0, NULL, 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151552, 16372, 6, 200308, 216, 0, NULL, 0, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (242132, 15944, 6, 283314, 139, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1553598, 8893, 6, 563741, 108, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707586, 12240, 6, 1220701, 299, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (675164, 14852, 6, 1342830, 369, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1169969, 13253, 6, 129532, 198, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1413178, 7355, 6, 246539, 479, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1526922, 10604, 6, 861271, 81, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (393550, 3163, 6, 840901, 185, 0, NULL, 0, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941315, 12429, 6, 447275, 434, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (912436, 4386, 6, 1039044, 275, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369519, 6962, 6, 275799, 466, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (80216, 15568, 6, 377467, 163, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455146, 10337, 6, 961397, 155, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1466358, 9587, 6, 1133572, 427, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1277402, 4782, 6, 993714, 141, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (9879, 12763, 6, 581976, 258, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579792, 11070, 6, 1328393, 83, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009568, 8115, 6, 870285, 123, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1436687, 9880, 6, 1160655, 104, 0, NULL, 0, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1290753, 1971, 6, 729173, 301, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49726, 10133, 6, 37618, 162, 0, NULL, 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (938889, 11735, 6, 571014, 450, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1113266, 15780, 6, 730262, 396, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (332741, 3743, 6, 468086, 170, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146540, 7936, 6, 1397783, 315, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183331, 6429, 6, 1277490, 10, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085569, 4453, 6, 154302, 116, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428510, 16501, 6, 485309, 454, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1101776, 6392, 6, 105806, 419, 0, NULL, 1, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1202073, 15782, 6, 623417, 413, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73898, 4500, 6, 887416, 77, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (152911, 16182, 6, 1117173, 240, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1382777, 5179, 6, 376579, 402, 0, NULL, 0, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064370, 14570, 6, 683809, 211, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (764478, 6214, 6, 16151, 62, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1378314, 6929, 6, 347055, 472, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (401671, 14858, 6, 203014, 251, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1365957, 3198, 6, 1403152, 295, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (404851, 8788, 6, 505163, 359, 0, NULL, 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954865, 14009, 6, 1348537, 469, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1535918, 13381, 6, 156046, 450, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466163, 5879, 6, 91782, 159, 0, NULL, 0, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1061514, 12205, 6, 1063881, 463, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1248500, 6518, 6, 1276481, 341, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1307265, 2874, 6, 290881, 290, 0, NULL, 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696524, 15134, 6, 506516, 315, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038410, 10056, 6, 678767, 311, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1092741, 6286, 6, 33526, 66, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363057, 12220, 6, 1391034, 89, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (405319, 12070, 6, 1299481, 393, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (269215, 5907, 6, 602353, 162, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1228679, 15205, 6, 949200, 375, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (421778, 13088, 6, 473409, 468, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233414, 1997, 6, 588456, 466, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (520633, 16342, 6, 263343, 426, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (966876, 2790, 6, 867363, 116, 0, NULL, 1, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (751711, 14618, 6, 400027, 403, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (624204, 7658, 6, 1098811, 493, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455925, 4429, 6, 1079126, 472, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (317670, 2784, 6, 619540, 484, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255240, 4538, 6, 65583, 78, 0, NULL, 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466071, 16170, 6, 1090922, 409, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (627078, 16152, 6, 278341, 330, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (510725, 12479, 6, 1263714, 411, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (517449, 11303, 6, 1132829, 415, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93459, 8442, 6, 1062299, 495, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055434, 1898, 6, 1096512, 495, 0, NULL, 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (347567, 11882, 6, 1279329, 239, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (368645, 14606, 6, 944048, 339, 0, NULL, 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707006, 11336, 6, 1104233, 26, 0, NULL, 1, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278635, 13561, 6, 438966, 37, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699146, 16324, 6, 561213, 258, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (957640, 4606, 6, 465861, 93, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193900, 11115, 6, 594465, 236, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153751, 2587, 6, 1093790, 468, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1186165, 14372, 6, 1094817, 352, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (705369, 13555, 6, 532518, 62, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (456285, 6009, 6, 499613, 420, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (500964, 1673, 6, 632774, 430, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (997295, 11709, 6, 171338, 117, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414377, 15413, 6, 473860, 194, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281470, 15999, 6, 363426, 111, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954334, 13402, 6, 415575, 277, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (207362, 16066, 6, 1384917, 281, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064637, 13488, 6, 955570, 69, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581297, 15888, 6, 884042, 96, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1377221, 16335, 6, 184552, 99, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (249279, 5677, 6, 242812, 449, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (357604, 15199, 6, 592339, 229, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814260, 16030, 6, 678186, 486, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1289842, 1685, 6, 532689, 270, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (745086, 2299, 6, 4412, 216, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904302, 7642, 6, 478513, 187, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792320, 1580, 6, 938613, 233, 0, NULL, 1, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064893, 3167, 6, 148417, 21, 0, NULL, 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1512401, 14780, 6, 429218, 363, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1184763, 4555, 6, 483126, 283, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1065857, 9483, 6, 1202483, 44, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (240756, 16235, 6, 1214321, 496, 0, NULL, 0, 14);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1117628, 5802, 6, 223274, 98, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398954, 3908, 6, 932709, 326, 0, NULL, 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765219, 15456, 6, 1241475, 424, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29747, 6014, 6, 646042, 171, 0, NULL, 1, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754773, 15629, 6, 270432, 319, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1117147, 11525, 6, 44497, 452, 0, NULL, 0, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (14769, 10385, 6, 758709, 356, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498487, 7504, 6, 285194, 75, 0, NULL, 0, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1185976, 15602, 6, 1337166, 2, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1071075, 11913, 6, 1306324, 296, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814561, 3538, 6, 1080130, 245, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (695822, 7198, 6, 106141, 189, 0, NULL, 1, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058910, 3493, 6, 813286, 123, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1180877, 13211, 6, 900221, 60, 0, NULL, 1, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (629320, 16906, 6, 118429, 254, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363302, 7189, 6, 679316, 123, 0, NULL, 1, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (782255, 16048, 6, 548569, 386, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1529347, 7977, 6, 41094, 419, 0, NULL, 1, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (826712, 8357, 6, 1153822, 350, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (540171, 14928, 6, 1115826, 134, 0, NULL, 0, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (877074, 16639, 6, 811976, 293, 0, NULL, 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (26833, 9448, 6, 186025, 144, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455830, 4530, 6, 207132, 447, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1363270, 2547, 6, 889298, 110, 0, NULL, 1, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (13128, 5523, 6, 244141, 74, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83131, 4612, 6, 374933, 98, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (133924, 10969, 6, 23696, 111, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (370622, 12793, 6, 377538, 87, 0, NULL, 0, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278919, 9129, 6, 630027, 59, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498063, 5648, 6, 1280173, 42, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513744, 6173, 6, 618956, 386, 0, NULL, 1, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1167621, 4860, 6, 1021558, 163, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1054531, 3176, 6, 451482, 82, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (900616, 11585, 6, 1137342, 29, 0, NULL, 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (924105, 9198, 6, 1213177, 64, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1195350, 3514, 6, 1159184, 456, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498053, 12899, 6, 1318714, 356, 0, NULL, 0, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (980353, 8612, 6, 884934, 399, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1282501, 2309, 6, 737889, 296, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1463516, 4096, 6, 1188673, 186, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (14029, 5143, 6, 890096, 418, 0, NULL, 0, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1161202, 4749, 6, 512275, 413, 0, NULL, 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1272401, 2484, 6, 487182, 312, 0, NULL, 1, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376518, 12516, 6, 331280, 342, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (320560, 16038, 6, 41149, 188, 0, NULL, 0, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29983, 6603, 6, 474412, 480, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660139, 2290, 6, 624587, 89, 0, NULL, 1, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (919779, 12125, 6, 778443, 195, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024552, 12724, 6, 1046465, 47, 0, NULL, 0, 65);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90456, 10021, 6, 758237, 382, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1253602, 3172, 6, 66318, 76, 0, NULL, 0, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (573142, 10542, 6, 1320905, 87, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1131701, 4006, 6, 151166, 240, 0, NULL, 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767069, 16581, 6, 255230, 354, 0, NULL, 0, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1304040, 9505, 6, 451979, 463, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1524593, 1683, 6, 938190, 201, 0, NULL, 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566084, 4503, 6, 1095084, 361, 0, NULL, 1, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (820226, 3411, 6, 391230, 476, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (548659, 8327, 6, 1131290, 260, 0, NULL, 0, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (325305, 6063, 6, 1141241, 431, 0, NULL, 1, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811024, 12411, 6, 1162539, 310, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1047953, 13163, 6, 251295, 281, 0, NULL, 0, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1346719, 4152, 6, 1199024, 73, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1215434, 12175, 6, 213366, 63, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93251, 16966, 6, 1227946, 257, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425595, 10612, 6, 488460, 1, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (709745, 1674, 6, 433762, 155, 0, NULL, 1, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408156, 9503, 6, 1137835, 219, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (324188, 1791, 6, 540792, 370, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (533553, 10508, 6, 1303985, 293, 0, NULL, 0, 52);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (316847, 7201, 6, 789849, 296, 0, NULL, 1, 4);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6457, 10096, 6, 235233, 287, 0, NULL, 0, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (85258, 10500, 6, 765718, 61, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (937115, 12242, 6, 933377, 281, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (561749, 14743, 6, 452264, 313, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (880445, 10456, 6, 831733, 289, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (500876, 14307, 6, 553602, 500, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (652065, 14387, 6, 44450, 191, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975629, 8286, 6, 522708, 128, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1472293, 14814, 6, 130534, 422, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (716221, 3493, 6, 1136553, 98, 0, NULL, 1, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (19130, 4475, 6, 1000129, 102, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (531771, 14185, 6, 734888, 369, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1383565, 13362, 6, 479814, 278, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (417516, 16360, 6, 875748, 298, 0, NULL, 0, 20);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (782833, 4980, 6, 97973, 77, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487550, 1898, 6, 532450, 28, 0, NULL, 0, 54);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (351412, 13071, 6, 1026217, 309, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1273579, 4700, 6, 541886, 26, 0, NULL, 1, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10974, 8894, 6, 842628, 115, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1187737, 3509, 6, 1060051, 278, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1268907, 16373, 6, 404253, 200, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (722279, 6900, 6, 513033, 318, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (887782, 12072, 6, 750718, 66, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689657, 15198, 6, 105696, 152, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404650, 9266, 6, 1016005, 214, 0, NULL, 1, 26);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (603472, 6704, 6, 520584, 425, 0, NULL, 1, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278234, 8876, 6, 337674, 497, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (38834, 9749, 6, 518721, 355, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193790, 13963, 6, 935246, 167, 0, NULL, 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414923, 14286, 6, 343432, 349, 0, NULL, 1, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (821799, 6110, 6, 567040, 275, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278552, 8641, 6, 930371, 338, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177230, 8094, 6, 387672, 103, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (854788, 3027, 6, 1399831, 3, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295888, 6665, 6, 134367, 369, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (810334, 8390, 6, 524512, 495, 0, NULL, 0, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174293, 5789, 6, 720905, 145, 0, NULL, 1, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68652, 9860, 6, 847184, 33, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (158770, 4325, 6, 347776, 135, 0, NULL, 0, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988161, 2539, 6, 113869, 104, 0, NULL, 1, 1);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (66230, 15108, 6, 901330, 357, 0, NULL, 0, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012811, 1706, 6, 776104, 260, 0, NULL, 1, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (423630, 15733, 6, 202473, 329, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1129781, 3758, 6, 103646, 229, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (367685, 11677, 6, 285605, 8, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (426430, 8036, 6, 659226, 11, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (98868, 13742, 6, 169133, 272, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388509, 2806, 6, 202936, 169, 0, NULL, 0, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (646155, 3879, 6, 180138, 171, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692232, 7910, 6, 89650, 66, 0, NULL, 0, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931339, 1905, 6, 249313, 367, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (248648, 2322, 6, 204663, 58, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1209806, 12383, 6, 1155383, 111, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (549256, 15779, 6, 709942, 167, 0, NULL, 1, 39);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236802, 13071, 6, 1081776, 288, 0, NULL, 1, 61);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (516426, 13754, 6, 112332, 403, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198262, 11007, 6, 1296730, 20, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (746564, 8904, 6, 71038, 452, 0, NULL, 0, 9);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259665, 4323, 6, 1420461, 98, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (343580, 15579, 6, 514583, 342, 0, NULL, 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243592, 11456, 6, 564892, 372, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1499306, 10748, 6, 152760, 202, 0, NULL, 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (314995, 2343, 6, 280466, 54, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287360, 9574, 6, 1832, 277, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1528646, 7909, 6, 95541, 445, 0, NULL, 0, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458812, 9902, 6, 782101, 8, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (589057, 6190, 6, 779374, 261, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400281, 10269, 6, 525356, 208, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (738474, 11255, 6, 1401479, 84, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1130402, 9116, 6, 1081207, 317, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767265, 7113, 6, 1064733, 495, 0, NULL, 1, 95);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193865, 4254, 6, 1020599, 337, 0, NULL, 0, 41);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (512654, 10598, 6, 350555, 231, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1225379, 2383, 6, 464280, 164, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (329759, 10592, 6, 1071258, 64, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162118, 3417, 6, 70466, 69, 0, NULL, 0, 59);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29028, 3675, 6, 400319, 247, 0, NULL, 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (260800, 13319, 6, 813714, 492, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689708, 9454, 6, 1218528, 303, 0, NULL, 1, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82585, 16581, 6, 817212, 52, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92699, 8873, 6, 1294241, 206, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (950943, 15672, 6, 792702, 405, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1338843, 3160, 6, 1192940, 387, 0, NULL, 0, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1128686, 13941, 6, 220097, 161, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566966, 2175, 6, 1093285, 344, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (438144, 3437, 6, 708367, 183, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (559207, 9540, 6, 792469, 415, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1233293, 15591, 6, 187854, 344, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481666, 5485, 6, 389887, 256, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (795806, 3011, 6, 148658, 94, 0, NULL, 1, 34);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (210427, 15811, 6, 1391088, 188, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1438282, 16152, 6, 1180743, 33, 0, NULL, 0, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1312391, 9155, 6, 526577, 331, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1302631, 10642, 6, 1098098, 253, 0, NULL, 1, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (201832, 8259, 6, 358590, 210, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1495714, 6207, 6, 856129, 371, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153521, 2817, 6, 1333885, 416, 0, NULL, 0, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411151, 14666, 6, 1020931, 3, 0, NULL, 1, 79);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (365034, 5951, 6, 1275911, 469, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076949, 10167, 6, 82995, 23, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972621, 10464, 6, 735669, 33, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92705, 4081, 6, 461459, 361, 0, NULL, 0, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (273922, 16747, 6, 799372, 423, 0, NULL, 1, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1184704, 15949, 6, 1021571, 227, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1353450, 2402, 6, 772536, 61, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (372486, 3361, 6, 325853, 101, 0, NULL, 0, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411212, 16443, 6, 498309, 426, 0, NULL, 0, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1120371, 14345, 6, 1067317, 113, 0, NULL, 1, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (541396, 16350, 6, 687333, 357, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178117, 8576, 6, 195887, 483, 0, NULL, 0, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1378484, 15626, 6, 1288055, 178, 0, NULL, 1, 98);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296705, 4155, 6, 549230, 31, 0, NULL, 1, 85);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1022328, 11907, 6, 1194067, 89, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (449743, 12306, 6, 1159724, 149, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1197340, 15067, 6, 73882, 429, 0, NULL, 0, 30);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (820377, 12762, 6, 945522, 187, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1182697, 14486, 6, 191783, 184, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1159415, 15942, 6, 574008, 408, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1432168, 6211, 6, 988902, 410, 0, NULL, 0, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (583558, 1742, 6, 132065, 500, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (808656, 5107, 6, 448571, 289, 0, NULL, 0, 46);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1037179, 5578, 6, 939437, 58, 0, NULL, 1, 6);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (925627, 4371, 6, 339964, 98, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (618764, 14816, 6, 1404084, 342, 0, NULL, 0, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733889, 7474, 6, 75683, 500, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193347, 13348, 6, 675283, 310, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1370749, 6421, 6, 61137, 222, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1459952, 12784, 6, 1050651, 181, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1329417, 14962, 6, 243725, 131, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428549, 9825, 6, 1171588, 376, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (378655, 11999, 6, 810225, 338, 0, NULL, 0, 8);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1111688, 6150, 6, 1069088, 193, 0, NULL, 0, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (43412, 16732, 6, 298018, 213, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (48385, 6186, 6, 107396, 250, 0, NULL, 0, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1520694, 5793, 6, 1199769, 241, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1100488, 2616, 6, 99834, 346, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (731368, 16839, 6, 220568, 252, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1196532, 9864, 6, 569878, 440, 0, NULL, 1, 70);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532729, 10720, 6, 142442, 121, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083029, 13316, 6, 825931, 70, 0, NULL, 0, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (368233, 13002, 6, 1199754, 335, 0, NULL, 0, 58);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1409392, 13942, 6, 517961, 88, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1385050, 15610, 6, 719559, 445, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1474870, 6265, 6, 100642, 431, 0, NULL, 1, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1497883, 9127, 6, 774876, 188, 0, NULL, 0, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149808, 3054, 6, 552324, 161, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570172, 2547, 6, 1132527, 233, 0, NULL, 0, 82);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581373, 14443, 6, 961816, 372, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (435675, 5653, 6, 1418662, 417, 0, NULL, 0, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (400082, 16462, 6, 203685, 159, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581714, 4456, 6, 161445, 203, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018725, 11393, 6, 1071125, 73, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399719, 14432, 6, 1410412, 50, 0, NULL, 1, 2);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (365553, 15566, 6, 1170359, 61, 0, NULL, 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271528, 6655, 6, 1061478, 12, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (638095, 13292, 6, 938228, 38, 0, NULL, 0, 68);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1142612, 10638, 6, 997296, 26, 0, NULL, 0, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (95177, 6987, 6, 791571, 22, 0, NULL, 1, 71);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1402289, 4506, 6, 210483, 175, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (554476, 16925, 6, 312281, 293, 0, NULL, 0, 5);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224625, 7179, 6, 282631, 88, 0, NULL, 0, 17);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (953540, 12091, 6, 303276, 165, 0, NULL, 0, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (835371, 8784, 6, 1019039, 303, 0, NULL, 0, 99);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (346129, 4058, 6, 938531, 277, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1021017, 3496, 6, 741517, 45, 0, NULL, 1, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313080, 9696, 6, 49005, 171, 0, NULL, 1, 32);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (748427, 5810, 6, 375248, 52, 0, NULL, 1, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1192457, 5658, 6, 707500, 479, 0, NULL, 1, 43);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (139547, 12057, 6, 1191504, 176, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239807, 5641, 6, 563624, 119, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1268656, 8564, 6, 252826, 77, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366028, 9098, 6, 373371, 338, 0, NULL, 1, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (358178, 11529, 6, 1320240, 204, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73767, 13671, 6, 126279, 479, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1496627, 9643, 6, 1101022, 148, 0, NULL, 0, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (744012, 5699, 6, 503574, 455, 0, NULL, 1, 25);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1305054, 14840, 6, 1372052, 289, 0, NULL, 1, 72);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (895716, 6024, 6, 440586, 295, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411803, 6324, 6, 979055, 10, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064944, 9357, 6, 55235, 47, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (688031, 4676, 6, 929870, 41, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295472, 2068, 6, 877293, 173, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836290, 13971, 6, 980555, 280, 0, NULL, 0, 63);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (875166, 8480, 6, 861246, 380, 0, NULL, 0, 3);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1492927, 16799, 6, 852461, 203, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22697, 6030, 6, 1305060, 133, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126042, 3992, 6, 974152, 405, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1431928, 6192, 6, 627769, 281, 0, NULL, 1, 47);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038376, 5073, 6, 1321931, 362, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (576683, 5453, 6, 945639, 303, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (159875, 8054, 6, 933406, 166, 0, NULL, 1, 100);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801577, 12074, 6, 383350, 67, 0, NULL, 1, 18);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (58222, 7670, 6, 100148, 288, 0, NULL, 1, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (834395, 5410, 6, 1141503, 332, 0, NULL, 0, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178716, 15394, 6, 831301, 129, 0, NULL, 1, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1232498, 5994, 6, 123565, 381, 0, NULL, 1, 16);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (789159, 7377, 6, 815752, 416, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (45388, 6557, 6, 879845, 306, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1466930, 2890, 6, 1371927, 355, 0, NULL, 1, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (288396, 7084, 6, 80200, 394, 0, NULL, 1, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (35723, 13967, 6, 1085534, 391, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (26907, 13801, 6, 582076, 496, 0, NULL, 1, 87);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1017906, 12463, 6, 245512, 245, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414755, 6908, 6, 670545, 313, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1010674, 8816, 6, 339477, 6, 0, NULL, 1, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216835, 6885, 6, 1241342, 412, 0, NULL, 1, 40);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1285741, 10246, 6, 590281, 2, 0, NULL, 0, 15);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (41337, 3188, 6, 740654, 67, 0, NULL, 0, 96);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614337, 13924, 6, 1022061, 496, 0, NULL, 1, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (462346, 3268, 6, 129018, 337, 0, NULL, 0, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170051, 5932, 6, 965310, 21, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216285, 8730, 6, 415781, 269, 0, NULL, 0, 90);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (967960, 12485, 6, 1010480, 9, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (874054, 10453, 6, 1082426, 177, 0, NULL, 0, 89);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (953376, 2831, 6, 243039, 409, 0, NULL, 1, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1144262, 5910, 6, 1277121, 314, 0, NULL, 1, 35);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (906943, 2711, 6, 253322, 483, 0, NULL, 1, 80);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (258781, 10219, 6, 1177038, 192, 0, NULL, 0, 7);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1091632, 11338, 6, 1395287, 203, 0, NULL, 0, 53);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (903230, 6483, 6, 625993, 48, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1224718, 8222, 6, 429933, 82, 0, NULL, 1, 37);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811682, 5762, 6, 937112, 222, 0, NULL, 1, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109014, 11316, 6, 1207875, 228, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1276317, 12748, 6, 1010967, 191, 0, NULL, 0, 78);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1382036, 14324, 6, 1353388, 15, 0, NULL, 1, 66);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (390905, 15518, 6, 60516, 460, 0, NULL, 1, 33);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721152, 5054, 6, 837082, 353, 0, NULL, 0, 74);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (631116, 3198, 6, 789405, 96, 0, NULL, 0, 13);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973912, 9316, 6, 324255, 345, 0, NULL, 0, 11);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390638, 3191, 6, 843044, 212, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (963750, 10917, 6, 72117, 302, 0, NULL, 1, 69);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (757960, 3230, 6, 666111, 158, 0, NULL, 0, 38);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (682138, 2877, 6, 178681, 339, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (354544, 14081, 6, 71983, 190, 0, NULL, 0, 22);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1097697, 11677, 6, 100421, 393, 0, NULL, 1, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1253284, 8743, 6, 1120362, 245, 0, NULL, 0, 64);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (303328, 15620, 6, 21476, 12, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (775123, 2733, 6, 968377, 18, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1300854, 14907, 6, 536564, 476, 0, NULL, 1, 28);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (784278, 11116, 6, 918765, 99, 0, NULL, 1, 29);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1488370, 11023, 6, 197937, 485, 0, NULL, 0, 75);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1546722, 2476, 6, 243913, 335, 0, NULL, 0, 42);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420843, 8565, 6, 1021581, 149, 0, NULL, 0, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (923982, 1644, 6, 484677, 383, 0, NULL, 0, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198881, 15808, 6, 1162303, 177, 0, NULL, 0, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1547458, 6949, 6, 330011, 262, 0, NULL, 1, 36);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890978, 14356, 6, 107242, 379, 0, NULL, 0, 31);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1249741, 2709, 6, 403541, 351, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259282, 10104, 6, 236939, 427, 0, NULL, 0, 57);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (552754, 4334, 6, 1113197, 98, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (921170, 15502, 6, 741698, 300, 0, NULL, 1, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699927, 12943, 6, 127383, 446, 0, NULL, 0, 23);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86757, 13297, 6, 1035535, 418, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (299653, 12060, 6, 741601, 469, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455292, 12591, 6, 927882, 242, 0, NULL, 0, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (204872, 2775, 6, 143063, 203, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513782, 16889, 6, 967037, 78, 0, NULL, 1, 12);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (902060, 16118, 6, 397644, 181, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153954, 12534, 6, 868056, 43, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579821, 12441, 6, 782273, 219, 0, NULL, 0, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (602751, 3842, 6, 812289, 104, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (528772, 3434, 6, 810729, 229, 0, NULL, 0, 56);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1392537, 13289, 6, 1166015, 290, 0, NULL, 0, 19);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1542035, 7054, 6, 300866, 61, 0, NULL, 0, 83);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012251, 7887, 6, 273423, 323, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (339385, 2723, 6, 598310, 366, 0, NULL, 1, 21);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1187515, 8677, 6, 409478, 111, 0, NULL, 1, 67);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (101563, 9620, 6, 152653, 462, 0, NULL, 1, 60);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21702, 1792, 6, 916313, 273, 0, NULL, 1, 51);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (605334, 6729, 6, 135046, 327, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1119676, 9406, 6, 362097, 296, 0, NULL, 1, 93);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (46534, 12574, 6, 546817, 154, 0, NULL, 1, 48);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (191850, 10787, 6, 240841, 184, 0, NULL, 0, 45);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1335776, 11026, 6, 942241, 323, 0, NULL, 1, 91);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (624923, 4093, 6, 1155256, 487, 0, NULL, 1, 94);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153021, 5076, 6, 423385, 82, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (298795, 13170, 6, 552547, 182, 0, NULL, 0, 73);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164069, 9928, 6, 306091, 154, 0, NULL, 1, 62);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168354, 14078, 6, 74959, 342, 0, NULL, 0, 81);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (690179, 7762, 6, 906251, 323, 0, NULL, 1, 76);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193164, 11599, 6, 452713, 393, 0, NULL, 1, 84);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (74784, 14868, 6, 821133, 143, 0, NULL, 1, 10);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457777, 4590, 6, 117118, 337, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1080630, 4017, 6, 979384, 426, 0, NULL, 1, 50);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (551739, 8712, 6, 76698, 320, 0, NULL, 0, 97);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (132923, 12887, 6, 542060, 169, 0, NULL, 1, 27);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081497, 4267, 6, 698696, 131, 0, NULL, 0, 49);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1545973, 13594, 6, 350701, 200, 0, NULL, 0, 44);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1210337, 3138, 6, 385117, 98, 0, NULL, 1, 55);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (389425, 16533, 6, 230970, 351, 0, NULL, 0, 77);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (329985, 6119, 6, 1114346, 19, 0, NULL, 1, 88);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (930268, 16907, 6, 1374398, 214, 0, NULL, 1, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626272, 12178, 6, 924766, 330, 0, NULL, 0, 24);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1001558, 9978, 6, 1403937, 191, 0, NULL, 1, 92);
-INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68274, 5601, 6, 1085958, 141, 0, NULL, 1, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (267137, 1, 2, 420605, 277, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1482649, 1305, 6, 803553, 196, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1280", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360659, 1493, 4, 1242323, 232, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%41", 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612597, 646, 2, 365622, 381, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%34", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (3446, 358, 4, 87298, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%27", 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (532079, 839, 2, 21252, 495, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1179", 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (978718, 5, 2, 1121337, 388, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162141, 1101, 6, 642797, 160, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243684, 374, 5, 761, 274, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (915986, 1205, 1, 1227545, 382, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1003", 0, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (441779, 89, 5, 486949, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%937", 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (848040, 1333, 5, 446019, 119, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552431, 248, 3, 1193233, 345, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (123897, 1352, 3, 853762, 413, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (779273, 173, 2, 314946, 344, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988114, 1347, 4, 1310677, 442, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1406818, 283, 4, 243873, 151, 0, NULL, 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1489188, 815, 6, 700957, 297, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1532", 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134567, 957, 2, 45738, 122, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1014", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (759111, 840, 4, 863816, 405, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (683804, 1328, 6, 1157415, 196, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411235, 376, 4, 474445, 225, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%816", 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (419324, 1299, 1, 413267, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1435", 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (586980, 777, 1, 880752, 177, 0, NULL, 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628923, 1151, 6, 751892, 159, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (939832, 1400, 1, 1094271, 4, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1078", 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1369874, 927, 3, 1146326, 383, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (370253, 814, 1, 666355, 308, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (674741, 1016, 6, 95307, 302, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%818", 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1054092, 1148, 4, 755025, 167, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1132", 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483805, 21, 1, 677785, 269, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430453, 927, 3, 758072, 389, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024796, 1035, 3, 974953, 400, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (310966, 660, 3, 1348786, 15, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1555", 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (746396, 113, 4, 217508, 215, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425644, 1039, 1, 715208, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 0, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (403464, 850, 1, 932848, 45, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%25", 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (374788, 766, 1, 1058808, 67, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (252026, 547, 6, 295917, 374, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1485", 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (595771, 1334, 4, 802805, 419, 0, NULL, 1, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164799, 1084, 5, 1306195, 254, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498217, 1125, 5, 1125493, 320, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1109540, 1093, 5, 435446, 209, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221462, 1527, 5, 1229429, 153, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (499580, 437, 4, 258089, 288, 0, NULL, 0, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82381, 138, 4, 1377217, 56, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1006205, 238, 6, 702795, 104, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1135, 852, 2, 256590, 410, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1133", 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890138, 1493, 3, 253219, 151, 0, NULL, 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1007971, 169, 5, 631685, 400, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (874848, 463, 4, 1179117, 2, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357652, 1051, 6, 878942, 269, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1256", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1075500, 467, 6, 1115033, 111, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975162, 1034, 2, 904716, 272, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415102, 191, 6, 1395359, 116, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (333237, 587, 5, 1204437, 486, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%304", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (620491, 1384, 5, 1164711, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%267", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176025, 375, 1, 129270, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%680", 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (839996, 549, 3, 889058, 353, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1149583, 57, 1, 577581, 370, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1026567, 1202, 6, 72098, 422, 0, NULL, 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (450296, 199, 6, 113095, 96, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1201", 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1152718, 809, 4, 1300477, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1465", 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1136747, 967, 2, 544409, 341, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523355, 1481, 1, 123918, 350, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1434166, 192, 3, 818289, 13, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%589", 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146141, 7, 4, 915450, 83, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1095356, 1397, 6, 214891, 320, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (506289, 479, 6, 280689, 72, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1215575, 597, 2, 395087, 62, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%218", 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244417, 462, 5, 1229371, 241, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1383", 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92390, 589, 6, 129801, 66, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%67", 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (467145, 77, 5, 480833, 415, 0, NULL, 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (729773, 776, 6, 1190866, 91, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043356, 384, 4, 1279900, 35, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10208, 1, 2, 50563, 307, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%963", 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366173, 514, 2, 869443, 109, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400447, 104, 1, 1257080, 293, 0, NULL, 1, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (869365, 1147, 3, 1202169, 336, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (432777, 1242, 4, 201329, 216, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1250688, 112, 3, 1240875, 30, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%993", 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1136382, 438, 5, 465925, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%206", 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (494195, 973, 1, 715010, 335, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224106, 510, 6, 1226210, 353, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1549", 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721482, 660, 1, 840736, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%943", 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390485, 251, 5, 308436, 193, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539657, 1069, 6, 486211, 276, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1088", 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1189424, 323, 5, 1302772, 182, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%80", 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621351, 575, 4, 852027, 342, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1298934, 575, 2, 326476, 134, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1385696, 1368, 6, 877450, 386, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1323", 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (853137, 354, 2, 371293, 79, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1214", 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (578811, 1197, 4, 1354524, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%506", 0, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1088272, 1270, 1, 596722, 259, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1457", 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165094, 672, 5, 219339, 447, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%651", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (558287, 813, 3, 527428, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1467", 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (437925, 1256, 2, 1343864, 298, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265353, 304, 6, 255660, 235, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%156", 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323305, 1399, 4, 1012820, 284, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83465, 586, 4, 757687, 418, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (146796, 1398, 5, 1280472, 248, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1029614, 122, 3, 848224, 250, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (171867, 1532, 4, 173365, 121, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1208", 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1035660, 1068, 5, 677285, 5, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540449, 17, 3, 23365, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%538", 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1491529, 129, 4, 1089901, 415, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%28", 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151506, 558, 1, 314227, 39, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626832, 476, 3, 713820, 383, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (203033, 230, 5, 916874, 306, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1020666, 480, 5, 139522, 7, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1230", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349287, 951, 2, 912838, 129, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1467319, 735, 1, 481842, 303, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25191, 128, 5, 1067566, 316, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (521476, 1441, 6, 1041314, 278, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (643245, 117, 6, 1163289, 491, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (783971, 410, 3, 625818, 490, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1050", 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (425120, 281, 3, 427376, 315, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1145451, 83, 4, 588738, 202, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259209, 1356, 5, 904847, 353, 0, NULL, 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1490575, 22, 4, 760112, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%34", 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (163509, 992, 5, 192337, 435, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944445, 538, 3, 889349, 95, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012660, 144, 2, 247310, 48, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534136, 885, 4, 7124, 108, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1544", 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (856526, 281, 6, 761936, 164, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%235", 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (722869, 922, 1, 567433, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1453", 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (978918, 120, 4, 1320586, 331, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (142746, 1104, 5, 669347, 55, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%871", 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (956977, 560, 4, 786715, 184, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%990", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (36269, 652, 3, 923406, 22, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (359424, 40, 1, 430132, 365, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (18629, 493, 3, 1031907, 120, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%316", 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90031, 1011, 3, 471239, 411, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (906212, 1428, 6, 284005, 457, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%445", 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (304355, 1147, 3, 828915, 450, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1410", 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1286577, 1095, 1, 1226824, 264, 0, NULL, 0, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (451399, 695, 2, 795572, 473, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278135, 613, 3, 210722, 281, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (892188, 273, 2, 41024, 155, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%245", 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1401128, 506, 3, 47343, 195, 0, NULL, 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (375226, 453, 5, 10353, 269, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%359", 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (914666, 1046, 3, 400885, 449, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%816", 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658760, 462, 1, 277680, 163, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (606649, 1550, 2, 542056, 471, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%592", 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (165870, 659, 4, 22596, 290, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1448219, 147, 1, 118798, 44, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478579, 975, 6, 361812, 402, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (461069, 80, 4, 140802, 374, 0, NULL, 1, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (55725, 250, 1, 362007, 39, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765979, 1022, 2, 1323950, 140, 0, NULL, 1, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570401, 1128, 5, 453630, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%84", 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221574, 1507, 5, 778386, 130, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1089", 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (175401, 1024, 3, 1082228, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%991", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75254, 8, 4, 653794, 156, 0, NULL, 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (668097, 1012, 2, 292757, 222, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%419", 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1422995, 183, 2, 830387, 111, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1470763, 679, 1, 642697, 106, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (986225, 972, 6, 493066, 92, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1509647, 399, 5, 872449, 409, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%167", 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (829706, 664, 1, 640676, 159, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350546, 1482, 3, 842145, 96, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%120", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046779, 334, 6, 366351, 222, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (680520, 1406, 6, 537851, 182, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658455, 526, 6, 1335977, 68, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (359266, 871, 2, 44359, 287, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (704692, 685, 2, 1301268, 422, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (147189, 1523, 5, 512378, 442, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792860, 1053, 6, 882728, 128, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (250147, 831, 6, 1128280, 83, 0, NULL, 1, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (662667, 698, 2, 215313, 194, 0, NULL, 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1014405, 1033, 3, 999109, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1494", 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1017578, 1159, 4, 212596, 21, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%832", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (486199, 645, 2, 1126100, 370, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (176964, 1332, 5, 1221173, 4, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%926", 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (489159, 364, 3, 1337484, 314, 0, NULL, 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (690869, 1268, 4, 280173, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%68", 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579075, 432, 6, 993417, 162, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1397677, 1042, 6, 1370942, 408, 0, NULL, 0, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179255, 1176, 4, 221876, 351, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%409", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046526, 210, 1, 74339, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1102", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (627488, 57, 5, 323362, 409, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%9", 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (69164, 767, 3, 1400586, 83, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (920944, 1399, 1, 1255264, 391, 0, NULL, 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265882, 1431, 4, 1297893, 488, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%610", 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1401634, 771, 5, 329547, 462, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%376", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (818952, 1190, 6, 301417, 447, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1502942, 779, 4, 775723, 334, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%757", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1293838, 1211, 1, 624960, 187, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1554", 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1046034, 172, 6, 770593, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%566", 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (349489, 167, 4, 1076174, 128, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1027", 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931978, 283, 6, 384700, 158, 0, NULL, 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239369, 1141, 3, 244560, 19, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (85138, 660, 6, 1214597, 403, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%675", 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183041, 701, 4, 1262734, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1164", 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1335480, 263, 4, 62236, 473, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%278", 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (280719, 522, 1, 969992, 314, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1369", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (155892, 522, 5, 259540, 400, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%605", 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (966297, 415, 6, 1197248, 387, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1375984, 1012, 3, 74955, 50, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1106159, 937, 5, 341422, 306, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408111, 501, 1, 471564, 253, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%38", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (60473, 1118, 4, 812020, 175, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%749", 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404250, 895, 5, 197061, 47, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360426, 1224, 1, 727429, 77, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%64", 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (862161, 1257, 6, 591590, 99, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1283", 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143886, 734, 6, 1187181, 165, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%765", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (266805, 1452, 1, 375342, 46, 0, NULL, 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1398279, 1058, 1, 219645, 52, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%928", 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552272, 705, 5, 1277646, 344, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%186", 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (551595, 847, 1, 257796, 177, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1417", 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313927, 258, 2, 979539, 225, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221902, 138, 6, 1231239, 397, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%142", 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (529601, 442, 3, 928227, 116, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1229", 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (399882, 1485, 3, 1342354, 443, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%425", 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575955, 1456, 6, 589036, 55, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109049, 290, 5, 364685, 8, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%694", 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (918057, 610, 5, 521180, 269, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108842, 546, 5, 447456, 445, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1208", 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (547892, 32, 2, 1297344, 278, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (8442, 946, 4, 1146070, 446, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1182", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (207944, 1556, 4, 434085, 177, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (853172, 1017, 3, 1398901, 74, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%9", 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087841, 939, 3, 568590, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%86", 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (771955, 1266, 6, 256435, 177, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1452990, 240, 6, 960427, 184, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%367", 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411735, 775, 1, 807174, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%930", 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (662915, 231, 1, 1061589, 78, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (982118, 1038, 2, 1232535, 360, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1376", 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630035, 320, 6, 1301867, 320, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (160901, 394, 6, 8127, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1359", 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1418022, 1466, 4, 679178, 118, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%72", 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134700, 753, 6, 103997, 313, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%101", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162671, 1443, 2, 571604, 344, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1467823, 504, 1, 231094, 67, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%930", 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (983041, 893, 4, 1385984, 20, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (649316, 1321, 4, 1095563, 349, 0, NULL, 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (875337, 895, 5, 514462, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%294", 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801556, 337, 2, 791472, 118, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1156497, 1038, 2, 1010773, 415, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1317", 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186368, 436, 5, 43194, 484, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (655137, 354, 5, 1152592, 170, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (968569, 45, 2, 790815, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%230", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444156, 378, 3, 1091975, 177, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1078848, 644, 5, 501235, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%800", 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972098, 1493, 3, 677763, 38, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (38786, 1446, 1, 1116, 377, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%510", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1547035, 229, 5, 791000, 318, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1256", 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1486944, 250, 1, 473879, 441, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1025", 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (334321, 1294, 4, 475722, 379, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259997, 286, 1, 392764, 71, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (981758, 146, 2, 1404917, 18, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (11768, 223, 2, 699500, 423, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (928727, 110, 3, 46066, 329, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%901", 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (69551, 348, 6, 780993, 488, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (928385, 1134, 2, 333466, 230, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (27355, 164, 3, 128559, 34, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (453630, 1218, 4, 1301312, 349, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (773957, 133, 4, 969210, 393, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%427", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (143137, 253, 2, 1212609, 462, 0, NULL, 1, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1133051, 214, 6, 39227, 418, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786984, 697, 4, 1141572, 188, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%377", 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083838, 1464, 2, 973688, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1179", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (833195, 1219, 3, 1205452, 148, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1456", 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863299, 145, 5, 7901, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%917", 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (504863, 123, 2, 835357, 43, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (556162, 711, 2, 550894, 343, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%589", 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083501, 182, 1, 184210, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%530", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (747819, 1051, 4, 258101, 487, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%883", 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (431469, 341, 6, 611949, 68, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (902599, 772, 5, 319922, 290, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410589, 667, 5, 413213, 437, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%704", 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (539493, 1525, 1, 1170916, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1322", 1, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (990047, 1168, 3, 811142, 392, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%463", 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1183533, 784, 4, 886864, 25, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%670", 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (895251, 540, 3, 770407, 415, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1101187, 437, 2, 272629, 133, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1067", 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408774, 1489, 2, 119201, 274, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%613", 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (285545, 1061, 2, 1404995, 279, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287971, 1402, 4, 411572, 187, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1411", 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1508074, 426, 4, 289679, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1228", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1423963, 588, 4, 418743, 438, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%848", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (416137, 1118, 1, 794536, 396, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (584178, 1154, 5, 1273712, 366, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (912161, 145, 1, 56745, 271, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1510138, 1057, 5, 417337, 48, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%983", 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890618, 477, 2, 567546, 455, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (229930, 391, 6, 1404072, 387, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1482", 1, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083338, 1306, 6, 1099240, 238, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%735", 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (167720, 841, 2, 989616, 252, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1359", 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1219612, 510, 6, 21947, 237, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055791, 1378, 3, 517395, 211, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1279", 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (435734, 688, 2, 843591, 229, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1292", 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (219557, 1239, 5, 385112, 426, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%664", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1061677, 980, 5, 856548, 215, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454229, 1343, 4, 1033023, 402, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%636", 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964431, 1250, 2, 173054, 481, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%829", 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (485152, 1297, 3, 116072, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1463", 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1537624, 944, 5, 848223, 411, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%256", 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (847275, 657, 2, 814378, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%317", 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (870377, 1289, 4, 83368, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%203", 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581983, 1134, 4, 831566, 334, 0, NULL, 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1321770, 1049, 1, 1100039, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%802", 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1338921, 200, 4, 929416, 80, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%547", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715617, 1491, 3, 160173, 461, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1123631, 1502, 1, 343484, 180, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (780963, 620, 5, 420109, 445, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814817, 358, 4, 302935, 289, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%885", 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721353, 904, 1, 701577, 456, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%714", 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143990, 928, 5, 911971, 264, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388003, 502, 3, 681807, 309, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1236", 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1056184, 813, 2, 1364456, 419, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (322047, 1197, 4, 117175, 297, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (508794, 1248, 1, 695913, 225, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1206", 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338710, 283, 3, 51229, 396, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376002, 1078, 1, 1305695, 337, 0, NULL, 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1121039, 98, 4, 1271172, 447, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%859", 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (200883, 1212, 1, 504284, 201, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (102734, 52, 2, 643074, 106, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216830, 908, 3, 633943, 320, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857600, 1244, 6, 1140699, 227, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (601429, 1341, 5, 1064758, 343, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (525529, 365, 4, 554506, 431, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%316", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (858427, 454, 1, 1370764, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1031", 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308837, 881, 5, 909103, 32, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (860076, 1222, 5, 551843, 374, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (242153, 1380, 3, 199894, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1417", 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (37360, 1090, 2, 754656, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%214", 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (87704, 682, 6, 60195, 80, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1001", 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (901786, 942, 6, 511226, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%115", 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75954, 125, 4, 818295, 200, 0, NULL, 1, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523541, 418, 4, 931125, 258, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (213662, 1262, 4, 1194088, 373, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%641", 0, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430846, 654, 5, 378319, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%448", 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (742174, 276, 3, 1034549, 23, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%221", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501221, 148, 3, 737027, 339, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%534", 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146788, 30, 2, 670419, 206, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1526732, 1399, 6, 994716, 483, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%615", 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296354, 1438, 4, 579025, 286, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1451", 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124676, 469, 2, 116632, 444, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1107514, 288, 6, 800505, 377, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1265", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (378563, 1420, 5, 184870, 182, 0, NULL, 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (427317, 829, 4, 70102, 462, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (446240, 735, 4, 736236, 21, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1257", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (257882, 505, 3, 707794, 208, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (136890, 1198, 4, 838337, 450, 0, NULL, 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (323658, 621, 3, 561659, 116, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1545", 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (320476, 1057, 6, 271081, 16, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176809, 1477, 1, 519349, 146, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1067051, 112, 6, 489441, 369, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1145358, 401, 2, 1264545, 264, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%604", 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1138600, 917, 6, 1183593, 189, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177860, 478, 3, 284327, 390, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1301854, 536, 2, 401697, 89, 0, NULL, 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1337292, 1520, 1, 271086, 491, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381364, 1129, 5, 1188207, 263, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1429286, 1546, 2, 795726, 468, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1228", 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (623455, 1364, 4, 210842, 336, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%908", 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (855380, 245, 4, 777034, 279, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1321", 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51523, 273, 5, 267862, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1063", 1, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (921175, 513, 3, 140671, 298, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1393511, 1086, 5, 1162776, 170, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%698", 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (376906, 1524, 1, 419792, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%887", 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1394838, 1069, 6, 681149, 139, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1218564, 1194, 4, 384221, 370, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1299", 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (402733, 1192, 2, 753518, 453, 0, NULL, 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916867, 813, 4, 330552, 422, 0, NULL, 1, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1077405, 1056, 5, 1357137, 122, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (859771, 54, 4, 9320, 54, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (958108, 1243, 5, 359410, 358, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%915", 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73391, 1015, 2, 652805, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%668", 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483432, 578, 3, 736176, 247, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1327674, 524, 3, 87268, 450, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (288410, 343, 6, 452175, 250, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083128, 959, 6, 564832, 361, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1422", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1109751, 321, 1, 1120302, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%44", 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259561, 889, 6, 208231, 175, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (375767, 528, 4, 1213882, 287, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221592, 672, 1, 845214, 92, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%310", 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (936050, 55, 4, 966420, 383, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954117, 641, 6, 479729, 261, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%646", 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308065, 900, 2, 332293, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1462", 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814471, 1080, 1, 1191112, 35, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (246173, 742, 1, 323999, 163, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012051, 749, 3, 361341, 291, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (530098, 1153, 6, 522262, 43, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (17517, 371, 3, 1102513, 168, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540932, 1285, 2, 233012, 398, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%982", 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (905585, 112, 3, 1235474, 295, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%979", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717511, 572, 3, 331520, 218, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%265", 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1350393, 531, 3, 331230, 432, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (850982, 1417, 3, 966944, 242, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696606, 225, 4, 615794, 289, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (523480, 259, 6, 663040, 46, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (907760, 1131, 1, 908340, 317, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1258", 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217324, 1509, 5, 368381, 403, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%340", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863185, 1008, 6, 147936, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1102", 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770679, 1023, 3, 33587, 247, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6381, 883, 6, 975262, 311, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109891, 240, 5, 65682, 425, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952407, 840, 5, 1166729, 191, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410539, 1493, 6, 1393838, 279, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1462", 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (206436, 720, 4, 231284, 144, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%623", 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1460725, 852, 6, 954537, 62, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129471, 1023, 4, 904985, 42, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1377301, 1451, 1, 331057, 115, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1333", 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1141954, 569, 3, 1106845, 86, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1495", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1103496, 1312, 1, 170611, 496, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733130, 10, 4, 779381, 323, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%55", 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1120996, 386, 5, 1171326, 260, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1274", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129349, 77, 1, 813918, 86, 0, NULL, 1, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1407954, 345, 5, 849706, 450, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%26", 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29515, 210, 4, 537645, 498, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%303", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954138, 529, 4, 857265, 243, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575326, 1369, 3, 92443, 467, 0, NULL, 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (755918, 1250, 6, 367192, 249, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%748", 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415962, 820, 5, 384244, 390, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (66960, 914, 3, 612049, 475, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (45696, 1242, 1, 1181905, 211, 0, NULL, 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (726121, 631, 1, 1027106, 268, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1257", 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265519, 1204, 1, 179964, 324, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1005326, 243, 4, 1289270, 485, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1144", 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412352, 1074, 4, 927818, 446, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%843", 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1126116, 689, 1, 1414282, 109, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22786, 1080, 4, 979445, 259, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (250264, 1282, 4, 87583, 458, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (547947, 1504, 6, 628786, 50, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689001, 1087, 6, 1220953, 472, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1067", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721552, 1255, 2, 240147, 316, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1494134, 1522, 3, 1343114, 298, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%869", 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1209390, 1533, 5, 78450, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%993", 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1114621, 923, 1, 43140, 368, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1248340, 1427, 5, 969449, 240, 0, NULL, 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955679, 555, 6, 892175, 222, 0, NULL, 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (642796, 856, 2, 275651, 44, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263420, 878, 4, 1417058, 387, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (747056, 441, 1, 464765, 336, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043792, 1555, 2, 1327904, 142, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1210442, 850, 4, 139204, 234, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1426", 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660479, 184, 5, 1312680, 280, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%303", 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566353, 157, 2, 875793, 334, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%864", 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (950176, 1078, 5, 766702, 218, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1446", 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (96321, 443, 4, 804404, 440, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%569", 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383482, 1410, 2, 591863, 149, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%804", 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (718130, 422, 4, 1354115, 469, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955801, 267, 2, 1225161, 464, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1021", 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941596, 501, 2, 235191, 85, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009342, 378, 5, 394493, 113, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1335", 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (563616, 1032, 6, 185029, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1177", 1, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381836, 681, 3, 421658, 90, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%757", 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (957462, 1424, 5, 1184990, 476, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1058", 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070672, 1116, 6, 592507, 280, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%334", 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (968646, 851, 2, 1110810, 120, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1393", 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (31311, 1449, 4, 561883, 131, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%136", 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689703, 1053, 1, 1232378, 112, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1199544, 1440, 3, 405911, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%232", 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1084544, 1401, 1, 1078631, 443, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170197, 460, 5, 342431, 154, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134741, 901, 1, 835785, 267, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%512", 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (426309, 1396, 4, 1084949, 289, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1447", 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1334728, 1196, 6, 653427, 238, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (50593, 1480, 3, 272225, 303, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (525152, 687, 1, 817725, 192, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%872", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411242, 646, 6, 686740, 52, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%396", 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1068075, 200, 4, 962147, 300, 0, NULL, 1, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412200, 529, 5, 915065, 477, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%440", 1, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (484268, 159, 5, 54672, 454, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (965643, 1540, 3, 948364, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%286", 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259211, 1409, 6, 1347831, 158, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (401629, 528, 3, 811121, 125, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1285756, 1001, 4, 1119708, 284, 0, NULL, 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (949774, 128, 3, 154709, 469, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%39", 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (933216, 1533, 3, 1241749, 497, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379335, 1110, 2, 976270, 356, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381672, 250, 1, 587264, 61, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%947", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (293412, 1350, 1, 50207, 118, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717686, 1206, 1, 947611, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%803", 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305916, 87, 5, 693343, 236, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%745", 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (724305, 178, 4, 1387025, 22, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539941, 310, 5, 519190, 176, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (947806, 568, 4, 830706, 137, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%258", 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (157704, 153, 2, 232669, 125, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (385180, 419, 6, 450842, 78, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%977", 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1307326, 1278, 2, 704192, 352, 0, NULL, 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (799401, 667, 1, 721889, 5, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%818", 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836284, 448, 5, 1231099, 276, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%476", 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (371854, 832, 5, 1032339, 266, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888054, 625, 1, 1415861, 183, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1270", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1011157, 1069, 3, 625085, 315, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904668, 1509, 5, 329843, 32, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296173, 709, 2, 353690, 268, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1048982, 15, 2, 39140, 468, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (300404, 1541, 3, 71347, 198, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%232", 1, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1303191, 1167, 1, 242311, 306, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%180", 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (214727, 347, 2, 236944, 327, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1353377, 1454, 3, 1415390, 79, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1426199, 473, 4, 1026396, 482, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%294", 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1439410, 804, 2, 1374134, 208, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265407, 919, 4, 800999, 282, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%657", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1460252, 1007, 3, 112840, 386, 0, NULL, 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (654855, 737, 6, 1092813, 77, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1554", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (317049, 674, 6, 1180672, 221, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1216607, 1519, 3, 602014, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%738", 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140536, 1502, 5, 314451, 121, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259212, 1387, 2, 883032, 329, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%308", 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1110685, 699, 3, 932117, 38, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1228227, 855, 5, 542406, 112, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193352, 642, 1, 990520, 290, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%769", 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (772640, 1468, 5, 1333941, 376, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (263101, 1427, 6, 182474, 417, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1256470, 1323, 1, 1087417, 26, 0, NULL, 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (650911, 857, 1, 917846, 150, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (677456, 407, 4, 570819, 125, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93871, 1515, 4, 1023540, 338, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579218, 117, 6, 182694, 119, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1153", 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (728814, 1295, 1, 86206, 59, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (139764, 836, 2, 1110048, 83, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%368", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (858976, 69, 4, 665454, 395, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1020", 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1314553, 597, 4, 851184, 393, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (687817, 1524, 6, 1211225, 78, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%680", 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (115982, 1306, 6, 1318336, 50, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256579, 542, 3, 1259563, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%949", 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420107, 803, 4, 1091501, 171, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%444", 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (958561, 847, 4, 239062, 11, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1238997, 324, 6, 1347146, 473, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532673, 771, 2, 375615, 146, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1504161, 931, 6, 550772, 326, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%503", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770191, 566, 3, 722854, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1366", 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1170437, 1543, 2, 1015539, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1456", 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (839044, 33, 4, 1304338, 42, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1247715, 482, 5, 345380, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1338", 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (457533, 335, 6, 688426, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%857", 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (129565, 994, 2, 162196, 143, 0, NULL, 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (821860, 816, 3, 51373, 204, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1326", 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357014, 219, 6, 1092098, 379, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%33", 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1504320, 879, 4, 913323, 233, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1424", 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1294426, 1500, 1, 189063, 286, 0, NULL, 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (779833, 210, 5, 415065, 112, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076613, 660, 5, 1217680, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (247277, 364, 3, 303841, 27, 0, NULL, 1, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455725, 1333, 4, 638159, 181, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1301038, 248, 2, 1021176, 237, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1093634, 406, 3, 1207490, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%732", 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1084280, 560, 4, 228923, 27, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%547", 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1486726, 537, 2, 470661, 357, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1341", 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (663832, 1437, 3, 661919, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%38", 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151817, 291, 2, 911240, 153, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%517", 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (569808, 758, 2, 1241551, 345, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1529", 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (694831, 564, 5, 423856, 158, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%976", 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1407960, 1400, 5, 1210358, 163, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (491555, 1143, 4, 37427, 194, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1480890, 1132, 2, 661795, 266, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1090091, 602, 2, 554921, 231, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1311", 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407004, 1328, 3, 348178, 275, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1026", 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (565357, 1236, 4, 199501, 305, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%478", 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1480439, 1502, 1, 877605, 489, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149193, 279, 2, 747776, 211, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (739400, 515, 5, 1054159, 382, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1531258, 637, 1, 22238, 237, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20", 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (124162, 1226, 2, 460483, 182, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614052, 1228, 6, 800843, 70, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1102776, 48, 6, 793473, 424, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1340", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (907100, 1251, 3, 873313, 437, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%258", 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1371022, 554, 3, 245126, 282, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (631622, 998, 4, 13897, 192, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%744", 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (914602, 1072, 1, 449602, 439, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%274", 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411108, 825, 5, 497236, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1284", 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003517, 1096, 1, 701593, 180, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (134828, 911, 1, 207599, 431, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1270093, 973, 6, 111454, 458, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%261", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328693, 42, 4, 398720, 473, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801607, 542, 2, 1317188, 309, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857594, 1257, 4, 326865, 486, 0, NULL, 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295296, 111, 4, 847347, 320, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1341379, 1029, 5, 176348, 202, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%262", 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (768541, 280, 6, 719704, 17, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%467", 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476221, 122, 3, 92736, 103, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024444, 896, 2, 954005, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1516", 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (412560, 722, 3, 858268, 45, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1247", 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (454396, 1465, 3, 500932, 196, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988999, 1074, 1, 993550, 208, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1080", 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83868, 155, 1, 451866, 16, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1024", 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350198, 1247, 2, 391691, 66, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%722", 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1493931, 360, 3, 879060, 454, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%988", 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164697, 1205, 2, 1337709, 305, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (489359, 373, 3, 144980, 272, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (807815, 302, 5, 1274293, 215, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1451", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363760, 936, 1, 548893, 131, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1214266, 161, 2, 1115243, 255, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (237339, 450, 1, 906794, 457, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%235", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952912, 340, 2, 1258277, 200, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%329", 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (936001, 1185, 6, 439400, 237, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (797863, 1061, 3, 1248280, 199, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1452", 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1066556, 1522, 2, 1391798, 102, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1495", 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (882591, 481, 5, 647951, 283, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1422", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93528, 212, 6, 1018504, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%864", 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1041116, 830, 6, 640228, 325, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1412", 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (841122, 1412, 1, 896179, 48, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (523733, 451, 2, 659035, 155, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%23", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (633002, 730, 4, 64925, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%937", 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444793, 1508, 3, 972037, 419, 0, NULL, 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (393769, 1178, 6, 896757, 301, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1449", 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (372172, 772, 4, 630532, 211, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82963, 896, 5, 843786, 497, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%137", 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338109, 1381, 6, 552620, 251, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1237", 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (352483, 1439, 6, 67398, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%46", 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224794, 1126, 1, 457604, 300, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%308", 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (298394, 344, 1, 1180470, 11, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1315", 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (542911, 96, 2, 202292, 440, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1465002, 1446, 6, 907428, 47, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1400", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625092, 1230, 2, 348482, 49, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1075", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (61194, 1444, 2, 560085, 499, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%926", 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1022321, 1118, 1, 717981, 239, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628312, 1001, 2, 1227646, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%810", 1, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366373, 1497, 5, 847542, 407, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313981, 347, 4, 1388698, 23, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%734", 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (477741, 209, 1, 199652, 65, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (790974, 905, 5, 1197097, 310, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (74319, 167, 5, 50500, 33, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (308632, 434, 5, 715664, 8, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1162517, 1160, 2, 1283531, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1287", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1324323, 467, 4, 880446, 115, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1345672, 1409, 4, 7052, 370, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%470", 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (335402, 249, 1, 589932, 276, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (158050, 809, 3, 815097, 111, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1242", 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21312, 136, 3, 298497, 414, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1074045, 987, 4, 180015, 291, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%561", 1, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (798946, 757, 5, 1217493, 364, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1474274, 532, 5, 967168, 17, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%685", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976982, 627, 5, 530083, 33, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%51", 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458963, 692, 5, 498481, 1, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1115", 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1451232, 1183, 2, 604111, 246, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (217718, 670, 3, 776964, 455, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%414", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1544927, 1098, 5, 811811, 20, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1231", 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (260117, 468, 3, 211285, 258, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1396713, 709, 3, 427949, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%461", 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252682, 366, 1, 417992, 3, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (641224, 930, 4, 809559, 186, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (291535, 1351, 1, 560368, 175, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (113283, 460, 1, 289904, 343, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%371", 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (682617, 568, 2, 36376, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1210", 0, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25660, 197, 2, 1150761, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%183", 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625570, 1381, 2, 208531, 51, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (883837, 134, 4, 493380, 355, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%10", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1099083, 1315, 6, 1314646, 442, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476118, 10, 5, 734994, 239, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (677050, 732, 1, 1215474, 316, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%844", 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1204504, 60, 3, 705269, 84, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1534", 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1047191, 713, 5, 7431, 81, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%649", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478849, 1226, 4, 492664, 454, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081034, 464, 4, 1082936, 303, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%828", 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1098962, 60, 2, 751121, 390, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (286904, 61, 3, 186153, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%154", 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1356651, 657, 6, 915638, 400, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%111", 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (423288, 1131, 3, 598923, 83, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (720082, 82, 4, 830225, 12, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (399637, 1095, 2, 968453, 160, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1004", 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1456047, 1060, 4, 1240122, 273, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379836, 1340, 2, 685157, 452, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%688", 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (791083, 730, 4, 1290134, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%19", 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51176, 1423, 4, 281777, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%972", 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174246, 493, 5, 643084, 76, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%408", 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (596277, 811, 6, 169023, 105, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%677", 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707924, 395, 3, 251093, 310, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1457", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1465004, 301, 2, 174147, 130, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49577, 297, 5, 1004569, 265, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%844", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (202031, 1167, 1, 1271301, 50, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1072", 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (377524, 1531, 6, 938918, 121, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (860158, 999, 2, 888127, 128, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1152285, 478, 4, 1346285, 375, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%378", 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1270818, 892, 6, 919818, 184, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1362805, 938, 5, 132751, 41, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328091, 931, 1, 1005286, 492, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1373", 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1114816, 584, 1, 625402, 263, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (294216, 316, 5, 1029409, 48, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1149761, 1548, 2, 1201504, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%939", 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1154145, 1202, 1, 909598, 250, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (322244, 999, 5, 211884, 379, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (879522, 1231, 5, 1330088, 473, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1177234, 1510, 6, 276622, 155, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (497787, 391, 2, 611526, 367, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281589, 1302, 1, 455155, 476, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%54", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265232, 936, 2, 954033, 102, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1538099, 1158, 3, 1243870, 26, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%733", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (654618, 519, 1, 151275, 281, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%10", 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (71683, 26, 3, 186834, 432, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263473, 1480, 4, 303739, 275, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (934509, 434, 4, 138499, 175, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%585", 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (693462, 1057, 6, 1237063, 66, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (776063, 30, 6, 558194, 302, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%284", 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1375311, 44, 4, 1276283, 417, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168065, 411, 6, 1108139, 85, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1427683, 1459, 3, 1226583, 117, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (862277, 849, 2, 1402112, 336, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (849788, 562, 3, 759180, 43, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (756340, 223, 3, 333697, 100, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%143", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (827944, 138, 1, 1229862, 87, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%628", 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (832972, 1164, 1, 737415, 260, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (238168, 1462, 2, 1259333, 146, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (414637, 731, 5, 1389505, 197, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%185", 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1098513, 1517, 1, 1136430, 175, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (424997, 574, 1, 439828, 255, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%400", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (879233, 919, 3, 850637, 207, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1519", 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44829, 1389, 4, 821424, 12, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (623368, 1368, 5, 953758, 127, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (314744, 1373, 3, 1302707, 443, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (196858, 489, 6, 521570, 290, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1075", 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (636823, 1475, 6, 897968, 340, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%262", 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244473, 1445, 4, 1295980, 130, 0, NULL, 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (515748, 35, 4, 1395753, 295, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%465", 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1344162, 434, 3, 698604, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%622", 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (669958, 1516, 5, 245326, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%458", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (925663, 117, 3, 83835, 397, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1391972, 1318, 1, 355557, 442, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%85", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (886213, 1313, 1, 978383, 72, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%273", 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425582, 755, 1, 1382740, 413, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (580822, 58, 2, 973826, 144, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811640, 430, 6, 1409826, 144, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575761, 224, 1, 608604, 41, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1440180, 544, 2, 901172, 30, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%82", 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087215, 102, 2, 1184737, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1497", 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186063, 1046, 4, 740202, 88, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941269, 961, 3, 1151165, 294, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018629, 679, 5, 507108, 419, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1407", 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1191415, 1222, 4, 875934, 141, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836453, 802, 4, 738013, 276, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513199, 377, 2, 794118, 58, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1423832, 1075, 6, 474698, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%137", 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (270774, 730, 6, 88248, 173, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1025309, 1432, 5, 1196355, 472, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1553118, 322, 6, 322691, 397, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1475", 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (613181, 572, 3, 555791, 32, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%491", 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256127, 1382, 6, 550957, 402, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1175", 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (540201, 731, 6, 84763, 238, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%496", 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552001, 36, 4, 853273, 51, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (996885, 1418, 2, 167035, 483, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1077194, 1255, 2, 533815, 201, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (311667, 1160, 5, 333681, 355, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%87", 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (812665, 1317, 2, 1182306, 324, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237517, 525, 1, 915438, 195, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193777, 873, 1, 723224, 427, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%398", 0, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1413730, 180, 4, 798451, 68, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (648943, 895, 6, 1271156, 410, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1191296, 1031, 5, 318326, 127, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (199229, 926, 1, 16446, 53, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%314", 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (264733, 600, 3, 165842, 127, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%346", 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (996243, 1153, 3, 280503, 234, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (929896, 1109, 2, 1167103, 326, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (873446, 1111, 3, 678366, 46, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%131", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (727239, 1019, 3, 386008, 235, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%982", 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (410237, 14, 1, 1036066, 78, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1296518, 457, 4, 155080, 327, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1136", 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708326, 847, 3, 848591, 143, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (195512, 468, 2, 214098, 348, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070976, 325, 5, 519337, 93, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%839", 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1549167, 1549, 5, 77678, 367, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1142", 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1410975, 883, 1, 585810, 56, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%12", 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1267083, 1550, 4, 881448, 88, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%487", 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (209312, 1072, 1, 64251, 488, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1475167, 1231, 6, 1363906, 278, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (813258, 110, 3, 250063, 307, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (335834, 556, 6, 830253, 451, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931267, 477, 3, 1238066, 446, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (850184, 1342, 6, 415689, 457, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (274039, 551, 6, 941051, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305868, 1070, 2, 1112261, 283, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1482", 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (256943, 794, 5, 988285, 163, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%752", 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (185435, 1492, 5, 934148, 57, 0, NULL, 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501043, 1271, 6, 534661, 235, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (818813, 924, 4, 19564, 331, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6923, 460, 6, 434574, 20, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1048", 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (327518, 726, 5, 27771, 422, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%257", 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1218240, 394, 3, 604044, 467, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%568", 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (36384, 897, 1, 1255201, 328, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%784", 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (496975, 448, 4, 1394462, 299, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (306117, 826, 2, 692060, 371, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1243896, 1192, 1, 653382, 337, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (219001, 1535, 6, 852723, 119, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612334, 140, 3, 157494, 248, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1231", 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1355026, 573, 1, 699569, 64, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (253319, 140, 2, 1285189, 282, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%795", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1139936, 85, 5, 299258, 332, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1380", 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287681, 1514, 4, 328077, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1287", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1158065, 454, 3, 21875, 346, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%400", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944084, 562, 2, 1276692, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%911", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1534250, 1166, 3, 124300, 267, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (389598, 1142, 1, 147354, 43, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%476", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (46374, 889, 3, 424467, 220, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%213", 0, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (137478, 32, 6, 268600, 210, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124395, 1070, 4, 43806, 151, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (795855, 1132, 5, 841195, 79, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1435", 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (394475, 772, 6, 464268, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%579", 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (571684, 380, 2, 1259080, 428, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%733", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254605, 790, 3, 285119, 440, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863815, 1207, 5, 1076598, 371, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%310", 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (897417, 908, 1, 1161627, 484, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1279", 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692952, 856, 2, 736815, 257, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233471, 1126, 1, 1103753, 411, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696410, 462, 4, 29225, 486, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%133", 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1020494, 1399, 1, 1379839, 176, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428522, 1295, 3, 15298, 31, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%184", 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323563, 1118, 2, 897373, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1491", 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94184, 1497, 3, 283493, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%378", 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955258, 815, 1, 87148, 444, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1516", 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1354275, 839, 2, 1333228, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%543", 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (7857, 992, 1, 94920, 478, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90762, 619, 5, 246568, 279, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1346587, 682, 3, 1024552, 59, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1156171, 930, 6, 362162, 30, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952684, 440, 1, 1012414, 448, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430255, 1119, 4, 492343, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%468", 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (115020, 454, 5, 31422, 308, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1028", 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (856040, 98, 3, 1245231, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1309", 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1523539, 1545, 3, 1077026, 229, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%457", 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1478348, 1041, 1, 815123, 262, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1103", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (32141, 1503, 5, 1332217, 106, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%760", 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (808603, 1043, 2, 1303077, 24, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%359", 1, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (861060, 13, 3, 165406, 42, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%929", 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1421697, 1004, 1, 568085, 466, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%556", 0, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1091115, 1540, 6, 1248284, 236, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876803, 914, 5, 967749, 159, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (271983, 282, 2, 464135, 39, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%484", 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1073699, 603, 1, 1339877, 154, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10429, 832, 3, 1308331, 359, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972649, 1000, 6, 1319703, 10, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1118", 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429182, 852, 3, 895789, 404, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (607651, 53, 5, 1188721, 59, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%649", 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1416957, 1434, 1, 1042388, 29, 0, NULL, 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012283, 1132, 2, 1344846, 359, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660790, 384, 4, 678517, 230, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%195", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1006436, 1007, 4, 1306050, 304, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (737558, 119, 5, 1343006, 374, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1556", 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457704, 1218, 4, 1078054, 248, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%952", 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198597, 578, 1, 592885, 168, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%684", 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82873, 1438, 5, 774116, 133, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (306603, 702, 6, 534224, 162, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (796160, 556, 2, 330126, 436, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1435760, 1045, 4, 984769, 177, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%329", 0, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (502975, 56, 2, 290676, 210, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1480", 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (805498, 442, 4, 737700, 484, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625683, 743, 2, 289274, 488, 0, NULL, 0, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1002412, 952, 5, 1101727, 367, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (232749, 111, 2, 612092, 498, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1410", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168727, 224, 4, 1181299, 264, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%592", 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058261, 1084, 2, 1259445, 344, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254384, 1363, 3, 780738, 171, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%889", 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316069, 497, 3, 520457, 12, 0, NULL, 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (575615, 1115, 2, 1035079, 322, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (446438, 584, 6, 1318999, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (698169, 70, 2, 914472, 59, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%474", 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (81084, 1013, 6, 397689, 215, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183105, 927, 2, 230470, 254, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149127, 1361, 4, 639202, 494, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%898", 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (709598, 669, 5, 393378, 75, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1475", 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692841, 1355, 3, 782861, 376, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (290478, 542, 6, 1378257, 378, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1182", 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (222779, 1500, 1, 386313, 383, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1007", 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (338008, 1175, 5, 568068, 376, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%6", 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083426, 782, 5, 355900, 53, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579317, 941, 6, 1226425, 344, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916955, 763, 5, 989584, 288, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%427", 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (559571, 229, 3, 314597, 256, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%49", 1, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (62925, 300, 4, 532792, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%738", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408923, 682, 1, 1050802, 114, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1191", 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (738292, 16, 4, 1184955, 277, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455514, 1087, 2, 1335963, 30, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (655938, 595, 5, 1179096, 399, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%716", 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153438, 974, 2, 1188259, 175, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (486686, 658, 2, 706, 389, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%45", 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (870472, 120, 1, 563194, 154, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1116167, 1231, 6, 265590, 222, 0, NULL, 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904671, 624, 1, 93497, 457, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1395595, 864, 2, 1028333, 57, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (949791, 1067, 2, 1352536, 475, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1279507, 225, 4, 1339014, 389, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1004941, 1276, 3, 1155915, 346, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%664", 0, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1159506, 1489, 2, 1160087, 496, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%550", 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (837039, 558, 1, 1177215, 331, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660740, 852, 6, 1217396, 391, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1494960, 931, 5, 1048057, 200, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383491, 149, 5, 101593, 9, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1063544, 1507, 5, 1411960, 433, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1544", 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (202854, 792, 3, 601033, 68, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072153, 1105, 5, 1130183, 233, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708320, 881, 5, 1200667, 166, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237263, 1191, 4, 1222689, 144, 0, NULL, 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817237, 273, 5, 1009709, 471, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1013", 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1063033, 1376, 4, 918351, 118, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%240", 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (336289, 1297, 3, 893410, 339, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316066, 981, 5, 50863, 420, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255220, 1058, 5, 352216, 294, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%572", 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621407, 810, 6, 708662, 253, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (518078, 1531, 3, 297246, 477, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (173163, 1445, 4, 55378, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%843", 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68846, 1336, 5, 881051, 378, 0, NULL, 1, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (514548, 30, 5, 369285, 348, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1230089, 589, 2, 16550, 312, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%914", 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1032667, 699, 6, 1375595, 235, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (647902, 557, 1, 1243052, 55, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%846", 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (360959, 1554, 6, 280142, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%193", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (945983, 1370, 6, 138742, 313, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1316127, 789, 5, 1118111, 291, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307033, 54, 3, 846665, 358, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (479150, 136, 5, 862290, 492, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1371352, 502, 5, 192706, 88, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%437", 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1195514, 346, 6, 262474, 44, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%890", 1, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1059062, 804, 6, 156454, 240, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%460", 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476190, 776, 6, 1399297, 201, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1502", 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (203886, 285, 2, 837876, 478, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%520", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466745, 741, 4, 463924, 80, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (857580, 1246, 5, 657850, 393, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1209", 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (577201, 893, 4, 1146723, 332, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (144766, 747, 3, 779776, 88, 0, NULL, 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (785280, 422, 1, 675661, 205, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1319", 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (447937, 1055, 5, 1251585, 432, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%601", 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1311792, 16, 1, 1349, 249, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1246", 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1463863, 1456, 4, 1051690, 303, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%16", 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252410, 529, 4, 1077381, 414, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (946562, 1540, 2, 1337447, 54, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%813", 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998265, 389, 4, 1101047, 439, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%103", 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1013661, 1540, 6, 319357, 36, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (409964, 894, 1, 1073472, 381, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (437877, 840, 5, 326908, 124, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%590", 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1036835, 709, 6, 1402891, 482, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1145", 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (100736, 1137, 2, 929472, 287, 0, NULL, 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (549978, 1227, 1, 656719, 70, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (339653, 107, 3, 1298235, 463, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (679001, 1123, 6, 492419, 37, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%918", 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (961323, 57, 3, 718896, 100, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%287", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1419537, 1543, 3, 917839, 431, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%180", 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243547, 1051, 4, 233906, 174, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (474672, 111, 1, 506854, 139, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%975", 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404036, 1522, 5, 1334453, 5, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%175", 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (54972, 1087, 5, 1242809, 103, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%561", 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (591080, 330, 2, 260287, 308, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381306, 1410, 3, 763653, 319, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383348, 709, 6, 415340, 448, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%211", 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1393970, 782, 2, 765871, 15, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%811", 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1008984, 1284, 6, 453703, 170, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1156", 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501851, 1165, 6, 367196, 72, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1551", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (507836, 1361, 4, 347832, 364, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%110", 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (210735, 262, 6, 1195641, 60, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976533, 1307, 4, 1285423, 462, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%969", 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1432563, 616, 3, 1287524, 296, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%430", 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1052581, 340, 5, 64419, 322, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1225", 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1530683, 749, 3, 918281, 405, 0, NULL, 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1505033, 844, 5, 1080108, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%201", 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1229500, 1126, 6, 727178, 466, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%492", 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1137762, 1459, 5, 1056370, 445, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (33334, 379, 1, 829306, 267, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%299", 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1237028, 856, 2, 1327353, 99, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (386886, 397, 3, 1202358, 102, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381675, 911, 5, 1146339, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1088", 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (118909, 810, 1, 675967, 35, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622496, 1490, 5, 54084, 220, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (594510, 1502, 2, 235003, 224, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%675", 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1294730, 1253, 1, 826700, 178, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%811", 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964850, 607, 3, 449227, 14, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (468383, 1012, 2, 1363777, 390, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75625, 1177, 3, 983462, 107, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1505", 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (755345, 210, 5, 394182, 281, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%646", 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801944, 1497, 6, 643699, 90, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%868", 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1214623, 448, 1, 1297816, 76, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%215", 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1200375, 1256, 3, 241645, 69, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1499", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44155, 349, 2, 376120, 338, 0, NULL, 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271298, 670, 3, 1418586, 436, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%155", 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (620737, 1103, 6, 1204612, 175, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (863642, 796, 5, 1035965, 360, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%533", 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (838830, 443, 3, 1228837, 406, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1511", 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (832634, 872, 2, 1070226, 17, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (577711, 460, 3, 238461, 214, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1490", 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1027931, 532, 6, 890693, 421, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%449", 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239012, 1051, 5, 246614, 62, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%913", 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (880750, 841, 6, 976011, 223, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%564", 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076761, 387, 3, 131042, 151, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265972, 324, 5, 348607, 287, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1315055, 104, 1, 1220377, 304, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (53626, 673, 6, 957654, 128, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%387", 1, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1383583, 156, 3, 34460, 434, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1416", 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072542, 330, 5, 299103, 333, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1182448, 159, 3, 1218966, 23, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (506813, 737, 4, 34524, 208, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1212", 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1331659, 551, 1, 442048, 259, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (977283, 244, 5, 122102, 272, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1104", 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (647814, 76, 1, 168296, 251, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%402", 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (842201, 541, 4, 1035939, 99, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (103921, 49, 2, 521241, 484, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%17", 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (538865, 329, 4, 279869, 148, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%4", 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (380310, 1346, 2, 848843, 1, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085541, 91, 4, 9157, 183, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%420", 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1049860, 503, 3, 310887, 479, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%73", 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1124007, 1269, 4, 881469, 440, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1078206, 1427, 1, 242853, 133, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (55560, 560, 1, 567872, 274, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%25", 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313081, 1375, 3, 984944, 34, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49647, 1270, 1, 1071704, 138, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1098", 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (331501, 604, 1, 910135, 174, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1293", 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (611508, 1295, 1, 99234, 453, 1,  "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%1399", 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1158756, 1259, 5, 1238765, 276, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (438897, 27, 2, 610516, 441, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1116952, 1275, 2, 876716, 90, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (632838, 14461, 6, 1164464, 59, 0, NULL, 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814637, 4911, 6, 437015, 282, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (408375, 10005, 6, 119004, 444, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404229, 12002, 6, 951981, 68, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1082150, 7288, 6, 1365272, 28, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (295221, 11463, 6, 774941, 267, 0, NULL, 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278478, 9449, 6, 985750, 484, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (600266, 16200, 6, 1326040, 222, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998832, 10344, 6, 532306, 432, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1221450, 6520, 6, 1234240, 482, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164180, 16934, 6, 1391139, 452, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (381698, 10359, 6, 1379861, 160, 0, NULL, 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1323149, 12595, 6, 416583, 465, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1246345, 6601, 6, 283638, 460, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86756, 8562, 6, 898080, 409, 0, NULL, 0, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1176148, 15990, 6, 312017, 492, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1177171, 3209, 6, 1144305, 197, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (730768, 1893, 6, 1305511, 139, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1160097, 15650, 6, 738955, 349, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (27274, 10775, 6, 1227999, 43, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1379313, 8503, 6, 136879, 176, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973247, 2552, 6, 943078, 67, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (847159, 3072, 6, 1343511, 471, 0, NULL, 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (967240, 16664, 6, 249543, 346, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1417014, 16149, 6, 1153637, 18, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975383, 8579, 6, 81265, 325, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457505, 12404, 6, 18800, 149, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (532837, 12528, 6, 812768, 166, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (289436, 2140, 6, 148453, 31, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (79891, 8420, 6, 1048134, 456, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (658306, 4968, 6, 280247, 248, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217338, 5642, 6, 540425, 179, 0, NULL, 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (919145, 16196, 6, 608278, 259, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972394, 12904, 6, 1169444, 146, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (238490, 9526, 6, 1372473, 288, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931939, 13268, 6, 840968, 267, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1188521, 8549, 6, 277148, 279, 0, NULL, 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043017, 5075, 6, 1080492, 89, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (943866, 15628, 6, 1371910, 102, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (989071, 5078, 6, 1288955, 371, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1548232, 10966, 6, 186565, 437, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (947019, 6491, 6, 1287629, 84, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (582692, 11599, 6, 476661, 389, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1089512, 11245, 6, 219993, 285, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (128144, 7814, 6, 670818, 342, 0, NULL, 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483436, 9825, 6, 875002, 55, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699610, 8077, 6, 818784, 108, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429488, 6217, 6, 244364, 60, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49667, 4816, 6, 1242169, 299, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (864602, 4064, 6, 1359349, 58, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630062, 2998, 6, 63198, 300, 0, NULL, 1, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1075587, 14715, 6, 1039362, 174, 0, NULL, 1, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (186378, 4577, 6, 964642, 5, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221184, 4557, 6, 1212435, 46, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817316, 15206, 6, 254821, 262, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177530, 16679, 6, 1312703, 396, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487201, 13370, 6, 1416002, 477, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (739660, 13483, 6, 390800, 113, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (673818, 11369, 6, 1294633, 224, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400902, 14375, 6, 371305, 79, 0, NULL, 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (837282, 5487, 6, 161458, 454, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (680410, 2633, 6, 342124, 58, 0, NULL, 0, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (553958, 14191, 6, 710381, 152, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570843, 13956, 6, 1293346, 239, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398897, 6836, 6, 538541, 238, 0, NULL, 0, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151469, 14041, 6, 318374, 213, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876381, 16498, 6, 581632, 230, 0, NULL, 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (937977, 13633, 6, 14440, 239, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1415403, 5083, 6, 583651, 479, 0, NULL, 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (232851, 14307, 6, 127728, 231, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (574472, 3811, 6, 1002952, 241, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (922041, 9690, 6, 170199, 7, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055205, 5614, 6, 533996, 489, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (351395, 3026, 6, 780843, 388, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458946, 2427, 6, 1195017, 127, 0, NULL, 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1483088, 7120, 6, 1389524, 152, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733328, 6448, 6, 266609, 121, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (64792, 9179, 6, 400377, 354, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1548038, 6069, 6, 1152907, 9, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (703348, 8212, 6, 442577, 311, 0, NULL, 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411191, 7365, 6, 778559, 495, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287812, 9357, 6, 502640, 236, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (708131, 6232, 6, 443451, 462, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1099936, 14805, 6, 34449, 409, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390737, 11459, 6, 1271566, 470, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (17280, 7833, 6, 816273, 261, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1050808, 12571, 6, 35471, 391, 0, NULL, 1, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1551275, 10444, 6, 828358, 259, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381394, 6626, 6, 647513, 300, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1347108, 9095, 6, 1319944, 51, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (333794, 14603, 6, 85027, 179, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (114135, 4504, 6, 359773, 437, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (663507, 11587, 6, 996001, 155, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (612458, 5323, 6, 43150, 66, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (78270, 8859, 6, 558360, 49, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1333569, 8176, 6, 897020, 398, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888104, 16089, 6, 1409382, 414, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (157532, 13443, 6, 580324, 347, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (244087, 6430, 6, 1347298, 172, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (470686, 14596, 6, 1332602, 403, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501507, 4899, 6, 239855, 156, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (554914, 11143, 6, 159229, 165, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (758493, 4544, 6, 1373714, 383, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (869677, 13469, 6, 1159619, 153, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349742, 13322, 6, 1306573, 254, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (176906, 14710, 6, 1275407, 393, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350418, 11961, 6, 282147, 421, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1343552, 8759, 6, 479300, 490, 0, NULL, 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (253226, 7750, 6, 217468, 457, 0, NULL, 1, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (589564, 6303, 6, 650237, 42, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1551927, 5496, 6, 552622, 371, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1324497, 1958, 6, 1126434, 139, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1495199, 9304, 6, 244715, 225, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (521695, 3218, 6, 223745, 167, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408625, 13261, 6, 163830, 254, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (113538, 3493, 6, 179377, 488, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (885199, 7853, 6, 306404, 223, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1309635, 2825, 6, 1187673, 29, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1516980, 6876, 6, 617953, 141, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (851956, 11732, 6, 952378, 263, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (227879, 12260, 6, 715598, 71, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428391, 7570, 6, 440779, 427, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179501, 16169, 6, 937938, 151, 0, NULL, 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1140464, 15282, 6, 958255, 419, 0, NULL, 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255353, 9131, 6, 934611, 117, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (161533, 12240, 6, 1088214, 392, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1471103, 14318, 6, 816383, 495, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (52668, 1936, 6, 762530, 278, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1462564, 4481, 6, 690833, 462, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407852, 15478, 6, 143845, 186, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481518, 16898, 6, 327119, 99, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1031833, 13905, 6, 1206828, 351, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86782, 11046, 6, 638267, 276, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1200655, 5311, 6, 293900, 142, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (883551, 1801, 6, 947444, 207, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1314164, 1931, 6, 730813, 430, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (130042, 11149, 6, 532684, 241, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1293381, 4562, 6, 686970, 300, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398708, 3960, 6, 796579, 191, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (194765, 2951, 6, 833734, 85, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (124456, 14364, 6, 285470, 212, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (301322, 16052, 6, 662573, 38, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399115, 10887, 6, 632677, 168, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (291815, 2563, 6, 1164858, 58, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1173554, 4187, 6, 175010, 115, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193734, 14623, 6, 2749, 227, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1342800, 2811, 6, 273631, 48, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1179180, 9998, 6, 282381, 220, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (40294, 5337, 6, 139138, 158, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236868, 11636, 6, 276676, 477, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177087, 11985, 6, 448228, 176, 0, NULL, 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1537152, 12091, 6, 114801, 126, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90909, 14594, 6, 426150, 95, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1254207, 14951, 6, 978605, 50, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (944219, 7202, 6, 1017151, 371, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (172322, 13046, 6, 929769, 441, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454211, 8186, 6, 80474, 171, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (271421, 6772, 6, 1354363, 473, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (164804, 10582, 6, 551085, 285, 0, NULL, 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (955593, 5167, 6, 27239, 44, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (235764, 11388, 6, 720509, 412, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (509742, 14428, 6, 644431, 98, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754627, 2917, 6, 340390, 449, 0, NULL, 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (683036, 3348, 6, 301583, 167, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (254266, 10853, 6, 1285699, 181, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29644, 11503, 6, 525097, 7, 0, NULL, 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (396780, 12849, 6, 505842, 32, 0, NULL, 1, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (327880, 9656, 6, 994178, 210, 0, NULL, 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1069715, 1585, 6, 972838, 268, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1326579, 6296, 6, 1335181, 232, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151540, 6338, 6, 1182697, 121, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1249659, 11962, 6, 43524, 286, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1515776, 3508, 6, 472167, 342, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1521488, 4356, 6, 320584, 472, 0, NULL, 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (58707, 4415, 6, 1118134, 196, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (391410, 13647, 6, 484521, 308, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1110408, 12503, 6, 761074, 356, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (60211, 2310, 6, 976452, 126, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411992, 2349, 6, 912664, 129, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (277344, 4876, 6, 937561, 57, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (347090, 13352, 6, 125192, 134, 0, NULL, 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (990270, 10850, 6, 565076, 278, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (800332, 6294, 6, 438043, 371, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1444202, 9417, 6, 975476, 458, 0, NULL, 0, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (214984, 10142, 6, 412493, 152, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1392392, 16675, 6, 108347, 336, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224012, 7938, 6, 888417, 59, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (19290, 3762, 6, 1239683, 399, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1360798, 12173, 6, 753598, 160, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140727, 16874, 6, 253543, 420, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376049, 13645, 6, 322284, 408, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1533206, 14408, 6, 727118, 235, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (165600, 8037, 6, 303865, 208, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534680, 1818, 6, 678718, 465, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (429667, 14630, 6, 604537, 49, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786688, 13477, 6, 107857, 296, 0, NULL, 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1454480, 12999, 6, 974649, 394, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1265961, 13874, 6, 609682, 197, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1417998, 5050, 6, 1312752, 25, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1459614, 5761, 6, 365818, 446, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1252292, 4356, 6, 314017, 2, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1190608, 9282, 6, 1236200, 394, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (993134, 3920, 6, 194410, 41, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (888950, 15781, 6, 1291595, 63, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (749120, 5469, 6, 295558, 319, 0, NULL, 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (61386, 11007, 6, 399661, 2, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534144, 8240, 6, 980492, 291, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233763, 6799, 6, 120594, 264, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1007540, 4029, 6, 508695, 398, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (450637, 11298, 6, 1137953, 493, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (636438, 3857, 6, 290251, 438, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (345462, 8893, 6, 116079, 377, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376777, 7403, 6, 215638, 235, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (909620, 4494, 6, 348217, 352, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420557, 2733, 6, 1367469, 4, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (78983, 5595, 6, 311932, 332, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1086388, 11543, 6, 1086072, 96, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1369530, 16621, 6, 276056, 40, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (480425, 16289, 6, 897800, 161, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (965791, 2360, 6, 1019304, 384, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (656193, 5130, 6, 1369829, 403, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625564, 15521, 6, 1280199, 410, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388948, 7324, 6, 1362975, 406, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (824824, 4423, 6, 975716, 326, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (781005, 8948, 6, 32736, 268, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614517, 1655, 6, 83991, 116, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236232, 12510, 6, 978382, 33, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (606, 8962, 6, 688188, 440, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (934376, 4100, 6, 1172944, 144, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1236110, 2126, 6, 903367, 225, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1336047, 3591, 6, 544169, 350, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (713211, 4766, 6, 820735, 257, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (76158, 10431, 6, 705321, 437, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954050, 2551, 6, 1023303, 316, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (358, 3200, 6, 909597, 194, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (712292, 12317, 6, 343748, 258, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (998950, 10908, 6, 246191, 294, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (328928, 3149, 6, 112401, 1, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1330290, 9448, 6, 505348, 130, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1168916, 12712, 6, 1116406, 192, 0, NULL, 1, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1031835, 8999, 6, 1082177, 38, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (898480, 16162, 6, 14144, 31, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1352146, 6168, 6, 692744, 289, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (2791, 16779, 6, 1362435, 96, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1004583, 13055, 6, 1418719, 491, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081083, 8474, 6, 1257361, 292, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146294, 12071, 6, 1003382, 261, 0, NULL, 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (417799, 16338, 6, 1055629, 472, 0, NULL, 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (593065, 8268, 6, 1348197, 423, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1068322, 9332, 6, 586811, 64, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (789335, 3144, 6, 1091542, 434, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (422331, 4134, 6, 197816, 167, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (383401, 4234, 6, 368166, 1, 0, NULL, 1, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (8442, 4455, 6, 922601, 5, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622382, 5138, 6, 543139, 242, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236601, 12772, 6, 50769, 8, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (362200, 10558, 6, 607252, 407, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (783260, 6320, 6, 18035, 229, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (420891, 12207, 6, 410628, 465, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707531, 2186, 6, 1244460, 125, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1499579, 14708, 6, 23421, 167, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1087074, 11669, 6, 642276, 146, 0, NULL, 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (292710, 5551, 6, 983594, 93, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (9425, 5235, 6, 977538, 8, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (648786, 2274, 6, 1310575, 168, 0, NULL, 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1309523, 15990, 6, 413776, 381, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1339382, 3631, 6, 882576, 47, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552560, 8672, 6, 1237589, 131, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1057212, 13771, 6, 268101, 469, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (823112, 2996, 6, 392096, 37, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1203300, 12044, 6, 107615, 73, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1524038, 6122, 6, 546782, 313, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (719034, 10610, 6, 56298, 302, 0, NULL, 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307707, 12298, 6, 1175309, 172, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (830669, 10029, 6, 294801, 266, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (151862, 14585, 6, 955622, 460, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (995338, 7494, 6, 788431, 148, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1552172, 4687, 6, 104644, 305, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003989, 10545, 6, 112563, 459, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (468961, 2795, 6, 1163976, 307, 0, NULL, 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (599441, 9429, 6, 772938, 240, 0, NULL, 0, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1397211, 8417, 6, 408494, 107, 0, NULL, 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1292116, 4267, 6, 859906, 77, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236251, 8862, 6, 920084, 297, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (141204, 16165, 6, 652346, 191, 0, NULL, 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (499234, 14951, 6, 233113, 390, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (307069, 12851, 6, 210788, 393, 0, NULL, 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (308854, 15826, 6, 362813, 80, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1045047, 13626, 6, 440358, 257, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1468968, 1944, 6, 1332253, 213, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (430328, 13882, 6, 481991, 246, 0, NULL, 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1336758, 16473, 6, 150532, 420, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (622554, 15395, 6, 692272, 243, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1421659, 8899, 6, 499375, 414, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (279625, 16945, 6, 1273780, 394, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (265635, 16121, 6, 1191187, 250, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (422055, 15057, 6, 839606, 279, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51589, 4112, 6, 1089590, 203, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (220718, 2536, 6, 1196665, 111, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1166023, 13741, 6, 497962, 2, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1496889, 16294, 6, 1361791, 191, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532304, 11162, 6, 1093025, 409, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (726969, 11394, 6, 1255024, 323, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (25647, 10791, 6, 746007, 81, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973985, 6507, 6, 978604, 227, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357149, 15406, 6, 829306, 318, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1010603, 2755, 6, 216064, 118, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1341154, 4711, 6, 476326, 106, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1357431, 3736, 6, 197551, 344, 0, NULL, 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1043468, 10974, 6, 1408372, 348, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (537925, 13630, 6, 796284, 465, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (619880, 16211, 6, 503788, 405, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (994386, 16098, 6, 234466, 289, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (11786, 5912, 6, 1172373, 366, 0, NULL, 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (602849, 12071, 6, 979445, 75, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (263982, 9479, 6, 1122190, 409, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (7936, 9574, 6, 856906, 127, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1308778, 5510, 6, 1066150, 380, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (252769, 10466, 6, 102915, 109, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198203, 11243, 6, 1188011, 395, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (330490, 2965, 6, 203897, 11, 0, NULL, 1, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1440345, 7504, 6, 504144, 187, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481334, 11589, 6, 1088442, 93, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (511396, 2395, 6, 1129, 108, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1470543, 8231, 6, 1051120, 79, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1131970, 16410, 6, 61969, 492, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (665635, 6030, 6, 703657, 297, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1100499, 10193, 6, 92944, 293, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170059, 10432, 6, 605068, 90, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174435, 13221, 6, 759137, 477, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1328233, 8858, 6, 896017, 89, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1093413, 12981, 6, 1097529, 364, 0, NULL, 1, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (119878, 15655, 6, 603126, 368, 0, NULL, 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108981, 13172, 6, 960358, 209, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1533432, 4834, 6, 399994, 257, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (43638, 9127, 6, 1300433, 404, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012546, 9162, 6, 1363303, 227, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (732679, 15188, 6, 408734, 109, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1373064, 4326, 6, 1019932, 353, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1229696, 5026, 6, 460810, 486, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1476783, 4750, 6, 132868, 16, 0, NULL, 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1501882, 6130, 6, 435455, 422, 0, NULL, 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038990, 16305, 6, 987266, 488, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085729, 5373, 6, 313820, 473, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177805, 6472, 6, 1040369, 40, 0, NULL, 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792895, 6550, 6, 612373, 50, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1349602, 6765, 6, 132165, 55, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (316336, 13050, 6, 937352, 433, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765644, 3312, 6, 1001341, 410, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (491136, 1853, 6, 272900, 18, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (117656, 6158, 6, 537122, 449, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (211963, 12472, 6, 1249683, 207, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49208, 9791, 6, 297969, 275, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22640, 12599, 6, 1086778, 37, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1190978, 12503, 6, 1249939, 425, 0, NULL, 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1508980, 3396, 6, 206619, 114, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (587096, 5270, 6, 980030, 449, 0, NULL, 0, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (79517, 9599, 6, 718554, 495, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (597901, 12337, 6, 1214769, 1, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (630628, 3673, 6, 1376306, 50, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1389909, 12998, 6, 1254571, 201, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018270, 6491, 6, 215211, 441, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (621427, 7964, 6, 72898, 240, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (501275, 15125, 6, 103804, 266, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717155, 7021, 6, 1315401, 292, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1034088, 11408, 6, 92419, 7, 0, NULL, 0, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1186929, 11633, 6, 807401, 260, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (619322, 3658, 6, 472050, 482, 0, NULL, 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126402, 9248, 6, 809696, 58, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (24914, 7849, 6, 814403, 471, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (283963, 3413, 6, 459001, 386, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (757481, 11495, 6, 357072, 436, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1080738, 16817, 6, 800828, 91, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (456693, 13656, 6, 623365, 110, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (885804, 4135, 6, 761921, 252, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (84409, 12382, 6, 581228, 108, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (704890, 15215, 6, 533805, 37, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1395427, 4556, 6, 607942, 143, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (791806, 3094, 6, 136999, 151, 0, NULL, 1, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1197387, 10850, 6, 395687, 247, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (759055, 12901, 6, 957695, 259, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369438, 15792, 6, 18706, 412, 0, NULL, 1, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1189842, 7523, 6, 828299, 115, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (952278, 7078, 6, 579901, 90, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94304, 14691, 6, 701623, 107, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1263401, 3893, 6, 530499, 170, 0, NULL, 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (400939, 16459, 6, 529690, 327, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1208115, 3532, 6, 67177, 229, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (817260, 14379, 6, 918831, 178, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399901, 13392, 6, 526802, 499, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733448, 8017, 6, 1410295, 486, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (337583, 2689, 6, 812138, 475, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1343034, 13867, 6, 1156530, 206, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012626, 3791, 6, 669478, 162, 0, NULL, 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1296586, 6867, 6, 1217053, 94, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076246, 16585, 6, 332956, 62, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (829929, 9628, 6, 880220, 453, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (415477, 16619, 6, 581031, 287, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165498, 7392, 6, 205825, 118, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660914, 7324, 6, 470859, 38, 0, NULL, 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1273860, 2989, 6, 359675, 82, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (625402, 4689, 6, 823731, 85, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689307, 5344, 6, 593759, 308, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455530, 7251, 6, 1113905, 211, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271724, 1571, 6, 1022014, 83, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278204, 10152, 6, 911280, 57, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (534406, 12628, 6, 693817, 297, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1106809, 3953, 6, 588014, 425, 0, NULL, 1, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (221703, 5082, 6, 290256, 188, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (444844, 13724, 6, 1245649, 409, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (148178, 10356, 6, 398232, 15, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626612, 15115, 6, 675284, 83, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1217171, 5443, 6, 181200, 343, 0, NULL, 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (673683, 7147, 6, 866560, 125, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1540273, 9810, 6, 48759, 113, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (279564, 4343, 6, 481984, 206, 0, NULL, 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (590209, 14434, 6, 283911, 53, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009661, 7382, 6, 769425, 374, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (94671, 5140, 6, 781587, 86, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (212365, 14330, 6, 987040, 334, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (628743, 11689, 6, 30799, 228, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6082, 9242, 6, 1209814, 310, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (75540, 9307, 6, 1292908, 244, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (981009, 13735, 6, 573407, 113, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (54165, 14242, 6, 1076158, 387, 0, NULL, 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1525827, 2671, 6, 358195, 160, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (760944, 4303, 6, 1094431, 342, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164244, 13631, 6, 1187311, 116, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (586395, 11881, 6, 764051, 118, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (51119, 13738, 6, 1406663, 266, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (596587, 10441, 6, 1315633, 108, 0, NULL, 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1539334, 8979, 6, 524948, 322, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1222717, 8236, 6, 1131956, 458, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1013566, 15692, 6, 192921, 377, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (951533, 13431, 6, 468548, 222, 0, NULL, 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (510980, 14422, 6, 127758, 289, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (229699, 7330, 6, 457054, 269, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (350077, 16381, 6, 1148912, 221, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1276, 7977, 6, 816314, 83, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072074, 15307, 6, 1137212, 267, 0, NULL, 1, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (444100, 9974, 6, 888006, 297, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (119247, 2174, 6, 1402834, 233, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (62139, 12311, 6, 589958, 7, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (843616, 12472, 6, 196811, 281, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (108772, 8837, 6, 1377217, 150, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (803052, 14406, 6, 929740, 96, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (304143, 7882, 6, 491557, 280, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126398, 5715, 6, 589941, 389, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92504, 9811, 6, 149190, 60, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1235438, 15244, 6, 305793, 254, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1070544, 14088, 6, 875007, 145, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (315149, 11035, 6, 823957, 163, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (700801, 12522, 6, 1234745, 146, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376203, 14004, 6, 204115, 275, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (702216, 5491, 6, 866936, 244, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (675850, 1583, 6, 913083, 148, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1048282, 14596, 6, 1332047, 427, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058743, 14869, 6, 1408395, 303, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1446588, 8449, 6, 743433, 175, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (852344, 3299, 6, 606552, 339, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (44807, 3231, 6, 847688, 418, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (356015, 10164, 6, 233298, 68, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281606, 11875, 6, 59323, 155, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (517774, 8982, 6, 388954, 317, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (245328, 7083, 6, 432578, 62, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (717102, 7732, 6, 689804, 305, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (299257, 11979, 6, 229962, 30, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455249, 4380, 6, 158593, 83, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (102148, 9464, 6, 930205, 477, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (572538, 9204, 6, 1056176, 219, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487413, 12046, 6, 1020485, 254, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (267014, 7261, 6, 331769, 486, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (161454, 6750, 6, 173069, 90, 0, NULL, 1, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1447962, 12083, 6, 1315362, 7, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1405041, 12286, 6, 119229, 281, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (916262, 15104, 6, 1262817, 338, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (773700, 11068, 6, 786304, 123, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (407649, 12340, 6, 478754, 380, 0, NULL, 0, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (786233, 4005, 6, 110503, 143, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (539238, 13105, 6, 1288481, 73, 0, NULL, 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (159938, 10968, 6, 430843, 18, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (261516, 5272, 6, 1223659, 212, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (835262, 15885, 6, 667582, 477, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (222795, 15669, 6, 666960, 161, 0, NULL, 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (964241, 15254, 6, 1265054, 21, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (516027, 2277, 6, 647804, 350, 0, NULL, 0, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754809, 13932, 6, 93152, 296, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (72718, 13951, 6, 472530, 370, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (403725, 7787, 6, 1415505, 86, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (434342, 3290, 6, 1009504, 191, 0, NULL, 0, 86);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1479309, 4176, 6, 188167, 49, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (685556, 10401, 6, 1379621, 204, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1381766, 8003, 6, 917170, 431, 0, NULL, 1, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (71296, 11486, 6, 707713, 350, 0, NULL, 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (112158, 9548, 6, 788861, 402, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532948, 10087, 6, 833488, 103, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (987761, 5579, 6, 671460, 464, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (844054, 9118, 6, 1129324, 197, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715756, 4078, 6, 432135, 97, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (305101, 2211, 6, 230531, 169, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660458, 8775, 6, 1105505, 172, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (668282, 16216, 6, 981077, 88, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1143021, 1880, 6, 234318, 288, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767421, 7295, 6, 831366, 488, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1282627, 4104, 6, 1400976, 77, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1171642, 7342, 6, 485318, 292, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (337904, 8794, 6, 883363, 367, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (24692, 2110, 6, 111144, 49, 0, NULL, 1, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (715782, 7886, 6, 60512, 493, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (140214, 13523, 6, 253137, 421, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (295327, 5154, 6, 570735, 277, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (770259, 10541, 6, 635027, 497, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369649, 10104, 6, 1285911, 201, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (580684, 10545, 6, 867144, 119, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (485285, 12454, 6, 1098274, 434, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1506174, 2596, 6, 859050, 487, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1003154, 16456, 6, 898797, 383, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1482116, 11025, 6, 590665, 88, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178796, 14227, 6, 831825, 382, 0, NULL, 1, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1072728, 11348, 6, 561348, 146, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1165900, 1777, 6, 1130051, 246, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (357875, 12031, 6, 1144431, 329, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (976340, 10314, 6, 797955, 281, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (876823, 5843, 6, 247601, 399, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (313443, 11015, 6, 1198894, 399, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (659903, 13475, 6, 1025113, 339, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (98408, 12590, 6, 1086093, 139, 0, NULL, 0, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (277441, 4218, 6, 1089503, 332, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (645517, 13662, 6, 774340, 442, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21017, 7190, 6, 1195587, 377, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (373704, 3607, 6, 487149, 356, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (248835, 6444, 6, 55917, 165, 0, NULL, 1, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1398158, 13820, 6, 855376, 477, 0, NULL, 1, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153001, 12901, 6, 1396830, 121, 0, NULL, 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1151552, 16372, 6, 200308, 216, 0, NULL, 0, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (242132, 15944, 6, 283314, 139, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1553598, 8893, 6, 563741, 108, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707586, 12240, 6, 1220701, 299, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (675164, 14852, 6, 1342830, 369, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1169969, 13253, 6, 129532, 198, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1413178, 7355, 6, 246539, 479, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1526922, 10604, 6, 861271, 81, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (393550, 3163, 6, 840901, 185, 0, NULL, 0, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (941315, 12429, 6, 447275, 434, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (912436, 4386, 6, 1039044, 275, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (369519, 6962, 6, 275799, 466, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (80216, 15568, 6, 377467, 163, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455146, 10337, 6, 961397, 155, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1466358, 9587, 6, 1133572, 427, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1277402, 4782, 6, 993714, 141, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (9879, 12763, 6, 581976, 258, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579792, 11070, 6, 1328393, 83, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1009568, 8115, 6, 870285, 123, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1436687, 9880, 6, 1160655, 104, 0, NULL, 0, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1290753, 1971, 6, 729173, 301, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (49726, 10133, 6, 37618, 162, 0, NULL, 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (938889, 11735, 6, 571014, 450, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1113266, 15780, 6, 730262, 396, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (332741, 3743, 6, 468086, 170, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1146540, 7936, 6, 1397783, 315, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (183331, 6429, 6, 1277490, 10, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1085569, 4453, 6, 154302, 116, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428510, 16501, 6, 485309, 454, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1101776, 6392, 6, 105806, 419, 0, NULL, 1, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1202073, 15782, 6, 623417, 413, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73898, 4500, 6, 887416, 77, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (152911, 16182, 6, 1117173, 240, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1382777, 5179, 6, 376579, 402, 0, NULL, 0, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064370, 14570, 6, 683809, 211, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (764478, 6214, 6, 16151, 62, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1378314, 6929, 6, 347055, 472, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (401671, 14858, 6, 203014, 251, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1365957, 3198, 6, 1403152, 295, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (404851, 8788, 6, 505163, 359, 0, NULL, 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954865, 14009, 6, 1348537, 469, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1535918, 13381, 6, 156046, 450, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466163, 5879, 6, 91782, 159, 0, NULL, 0, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1061514, 12205, 6, 1063881, 463, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1248500, 6518, 6, 1276481, 341, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1307265, 2874, 6, 290881, 290, 0, NULL, 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (696524, 15134, 6, 506516, 315, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038410, 10056, 6, 678767, 311, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1092741, 6286, 6, 33526, 66, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363057, 12220, 6, 1391034, 89, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (405319, 12070, 6, 1299481, 393, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (269215, 5907, 6, 602353, 162, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1228679, 15205, 6, 949200, 375, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (421778, 13088, 6, 473409, 468, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (233414, 1997, 6, 588456, 466, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (520633, 16342, 6, 263343, 426, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (966876, 2790, 6, 867363, 116, 0, NULL, 1, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (751711, 14618, 6, 400027, 403, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (624204, 7658, 6, 1098811, 493, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455925, 4429, 6, 1079126, 472, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (317670, 2784, 6, 619540, 484, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (255240, 4538, 6, 65583, 78, 0, NULL, 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (466071, 16170, 6, 1090922, 409, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (627078, 16152, 6, 278341, 330, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (510725, 12479, 6, 1263714, 411, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (517449, 11303, 6, 1132829, 415, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93459, 8442, 6, 1062299, 495, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1055434, 1898, 6, 1096512, 495, 0, NULL, 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (347567, 11882, 6, 1279329, 239, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (368645, 14606, 6, 944048, 339, 0, NULL, 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (707006, 11336, 6, 1104233, 26, 0, NULL, 1, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278635, 13561, 6, 438966, 37, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699146, 16324, 6, 561213, 258, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (957640, 4606, 6, 465861, 93, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1193900, 11115, 6, 594465, 236, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153751, 2587, 6, 1093790, 468, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1186165, 14372, 6, 1094817, 352, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (705369, 13555, 6, 532518, 62, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (456285, 6009, 6, 499613, 420, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (500964, 1673, 6, 632774, 430, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (997295, 11709, 6, 171338, 117, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414377, 15413, 6, 473860, 194, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1281470, 15999, 6, 363426, 111, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (954334, 13402, 6, 415575, 277, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (207362, 16066, 6, 1384917, 281, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064637, 13488, 6, 955570, 69, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581297, 15888, 6, 884042, 96, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1377221, 16335, 6, 184552, 99, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (249279, 5677, 6, 242812, 449, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (357604, 15199, 6, 592339, 229, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814260, 16030, 6, 678186, 486, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1289842, 1685, 6, 532689, 270, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (745086, 2299, 6, 4412, 216, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (904302, 7642, 6, 478513, 187, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (792320, 1580, 6, 938613, 233, 0, NULL, 1, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064893, 3167, 6, 148417, 21, 0, NULL, 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1512401, 14780, 6, 429218, 363, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1184763, 4555, 6, 483126, 283, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1065857, 9483, 6, 1202483, 44, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (240756, 16235, 6, 1214321, 496, 0, NULL, 0, 14);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1117628, 5802, 6, 223274, 98, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (398954, 3908, 6, 932709, 326, 0, NULL, 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (765219, 15456, 6, 1241475, 424, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29747, 6014, 6, 646042, 171, 0, NULL, 1, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (754773, 15629, 6, 270432, 319, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1117147, 11525, 6, 44497, 452, 0, NULL, 0, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (14769, 10385, 6, 758709, 356, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498487, 7504, 6, 285194, 75, 0, NULL, 0, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1185976, 15602, 6, 1337166, 2, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1071075, 11913, 6, 1306324, 296, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (814561, 3538, 6, 1080130, 245, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (695822, 7198, 6, 106141, 189, 0, NULL, 1, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1058910, 3493, 6, 813286, 123, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1180877, 13211, 6, 900221, 60, 0, NULL, 1, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (629320, 16906, 6, 118429, 254, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (363302, 7189, 6, 679316, 123, 0, NULL, 1, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (782255, 16048, 6, 548569, 386, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1529347, 7977, 6, 41094, 419, 0, NULL, 1, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (826712, 8357, 6, 1153822, 350, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (540171, 14928, 6, 1115826, 134, 0, NULL, 0, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (877074, 16639, 6, 811976, 293, 0, NULL, 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (26833, 9448, 6, 186025, 144, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (455830, 4530, 6, 207132, 447, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1363270, 2547, 6, 889298, 110, 0, NULL, 1, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (13128, 5523, 6, 244141, 74, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (83131, 4612, 6, 374933, 98, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (133924, 10969, 6, 23696, 111, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (370622, 12793, 6, 377538, 87, 0, NULL, 0, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278919, 9129, 6, 630027, 59, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498063, 5648, 6, 1280173, 42, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513744, 6173, 6, 618956, 386, 0, NULL, 1, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1167621, 4860, 6, 1021558, 163, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1054531, 3176, 6, 451482, 82, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (900616, 11585, 6, 1137342, 29, 0, NULL, 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (924105, 9198, 6, 1213177, 64, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1195350, 3514, 6, 1159184, 456, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1498053, 12899, 6, 1318714, 356, 0, NULL, 0, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (980353, 8612, 6, 884934, 399, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1282501, 2309, 6, 737889, 296, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1463516, 4096, 6, 1188673, 186, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (14029, 5143, 6, 890096, 418, 0, NULL, 0, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1161202, 4749, 6, 512275, 413, 0, NULL, 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1272401, 2484, 6, 487182, 312, 0, NULL, 1, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1376518, 12516, 6, 331280, 342, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (320560, 16038, 6, 41149, 188, 0, NULL, 0, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29983, 6603, 6, 474412, 480, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (660139, 2290, 6, 624587, 89, 0, NULL, 1, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (919779, 12125, 6, 778443, 195, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1024552, 12724, 6, 1046465, 47, 0, NULL, 0, 65);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (90456, 10021, 6, 758237, 382, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1253602, 3172, 6, 66318, 76, 0, NULL, 0, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (573142, 10542, 6, 1320905, 87, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1131701, 4006, 6, 151166, 240, 0, NULL, 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767069, 16581, 6, 255230, 354, 0, NULL, 0, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1304040, 9505, 6, 451979, 463, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1524593, 1683, 6, 938190, 201, 0, NULL, 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566084, 4503, 6, 1095084, 361, 0, NULL, 1, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (820226, 3411, 6, 391230, 476, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (548659, 8327, 6, 1131290, 260, 0, NULL, 0, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (325305, 6063, 6, 1141241, 431, 0, NULL, 1, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811024, 12411, 6, 1162539, 310, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1047953, 13163, 6, 251295, 281, 0, NULL, 0, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1346719, 4152, 6, 1199024, 73, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1215434, 12175, 6, 213366, 63, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (93251, 16966, 6, 1227946, 257, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1425595, 10612, 6, 488460, 1, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (709745, 1674, 6, 433762, 155, 0, NULL, 1, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1408156, 9503, 6, 1137835, 219, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (324188, 1791, 6, 540792, 370, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (533553, 10508, 6, 1303985, 293, 0, NULL, 0, 52);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (316847, 7201, 6, 789849, 296, 0, NULL, 1, 4);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (6457, 10096, 6, 235233, 287, 0, NULL, 0, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (85258, 10500, 6, 765718, 61, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (937115, 12242, 6, 933377, 281, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (561749, 14743, 6, 452264, 313, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (880445, 10456, 6, 831733, 289, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (500876, 14307, 6, 553602, 500, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (652065, 14387, 6, 44450, 191, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (975629, 8286, 6, 522708, 128, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1472293, 14814, 6, 130534, 422, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (716221, 3493, 6, 1136553, 98, 0, NULL, 1, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (19130, 4475, 6, 1000129, 102, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (531771, 14185, 6, 734888, 369, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1383565, 13362, 6, 479814, 278, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (417516, 16360, 6, 875748, 298, 0, NULL, 0, 20);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (782833, 4980, 6, 97973, 77, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (487550, 1898, 6, 532450, 28, 0, NULL, 0, 54);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (351412, 13071, 6, 1026217, 309, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1273579, 4700, 6, 541886, 26, 0, NULL, 1, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (10974, 8894, 6, 842628, 115, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1187737, 3509, 6, 1060051, 278, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1268907, 16373, 6, 404253, 200, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (722279, 6900, 6, 513033, 318, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (887782, 12072, 6, 750718, 66, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689657, 15198, 6, 105696, 152, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1404650, 9266, 6, 1016005, 214, 0, NULL, 1, 26);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (603472, 6704, 6, 520584, 425, 0, NULL, 1, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (278234, 8876, 6, 337674, 497, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (38834, 9749, 6, 518721, 355, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193790, 13963, 6, 935246, 167, 0, NULL, 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414923, 14286, 6, 343432, 349, 0, NULL, 1, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (821799, 6110, 6, 567040, 275, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1278552, 8641, 6, 930371, 338, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (177230, 8094, 6, 387672, 103, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (854788, 3027, 6, 1399831, 3, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295888, 6665, 6, 134367, 369, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (810334, 8390, 6, 524512, 495, 0, NULL, 0, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (174293, 5789, 6, 720905, 145, 0, NULL, 1, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68652, 9860, 6, 847184, 33, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (158770, 4325, 6, 347776, 135, 0, NULL, 0, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (988161, 2539, 6, 113869, 104, 0, NULL, 1, 1);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (66230, 15108, 6, 901330, 357, 0, NULL, 0, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012811, 1706, 6, 776104, 260, 0, NULL, 1, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (423630, 15733, 6, 202473, 329, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1129781, 3758, 6, 103646, 229, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (367685, 11677, 6, 285605, 8, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (426430, 8036, 6, 659226, 11, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (98868, 13742, 6, 169133, 272, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1388509, 2806, 6, 202936, 169, 0, NULL, 0, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (646155, 3879, 6, 180138, 171, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (692232, 7910, 6, 89650, 66, 0, NULL, 0, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (931339, 1905, 6, 249313, 367, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (248648, 2322, 6, 204663, 58, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1209806, 12383, 6, 1155383, 111, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (549256, 15779, 6, 709942, 167, 0, NULL, 1, 39);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (236802, 13071, 6, 1081776, 288, 0, NULL, 1, 61);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (516426, 13754, 6, 112332, 403, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198262, 11007, 6, 1296730, 20, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (746564, 8904, 6, 71038, 452, 0, NULL, 0, 9);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (259665, 4323, 6, 1420461, 98, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (343580, 15579, 6, 514583, 342, 0, NULL, 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (243592, 11456, 6, 564892, 372, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1499306, 10748, 6, 152760, 202, 0, NULL, 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (314995, 2343, 6, 280466, 54, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (287360, 9574, 6, 1832, 277, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1528646, 7909, 6, 95541, 445, 0, NULL, 0, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1458812, 9902, 6, 782101, 8, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (589057, 6190, 6, 779374, 261, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1400281, 10269, 6, 525356, 208, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (738474, 11255, 6, 1401479, 84, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1130402, 9116, 6, 1081207, 317, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (767265, 7113, 6, 1064733, 495, 0, NULL, 1, 95);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193865, 4254, 6, 1020599, 337, 0, NULL, 0, 41);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (512654, 10598, 6, 350555, 231, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1225379, 2383, 6, 464280, 164, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (329759, 10592, 6, 1071258, 64, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (162118, 3417, 6, 70466, 69, 0, NULL, 0, 59);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (29028, 3675, 6, 400319, 247, 0, NULL, 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (260800, 13319, 6, 813714, 492, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (689708, 9454, 6, 1218528, 303, 0, NULL, 1, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (82585, 16581, 6, 817212, 52, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92699, 8873, 6, 1294241, 206, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (950943, 15672, 6, 792702, 405, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1338843, 3160, 6, 1192940, 387, 0, NULL, 0, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1128686, 13941, 6, 220097, 161, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (566966, 2175, 6, 1093285, 344, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (438144, 3437, 6, 708367, 183, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (559207, 9540, 6, 792469, 415, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1233293, 15591, 6, 187854, 344, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1481666, 5485, 6, 389887, 256, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (795806, 3011, 6, 148658, 94, 0, NULL, 1, 34);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (210427, 15811, 6, 1391088, 188, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1438282, 16152, 6, 1180743, 33, 0, NULL, 0, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1312391, 9155, 6, 526577, 331, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1302631, 10642, 6, 1098098, 253, 0, NULL, 1, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (201832, 8259, 6, 358590, 210, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1495714, 6207, 6, 856129, 371, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1153521, 2817, 6, 1333885, 416, 0, NULL, 0, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411151, 14666, 6, 1020931, 3, 0, NULL, 1, 79);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (365034, 5951, 6, 1275911, 469, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1076949, 10167, 6, 82995, 23, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (972621, 10464, 6, 735669, 33, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (92705, 4081, 6, 461459, 361, 0, NULL, 0, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (273922, 16747, 6, 799372, 423, 0, NULL, 1, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1184704, 15949, 6, 1021571, 227, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1353450, 2402, 6, 772536, 61, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (372486, 3361, 6, 325853, 101, 0, NULL, 0, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (411212, 16443, 6, 498309, 426, 0, NULL, 0, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1120371, 14345, 6, 1067317, 113, 0, NULL, 1, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (541396, 16350, 6, 687333, 357, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178117, 8576, 6, 195887, 483, 0, NULL, 0, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1378484, 15626, 6, 1288055, 178, 0, NULL, 1, 98);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (296705, 4155, 6, 549230, 31, 0, NULL, 1, 85);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1022328, 11907, 6, 1194067, 89, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (449743, 12306, 6, 1159724, 149, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1197340, 15067, 6, 73882, 429, 0, NULL, 0, 30);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (820377, 12762, 6, 945522, 187, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1182697, 14486, 6, 191783, 184, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1159415, 15942, 6, 574008, 408, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1432168, 6211, 6, 988902, 410, 0, NULL, 0, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (583558, 1742, 6, 132065, 500, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (808656, 5107, 6, 448571, 289, 0, NULL, 0, 46);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1037179, 5578, 6, 939437, 58, 0, NULL, 1, 6);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (925627, 4371, 6, 339964, 98, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (618764, 14816, 6, 1404084, 342, 0, NULL, 0, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (733889, 7474, 6, 75683, 500, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193347, 13348, 6, 675283, 310, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1370749, 6421, 6, 61137, 222, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1459952, 12784, 6, 1050651, 181, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1329417, 14962, 6, 243725, 131, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1428549, 9825, 6, 1171588, 376, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (378655, 11999, 6, 810225, 338, 0, NULL, 0, 8);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1111688, 6150, 6, 1069088, 193, 0, NULL, 0, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (43412, 16732, 6, 298018, 213, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (48385, 6186, 6, 107396, 250, 0, NULL, 0, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1520694, 5793, 6, 1199769, 241, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1100488, 2616, 6, 99834, 346, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (731368, 16839, 6, 220568, 252, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1196532, 9864, 6, 569878, 440, 0, NULL, 1, 70);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1532729, 10720, 6, 142442, 121, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1083029, 13316, 6, 825931, 70, 0, NULL, 0, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (368233, 13002, 6, 1199754, 335, 0, NULL, 0, 58);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1409392, 13942, 6, 517961, 88, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1385050, 15610, 6, 719559, 445, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1474870, 6265, 6, 100642, 431, 0, NULL, 1, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1497883, 9127, 6, 774876, 188, 0, NULL, 0, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (149808, 3054, 6, 552324, 161, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (570172, 2547, 6, 1132527, 233, 0, NULL, 0, 82);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581373, 14443, 6, 961816, 372, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (435675, 5653, 6, 1418662, 417, 0, NULL, 0, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (400082, 16462, 6, 203685, 159, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (581714, 4456, 6, 161445, 203, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1018725, 11393, 6, 1071125, 73, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1399719, 14432, 6, 1410412, 50, 0, NULL, 1, 2);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (365553, 15566, 6, 1170359, 61, 0, NULL, 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1271528, 6655, 6, 1061478, 12, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (638095, 13292, 6, 938228, 38, 0, NULL, 0, 68);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1142612, 10638, 6, 997296, 26, 0, NULL, 0, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (95177, 6987, 6, 791571, 22, 0, NULL, 1, 71);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1402289, 4506, 6, 210483, 175, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (554476, 16925, 6, 312281, 293, 0, NULL, 0, 5);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (224625, 7179, 6, 282631, 88, 0, NULL, 0, 17);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (953540, 12091, 6, 303276, 165, 0, NULL, 0, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (835371, 8784, 6, 1019039, 303, 0, NULL, 0, 99);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (346129, 4058, 6, 938531, 277, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1021017, 3496, 6, 741517, 45, 0, NULL, 1, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1313080, 9696, 6, 49005, 171, 0, NULL, 1, 32);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (748427, 5810, 6, 375248, 52, 0, NULL, 1, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1192457, 5658, 6, 707500, 479, 0, NULL, 1, 43);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (139547, 12057, 6, 1191504, 176, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1239807, 5641, 6, 563624, 119, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1268656, 8564, 6, 252826, 77, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1366028, 9098, 6, 373371, 338, 0, NULL, 1, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (358178, 11529, 6, 1320240, 204, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (73767, 13671, 6, 126279, 479, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1496627, 9643, 6, 1101022, 148, 0, NULL, 0, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (744012, 5699, 6, 503574, 455, 0, NULL, 1, 25);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1305054, 14840, 6, 1372052, 289, 0, NULL, 1, 72);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (895716, 6024, 6, 440586, 295, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1411803, 6324, 6, 979055, 10, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1064944, 9357, 6, 55235, 47, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (688031, 4676, 6, 929870, 41, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1295472, 2068, 6, 877293, 173, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (836290, 13971, 6, 980555, 280, 0, NULL, 0, 63);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (875166, 8480, 6, 861246, 380, 0, NULL, 0, 3);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1492927, 16799, 6, 852461, 203, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (22697, 6030, 6, 1305060, 133, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (126042, 3992, 6, 974152, 405, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1431928, 6192, 6, 627769, 281, 0, NULL, 1, 47);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1038376, 5073, 6, 1321931, 362, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (576683, 5453, 6, 945639, 303, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (159875, 8054, 6, 933406, 166, 0, NULL, 1, 100);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (801577, 12074, 6, 383350, 67, 0, NULL, 1, 18);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (58222, 7670, 6, 100148, 288, 0, NULL, 1, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (834395, 5410, 6, 1141503, 332, 0, NULL, 0, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1178716, 15394, 6, 831301, 129, 0, NULL, 1, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1232498, 5994, 6, 123565, 381, 0, NULL, 1, 16);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (789159, 7377, 6, 815752, 416, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (45388, 6557, 6, 879845, 306, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1466930, 2890, 6, 1371927, 355, 0, NULL, 1, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (288396, 7084, 6, 80200, 394, 0, NULL, 1, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (35723, 13967, 6, 1085534, 391, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (26907, 13801, 6, 582076, 496, 0, NULL, 1, 87);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1017906, 12463, 6, 245512, 245, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1414755, 6908, 6, 670545, 313, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1010674, 8816, 6, 339477, 6, 0, NULL, 1, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216835, 6885, 6, 1241342, 412, 0, NULL, 1, 40);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1285741, 10246, 6, 590281, 2, 0, NULL, 0, 15);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (41337, 3188, 6, 740654, 67, 0, NULL, 0, 96);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (614337, 13924, 6, 1022061, 496, 0, NULL, 1, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (462346, 3268, 6, 129018, 337, 0, NULL, 0, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (170051, 5932, 6, 965310, 21, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (216285, 8730, 6, 415781, 269, 0, NULL, 0, 90);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (967960, 12485, 6, 1010480, 9, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (874054, 10453, 6, 1082426, 177, 0, NULL, 0, 89);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (953376, 2831, 6, 243039, 409, 0, NULL, 1, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1144262, 5910, 6, 1277121, 314, 0, NULL, 1, 35);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (906943, 2711, 6, 253322, 483, 0, NULL, 1, 80);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (258781, 10219, 6, 1177038, 192, 0, NULL, 0, 7);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1091632, 11338, 6, 1395287, 203, 0, NULL, 0, 53);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (903230, 6483, 6, 625993, 48, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1224718, 8222, 6, 429933, 82, 0, NULL, 1, 37);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (811682, 5762, 6, 937112, 222, 0, NULL, 1, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (109014, 11316, 6, 1207875, 228, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1276317, 12748, 6, 1010967, 191, 0, NULL, 0, 78);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1382036, 14324, 6, 1353388, 15, 0, NULL, 1, 66);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (390905, 15518, 6, 60516, 460, 0, NULL, 1, 33);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (721152, 5054, 6, 837082, 353, 0, NULL, 0, 74);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (631116, 3198, 6, 789405, 96, 0, NULL, 0, 13);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (973912, 9316, 6, 324255, 345, 0, NULL, 0, 11);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1390638, 3191, 6, 843044, 212, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (963750, 10917, 6, 72117, 302, 0, NULL, 1, 69);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (757960, 3230, 6, 666111, 158, 0, NULL, 0, 38);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (682138, 2877, 6, 178681, 339, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (354544, 14081, 6, 71983, 190, 0, NULL, 0, 22);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1097697, 11677, 6, 100421, 393, 0, NULL, 1, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1253284, 8743, 6, 1120362, 245, 0, NULL, 0, 64);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (303328, 15620, 6, 21476, 12, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (775123, 2733, 6, 968377, 18, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1300854, 14907, 6, 536564, 476, 0, NULL, 1, 28);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (784278, 11116, 6, 918765, 99, 0, NULL, 1, 29);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1488370, 11023, 6, 197937, 485, 0, NULL, 0, 75);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1546722, 2476, 6, 243913, 335, 0, NULL, 0, 42);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1420843, 8565, 6, 1021581, 149, 0, NULL, 0, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (923982, 1644, 6, 484677, 383, 0, NULL, 0, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1198881, 15808, 6, 1162303, 177, 0, NULL, 0, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1547458, 6949, 6, 330011, 262, 0, NULL, 1, 36);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (890978, 14356, 6, 107242, 379, 0, NULL, 0, 31);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1249741, 2709, 6, 403541, 351, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1259282, 10104, 6, 236939, 427, 0, NULL, 0, 57);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (552754, 4334, 6, 1113197, 98, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (921170, 15502, 6, 741698, 300, 0, NULL, 1, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (699927, 12943, 6, 127383, 446, 0, NULL, 0, 23);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (86757, 13297, 6, 1035535, 418, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (299653, 12060, 6, 741601, 469, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1455292, 12591, 6, 927882, 242, 0, NULL, 0, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (204872, 2775, 6, 143063, 203, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1513782, 16889, 6, 967037, 78, 0, NULL, 1, 12);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (902060, 16118, 6, 397644, 181, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153954, 12534, 6, 868056, 43, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (579821, 12441, 6, 782273, 219, 0, NULL, 0, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (602751, 3842, 6, 812289, 104, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (528772, 3434, 6, 810729, 229, 0, NULL, 0, 56);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1392537, 13289, 6, 1166015, 290, 0, NULL, 0, 19);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1542035, 7054, 6, 300866, 61, 0, NULL, 0, 83);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1012251, 7887, 6, 273423, 323, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (339385, 2723, 6, 598310, 366, 0, NULL, 1, 21);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1187515, 8677, 6, 409478, 111, 0, NULL, 1, 67);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (101563, 9620, 6, 152653, 462, 0, NULL, 1, 60);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (21702, 1792, 6, 916313, 273, 0, NULL, 1, 51);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (605334, 6729, 6, 135046, 327, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1119676, 9406, 6, 362097, 296, 0, NULL, 1, 93);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (46534, 12574, 6, 546817, 154, 0, NULL, 1, 48);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (191850, 10787, 6, 240841, 184, 0, NULL, 0, 45);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1335776, 11026, 6, 942241, 323, 0, NULL, 1, 91);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (624923, 4093, 6, 1155256, 487, 0, NULL, 1, 94);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (153021, 5076, 6, 423385, 82, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (298795, 13170, 6, 552547, 182, 0, NULL, 0, 73);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1164069, 9928, 6, 306091, 154, 0, NULL, 1, 62);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (168354, 14078, 6, 74959, 342, 0, NULL, 0, 81);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (690179, 7762, 6, 906251, 323, 0, NULL, 1, 76);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (193164, 11599, 6, 452713, 393, 0, NULL, 1, 84);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (74784, 14868, 6, 821133, 143, 0, NULL, 1, 10);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1457777, 4590, 6, 117118, 337, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1080630, 4017, 6, 979384, 426, 0, NULL, 1, 50);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (551739, 8712, 6, 76698, 320, 0, NULL, 0, 97);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (132923, 12887, 6, 542060, 169, 0, NULL, 1, 27);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1081497, 4267, 6, 698696, 131, 0, NULL, 0, 49);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1545973, 13594, 6, 350701, 200, 0, NULL, 0, 44);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1210337, 3138, 6, 385117, 98, 0, NULL, 1, 55);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (389425, 16533, 6, 230970, 351, 0, NULL, 0, 77);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (329985, 6119, 6, 1114346, 19, 0, NULL, 1, 88);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (930268, 16907, 6, 1374398, 214, 0, NULL, 1, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (626272, 12178, 6, 924766, 330, 0, NULL, 0, 24);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (1001558, 9978, 6, 1403937, 191, 0, NULL, 1, 92);
+INSERT INTO specific_items_on_sale (steam_item_id, item_type_id, item_quality_id, price, seller_id, inspectable, inspect_link, is_featured, bot_id) VALUES (68274, 5601, 6, 1085958, 141, 0, NULL, 1, 11);
 
 -- Generation time: Mon, 06 Jan 2020 16:03:29 +0000
 -- Host: mysql.hostinger.ro
@@ -37165,7 +37165,7 @@ INSERT INTO specific_items_on_sale (item_id, item_type_id, item_quality_id, pric
 
 DROP TABLE IF EXISTS `sold_items`;
 CREATE TABLE `sold_items` (
-  `item_id` int(10) unsigned NOT NULL,
+  `steam_item_id` int(10) unsigned NOT NULL,
   `item_type_id` int(10) unsigned NOT NULL,
   `item_quality_id` int(10) unsigned NOT NULL,
   `price` int(10) unsigned NOT NULL,
@@ -38187,9 +38187,9 @@ INSERT INTO `sold_items` VALUES ('140767693','13345','2','517507','20','78','199
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 
--- Generation time: Mon, 06 Jan 2020 16:07:58 +0000
+-- Generation time: Mon, 06 Jan 2020 17:23:14 +0000
 -- Host: mysql.hostinger.ro
--- DB name: u574849695_19
+-- DB name: u574849695_22
 /*!40030 SET NAMES UTF8 */;
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -38204,514 +38204,515 @@ INSERT INTO `sold_items` VALUES ('140767693','13345','2','517507','20','78','199
 DROP TABLE IF EXISTS `buy_orders`;
 CREATE TABLE `buy_orders` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `item_type_id` int(10) NOT NULL,
-  `item_quality_id` int(10) NOT NULL,
+  `buyer_id` int(10) unsigned NOT NULL,
+  `item_type_id` int(10) unsigned NOT NULL,
+  `item_quality_id` int(10) unsigned NOT NULL,
   `price` int(10) NOT NULL,
   `app_id` int(10) unsigned NOT NULL DEFAULT 0,
   `created_at` datetime DEFAULT current_timestamp(),
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=501 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-INSERT INTO `buy_orders` VALUES ('1','10123','4','364337716','1','2018-07-06 04:52:20'),
-('2','9804','6','221066860','3','2007-07-03 18:12:34'),
-('3','6156','5','264458467','2','2018-06-09 02:31:47'),
-('4','11575','3','255577332','3','1970-02-07 13:06:34'),
-('5','10592','6','70192685','2','2017-09-11 18:51:49'),
-('6','6449','5','394258473','3','1999-03-18 23:42:42'),
-('7','5441','5','393951860','1','1996-07-16 13:36:44'),
-('8','13264','2','213686864','2','1991-05-10 11:05:23'),
-('9','5634','6','284423486','3','1983-02-12 19:14:05'),
-('10','10906','3','59662221','1','2012-08-07 02:32:16'),
-('11','12364','2','15811076','3','1980-08-02 09:54:04'),
-('12','1464','1','160126596','2','2017-02-14 05:49:07'),
-('13','6222','5','268687812','3','1995-05-27 15:05:22'),
-('14','12849','1','184771450','1','1979-03-17 14:15:04'),
-('15','12301','6','143763699','2','2007-08-13 11:34:21'),
-('16','11831','3','71626801','1','1991-08-30 15:28:12'),
-('17','1721','2','193164557','1','2015-09-03 23:51:02'),
-('18','8578','4','5258842','1','1996-12-18 04:06:48'),
-('19','12713','4','151249009','3','1974-05-09 06:20:18'),
-('20','3337','6','366885011','1','2002-03-01 07:09:26'),
-('21','15863','2','408838006','2','1993-06-16 11:29:19'),
-('22','2848','4','83270340','2','1991-04-15 12:46:18'),
-('23','9080','1','48720344','2','2006-05-23 11:10:52'),
-('24','16094','3','340388867','2','1987-11-27 01:16:19'),
-('25','2693','2','176380091','3','2000-07-28 19:09:35'),
-('26','452','5','342631617','3','2008-01-07 08:19:13'),
-('27','640','4','150389935','3','1973-09-07 16:20:52'),
-('28','5769','2','13309759','1','1986-10-10 22:38:49'),
-('29','4594','3','398608444','1','1973-03-18 11:11:28'),
-('30','10917','4','68720582','1','2007-01-05 18:15:01'),
-('31','5356','1','104692604','3','2014-04-16 07:01:59'),
-('32','16363','5','320367635','1','2000-08-29 11:46:53'),
-('33','3860','2','135227080','2','1992-06-20 02:45:09'),
-('34','18','4','216206101','1','1974-05-01 06:02:40'),
-('35','4299','1','43961793','3','1979-09-18 05:38:31'),
-('36','15158','1','92485641','2','1999-08-18 01:28:53'),
-('37','4510','4','90721967','2','2006-05-05 23:15:05'),
-('38','9708','2','326892396','1','1990-11-15 14:25:43'),
-('39','7420','2','41866537','1','1994-08-14 16:01:38'),
-('40','4670','2','175649781','3','1982-08-18 00:46:08'),
-('41','7030','6','407505266','3','2012-01-18 17:34:01'),
-('42','14748','3','175565948','2','2001-09-17 23:41:38'),
-('43','14640','6','119550617','3','2001-12-24 12:20:33'),
-('44','11571','4','65130962','1','2015-10-14 01:45:02'),
-('45','9131','5','351082831','3','2005-11-14 04:48:41'),
-('46','6236','6','250680094','3','2013-11-16 20:44:09'),
-('47','11136','2','180029766','3','1983-12-27 23:53:27'),
-('48','7523','5','233289807','2','1988-08-20 18:32:27'),
-('49','8547','2','73671574','3','2016-09-27 21:30:14'),
-('50','10070','6','400491245','3','2009-01-02 15:08:17'),
-('51','1264','5','193982348','1','1973-07-30 17:48:42'),
-('52','3834','4','61625277','1','2009-08-30 19:40:48'),
-('53','12696','4','153609444','3','2001-03-08 17:17:56'),
-('54','15792','1','296524393','1','1975-09-07 08:32:47'),
-('55','9352','1','65812611','2','2006-04-21 09:56:06'),
-('56','13243','5','165053366','1','1973-09-01 22:35:33'),
-('57','12332','3','219011880','2','2009-10-28 14:24:01'),
-('58','1335','6','14533464','3','1991-10-02 08:38:52'),
-('59','7303','6','294329682','3','1972-04-08 04:25:18'),
-('60','7031','2','376010811','2','2018-12-16 21:40:57'),
-('61','11114','3','391106666','1','1982-07-11 05:56:03'),
-('62','2846','5','147393658','1','1979-02-27 10:51:03'),
-('63','12500','5','63297783','1','1975-08-01 09:06:12'),
-('64','1213','6','74161088','3','2007-10-05 10:22:47'),
-('65','14817','3','227510909','2','1990-08-17 02:36:10'),
-('66','9359','1','109839373','1','1987-02-26 17:24:36'),
-('67','8883','1','63684390','2','2015-09-14 12:21:35'),
-('68','7671','4','297456893','2','1993-04-08 20:18:45'),
-('69','10777','5','298655699','2','1983-05-13 21:44:09'),
-('70','10738','5','253812603','3','2015-02-03 21:29:21'),
-('71','15682','3','46579341','2','1977-11-12 21:02:38'),
-('72','13826','5','73435947','3','2003-01-03 13:12:31'),
-('73','3766','1','257860552','2','1980-03-24 13:49:14'),
-('74','10668','4','3378429','1','2013-03-17 11:13:32'),
-('75','9387','1','138428352','1','2019-05-06 21:35:13'),
-('76','10048','5','374961128','1','2017-01-03 02:03:10'),
-('77','8078','5','31319951','1','2018-03-15 07:32:02'),
-('78','3014','4','364213094','2','1997-05-01 21:48:23'),
-('79','15590','6','226906377','3','1980-02-09 00:26:26'),
-('80','9289','2','368574818','1','1982-09-17 04:22:48'),
-('81','15916','1','396398480','3','2003-04-11 10:45:46'),
-('82','6748','5','39214378','2','1985-07-13 11:44:36'),
-('83','4250','2','409127711','2','1987-06-30 01:19:54'),
-('84','1220','5','357351960','3','1973-03-19 06:51:04'),
-('85','6223','3','182084318','2','2006-09-27 18:38:22'),
-('86','6503','2','364869902','3','1989-05-24 02:26:20'),
-('87','12677','6','180745565','3','2012-09-06 15:41:43'),
-('88','2232','2','208067063','2','1988-11-17 07:04:14'),
-('89','7111','6','193009301','3','1970-04-23 01:04:09'),
-('90','15754','5','65149857','3','2005-11-04 15:29:41'),
-('91','4251','2','275491900','1','1980-02-18 04:48:50'),
-('92','1907','5','145476269','2','1973-11-15 03:15:37'),
-('93','16652','4','61570710','1','2013-02-02 13:33:58'),
-('94','3190','5','65372061','2','1970-11-05 11:07:02'),
-('95','12335','2','391123255','3','1973-05-10 19:46:24'),
-('96','16059','2','228580497','3','2005-07-05 00:12:44'),
-('97','7000','3','244916026','2','2000-02-05 14:29:43'),
-('98','7873','1','164142030','1','1973-02-13 02:24:38'),
-('99','12417','5','175725510','1','2014-12-03 01:35:18'),
-('100','3595','1','279253220','1','2010-11-15 02:20:01'),
-('101','13488','5','287288910','1','2005-12-01 06:52:55'),
-('102','8360','6','235513936','3','1982-08-08 06:04:52'),
-('103','5334','2','69420481','2','1997-03-26 07:36:03'),
-('104','9018','4','409724773','1','2013-07-13 11:39:05'),
-('105','6019','6','38462559','3','2014-10-11 04:47:27'),
-('106','1766','6','385276038','3','2011-08-04 22:13:00'),
-('107','7017','6','183416244','2','2017-01-07 20:44:40'),
-('108','7672','5','209720310','2','2005-06-16 22:53:01'),
-('109','12869','1','278806546','1','1970-08-15 09:05:59'),
-('110','15954','1','337289026','2','1995-05-17 01:47:46'),
-('111','12279','2','13855110','2','1994-01-11 07:49:42'),
-('112','14650','6','254836952','1','1991-10-03 22:53:04'),
-('113','12131','4','157730833','3','1979-03-15 13:23:20'),
-('114','6632','1','301646970','2','1979-03-31 23:53:00'),
-('115','9493','4','354489463','1','1988-08-13 13:54:38'),
-('116','4378','4','383719983','1','1971-01-12 04:57:13'),
-('117','15598','1','20062893','3','1973-03-20 00:01:34'),
-('118','7259','6','50917947','1','1985-10-07 20:45:52'),
-('119','3448','1','88060618','1','2017-02-07 06:39:29'),
-('120','6904','5','333732812','2','2002-05-05 12:19:58'),
-('121','2394','6','371979899','3','2000-02-05 01:44:02'),
-('122','9960','4','75969982','2','1998-07-26 20:26:30'),
-('123','8394','2','348626414','2','1992-02-18 20:07:37'),
-('124','1626','1','283712063','1','1995-01-17 10:31:45'),
-('125','641','5','47893560','2','2015-08-04 14:32:40'),
-('126','11974','5','350991141','2','1994-09-09 04:54:25'),
-('127','16329','6','382560422','3','1987-09-11 18:40:09'),
-('128','16673','4','89295931','2','1990-03-19 12:22:28'),
-('129','16568','4','213573701','3','2004-05-19 05:51:42'),
-('130','5741','4','211650983','2','2009-07-11 10:21:47'),
-('131','5317','1','325807885','1','2013-07-24 09:19:06'),
-('132','3453','5','114793390','1','1988-08-15 14:43:41'),
-('133','8653','2','162083840','2','1990-06-27 19:38:13'),
-('134','2965','5','208098775','2','2002-03-25 02:20:13'),
-('135','8481','2','141797944','1','1983-02-21 10:35:40'),
-('136','10426','6','356287072','3','1990-01-05 10:47:14'),
-('137','4757','4','173506587','1','1995-04-02 10:38:48'),
-('138','13864','3','48295855','3','2004-05-10 16:07:54'),
-('139','2820','6','221466608','1','2006-03-17 11:52:36'),
-('140','16248','3','320148853','3','1998-05-06 16:19:02'),
-('141','1375','4','240901211','3','1997-06-07 17:34:52'),
-('142','15742','2','91823228','1','1975-10-08 02:28:37'),
-('143','14897','1','197297527','2','1986-02-12 18:28:56'),
-('144','14641','1','251958630','3','1985-11-28 10:31:46'),
-('145','11933','5','267842686','1','1981-09-28 13:36:04'),
-('146','8661','3','78218284','1','1974-06-15 08:55:51'),
-('147','3483','6','325431829','2','2001-12-18 19:19:02'),
-('148','5025','1','321127634','1','1986-10-08 16:34:09'),
-('149','10941','6','386317199','2','1979-12-15 00:11:50'),
-('150','15611','4','271099681','1','1984-03-21 19:10:35'),
-('151','13515','4','77118576','2','1997-05-27 08:30:33'),
-('152','6893','5','97620760','1','1984-03-26 02:09:44'),
-('153','11674','3','304185210','1','2011-07-22 17:51:26'),
-('154','4663','6','69069052','2','1984-03-15 22:42:48'),
-('155','9520','2','94201153','3','2019-07-24 01:28:36'),
-('156','3058','2','66078567','2','2008-02-06 16:54:11'),
-('157','15589','6','36786736','1','2013-10-07 06:59:44'),
-('158','15719','2','329830588','3','1978-07-09 07:03:10'),
-('159','13832','2','83561517','2','1977-12-29 08:20:45'),
-('160','6470','6','234590162','3','1972-07-14 10:52:29'),
-('161','5507','6','334091259','1','1977-09-25 04:53:49'),
-('162','10864','4','223073322','2','1990-12-17 02:08:18'),
-('163','6336','3','143948065','3','1997-05-02 01:29:21'),
-('164','14669','5','228727951','2','1996-09-20 18:59:47'),
-('165','978','3','298334626','1','1981-02-06 14:51:34'),
-('166','1995','4','231936445','3','1982-04-03 00:30:11'),
-('167','681','3','6851185','1','2014-11-22 09:41:31'),
-('168','13214','4','191787963','2','1978-04-19 14:51:42'),
-('169','6804','5','251559045','2','2012-01-08 04:37:41'),
-('170','12268','6','147215677','1','2010-03-28 12:15:47'),
-('171','6795','4','114978954','1','1991-09-13 15:04:07'),
-('172','16622','6','329455106','1','2017-10-20 16:33:16'),
-('173','15343','6','260683653','3','2014-10-08 10:09:27'),
-('174','7583','4','154909886','3','1996-09-26 06:50:52'),
-('175','10806','1','115087248','2','1994-02-05 07:48:10'),
-('176','15421','1','378492275','1','1974-06-29 11:48:51'),
-('177','4453','3','155112205','2','1993-07-27 08:04:57'),
-('178','7979','5','388669675','3','1987-06-02 06:44:05'),
-('179','3561','6','283057922','3','2017-03-12 04:19:26'),
-('180','16580','3','63625278','3','1983-11-14 21:35:40'),
-('181','5287','3','136032608','1','1987-01-02 23:45:05'),
-('182','11360','1','255463640','2','1998-06-24 18:55:47'),
-('183','4262','6','282228662','3','1998-12-02 06:55:20'),
-('184','5964','4','147650691','3','1973-07-18 19:40:13'),
-('185','12857','3','129968047','3','1995-10-06 20:20:48'),
-('186','16682','4','14820412','2','2010-03-19 09:11:21'),
-('187','1128','5','282393324','1','2012-04-14 09:28:50'),
-('188','9495','1','132115687','2','1982-12-30 01:01:11'),
-('189','9785','6','112269041','2','2010-01-28 14:13:44'),
-('190','15284','1','128603221','1','1999-08-03 07:15:55'),
-('191','13353','1','311436395','2','2008-08-05 17:56:38'),
-('192','15129','5','59511111','2','1974-04-06 04:37:11'),
-('193','15034','4','89295223','2','1976-06-03 13:17:58'),
-('194','11388','6','94956352','1','1972-02-22 01:27:53'),
-('195','8489','3','50772051','2','1998-10-05 06:27:42'),
-('196','5003','6','166111766','1','2011-04-17 11:25:20'),
-('197','2607','1','205422922','3','2016-12-22 22:39:25'),
-('198','9012','3','154237868','1','2010-01-28 02:53:07'),
-('199','11409','3','134824143','2','2006-02-05 15:42:35'),
-('200','3245','3','6541600','2','2007-12-15 00:03:46'),
-('201','4661','5','131867432','2','2001-09-26 21:47:55'),
-('202','2238','5','221026719','2','1995-06-15 01:15:25'),
-('203','8002','2','127627959','1','1978-07-05 18:04:13'),
-('204','16429','5','399544795','3','1981-11-04 05:03:59'),
-('205','8539','6','204605694','1','2010-07-08 19:32:30'),
-('206','570','2','17527708','3','2010-12-07 18:07:40'),
-('207','10009','4','2564239','1','2019-02-14 19:24:07'),
-('208','15374','1','28533821','2','1997-07-27 13:44:36'),
-('209','9615','6','349735482','1','1987-02-21 14:14:33'),
-('210','8162','6','197178259','3','1999-06-16 12:24:31'),
-('211','13621','2','134707502','3','1994-02-11 08:37:54'),
-('212','5308','4','391977116','3','2003-06-21 21:22:26'),
-('213','12085','3','372757716','2','1976-06-03 19:45:19'),
-('214','231','2','134988623','3','2004-08-08 17:50:11'),
-('215','15095','2','313447846','1','1989-11-10 14:27:43'),
-('216','1374','4','186187342','1','2000-04-01 08:40:49'),
-('217','12388','3','89513180','2','2007-07-26 10:28:30'),
-('218','3040','3','194785134','1','2007-07-04 11:46:43'),
-('219','12301','6','314224805','1','1970-05-06 00:23:42'),
-('220','14612','1','88059990','3','1997-10-22 07:12:45'),
-('221','11629','5','5651069','2','1990-01-19 10:22:25'),
-('222','11509','1','63093077','1','1978-11-21 05:49:17'),
-('223','12105','1','298039111','2','2008-04-22 11:53:48'),
-('224','178','1','362764286','1','1973-04-23 12:32:36'),
-('225','12266','1','66227813','1','1994-05-17 16:58:29'),
-('226','1238','1','240302946','1','2010-09-10 22:10:24'),
-('227','4958','2','217302555','2','1971-08-18 01:16:49'),
-('228','4159','1','115169417','2','1980-03-29 07:59:17'),
-('229','13928','1','89488626','2','2018-01-20 02:51:35'),
-('230','10938','4','77205931','1','1974-06-14 13:44:33'),
-('231','16557','5','333620182','2','1998-04-12 14:19:16'),
-('232','14613','1','198113857','3','2008-07-21 00:30:09'),
-('233','9607','1','379587921','1','1978-08-27 15:29:13'),
-('234','772','6','51488939','2','1996-02-07 17:37:12'),
-('235','14671','1','233127054','2','2014-07-15 03:25:32'),
-('236','2323','6','407146875','1','1987-08-23 06:39:50'),
-('237','2994','5','182956831','3','1990-06-10 15:50:45'),
-('238','4743','6','233139756','2','2014-07-19 22:12:56'),
-('239','15809','4','9253782','2','2005-01-16 11:22:52'),
-('240','3664','1','191070163','3','2009-01-30 11:17:52'),
-('241','14468','6','195311978','3','2010-10-30 08:37:53'),
-('242','12648','4','402282027','1','1977-07-14 11:14:52'),
-('243','13200','6','273650528','3','1997-07-11 04:49:50'),
-('244','11609','1','357133668','1','1981-07-25 17:43:52'),
-('245','4523','6','295997239','3','1971-11-27 13:18:28'),
-('246','232','3','72274903','3','1983-11-04 10:49:18'),
-('247','14343','6','377901739','3','2002-07-29 19:17:54'),
-('248','1633','2','66164081','1','1989-01-17 13:49:59'),
-('249','8008','2','125809705','1','2006-11-30 02:32:57'),
-('250','3244','6','1707703','2','2006-10-07 11:21:10'),
-('251','8287','2','372829366','3','1990-07-10 14:47:19'),
-('252','11468','3','377355773','1','1978-01-27 03:40:46'),
-('253','15295','4','271915464','2','1978-09-14 17:41:38'),
-('254','2114','6','196574139','2','1987-09-12 20:17:14'),
-('255','4429','3','312137674','3','1997-06-29 21:20:39'),
-('256','10483','1','36745461','1','1997-03-07 07:59:59'),
-('257','651','4','36559318','1','2008-03-30 20:14:06'),
-('258','7925','4','100719607','2','1986-12-31 20:10:58'),
-('259','5070','6','389678555','1','1994-01-01 06:22:53'),
-('260','4899','5','218357667','3','1978-08-05 09:57:29'),
-('261','15857','3','410615212','1','1975-03-30 17:55:59'),
-('262','475','1','144723851','3','2019-11-13 09:34:55'),
-('263','12955','2','4348437','3','2005-07-27 17:30:29'),
-('264','9461','5','99999834','3','1990-03-27 06:10:41'),
-('265','9471','1','284198053','3','2000-11-16 22:21:20'),
-('266','13000','3','27046522','1','1993-07-25 22:29:59'),
-('267','1395','5','232654035','2','2005-06-19 05:20:53'),
-('268','13976','5','276947250','2','1992-01-27 08:08:13'),
-('269','6940','3','307750417','3','1988-04-13 15:41:52'),
-('270','2808','6','20949564','2','1983-09-10 08:13:49'),
-('271','11710','3','371254238','1','1997-06-19 19:51:01'),
-('272','5060','4','276735899','1','2005-12-01 10:35:18'),
-('273','6154','1','72811532','2','2011-06-11 22:01:52'),
-('274','14758','3','271184419','1','1990-10-05 13:35:27'),
-('275','738','1','394631272','3','2018-11-28 06:58:21'),
-('276','11470','6','194498919','3','2016-06-17 12:50:52'),
-('277','6750','1','258478625','1','1975-12-27 04:00:25'),
-('278','9536','5','26455198','2','1997-03-28 12:58:09'),
-('279','7985','2','272860874','2','1990-09-24 21:38:17'),
-('280','12306','2','334332751','1','2010-08-17 22:46:55'),
-('281','13526','3','129707935','1','1980-05-11 02:55:24'),
-('282','12038','6','391846523','2','1974-08-19 16:29:37'),
-('283','1914','3','238866130','1','2011-08-19 10:47:32'),
-('284','5023','5','71217878','3','1974-11-10 11:30:01'),
-('285','12734','3','295508159','1','1982-06-26 07:57:55'),
-('286','5127','4','37890107','2','1986-09-23 20:01:06'),
-('287','15','2','365025119','1','1992-02-20 17:55:39'),
-('288','13734','1','286393297','1','2003-08-16 21:18:38'),
-('289','6654','4','301434977','2','2014-12-03 00:21:24'),
-('290','10946','4','273357','3','1982-04-20 14:04:04'),
-('291','2459','2','160540012','3','1975-08-24 05:04:45'),
-('292','5982','1','88262190','3','1989-01-13 15:18:56'),
-('293','5981','6','153658207','2','1977-08-27 08:49:11'),
-('294','12338','2','26434179','2','1993-04-10 04:04:46'),
-('295','6974','4','163808530','2','2010-12-07 08:31:16'),
-('296','2806','4','258721164','2','2017-07-01 10:26:25'),
-('297','1433','4','80524292','3','1980-11-30 23:11:49'),
-('298','4461','4','56887605','1','2017-10-29 01:00:15'),
-('299','628','6','316102930','3','2002-07-21 14:49:21'),
-('300','5634','1','160356345','1','1975-02-05 16:05:36'),
-('301','4648','4','208278668','1','1987-04-05 17:55:01'),
-('302','15358','3','254443597','1','2014-08-29 16:46:47'),
-('303','8395','3','355662371','1','2012-09-08 11:56:41'),
-('304','12180','2','287977887','1','2010-08-07 12:02:15'),
-('305','2320','5','123459467','1','1992-03-30 22:11:19'),
-('306','9935','5','227574677','3','1978-03-28 07:52:57'),
-('307','2238','3','53351108','1','1971-11-01 21:11:32'),
-('308','11593','5','392850130','2','1996-12-12 11:32:22'),
-('309','8064','4','346787848','1','2002-04-19 18:14:50'),
-('310','10999','1','320183373','3','1974-08-03 03:04:31'),
-('311','5282','5','278153031','3','1994-02-05 09:09:13'),
-('312','9266','5','125262245','2','1990-11-30 08:04:40'),
-('313','11299','3','336965468','2','2009-10-28 12:31:39'),
-('314','13336','5','212231931','2','1995-09-17 20:49:34'),
-('315','8266','4','286830996','3','1972-05-11 01:05:50'),
-('316','1935','2','173891581','3','1990-10-31 16:02:13'),
-('317','10756','3','94537326','3','1979-06-09 12:57:04'),
-('318','3915','1','238446663','2','1977-06-03 18:01:11'),
-('319','7586','2','397576872','3','1976-08-01 01:39:57'),
-('320','1227','3','85047809','2','2019-09-12 00:46:05'),
-('321','8719','3','101937899','3','1990-12-10 15:22:58'),
-('322','9','1','356373191','3','1987-09-25 12:53:38'),
-('323','13510','6','56601159','2','2018-11-15 20:45:08'),
-('324','15047','1','100378532','2','2005-12-14 22:37:23'),
-('325','1971','4','102221489','2','1990-07-02 16:11:27'),
-('326','6519','3','60680351','2','1996-07-09 01:14:57'),
-('327','3586','2','5624335','2','1976-09-05 22:52:47'),
-('328','12543','5','155154353','3','1971-09-08 02:45:17'),
-('329','8477','2','166600665','1','1994-02-18 02:59:24'),
-('330','1175','4','364806861','3','1983-08-13 09:23:02'),
-('331','15541','6','218473148','2','1976-09-13 19:49:03'),
-('332','8313','5','68758062','2','1994-09-21 11:07:54'),
-('333','15366','6','84295301','2','2014-01-12 22:37:32'),
-('334','3429','5','266926764','3','1977-12-22 13:19:24'),
-('335','15207','3','124412969','2','1982-09-14 11:51:10'),
-('336','11944','6','156406570','2','1996-02-06 18:22:25'),
-('337','3929','3','351821572','2','2007-11-11 03:18:51'),
-('338','8684','1','29351132','1','1975-11-16 13:17:59'),
-('339','12808','4','228255268','3','2005-07-31 01:05:30'),
-('340','6750','3','10748677','2','1975-10-27 12:04:07'),
-('341','779','1','397363138','1','1990-12-08 13:19:59'),
-('342','3318','4','411573991','1','2018-10-11 23:03:34'),
-('343','8215','5','389111570','2','2000-10-23 14:21:35'),
-('344','4363','5','360851566','1','1973-04-30 20:27:49'),
-('345','11885','5','228397179','1','1996-08-30 10:06:32'),
-('346','9651','1','73355651','2','2002-08-29 12:49:11'),
-('347','13866','4','117637318','2','2009-03-29 07:44:44'),
-('348','1817','2','333785829','2','1982-08-21 12:21:33'),
-('349','16433','2','152670442','3','1980-11-24 23:57:36'),
-('350','863','1','263751189','3','1972-12-20 07:05:25'),
-('351','6234','3','348627092','1','2001-10-05 04:32:27'),
-('352','14540','4','276202823','1','2008-04-23 17:24:21'),
-('353','16385','5','196732083','3','1991-10-10 14:31:59'),
-('354','5484','3','225845402','3','1980-08-18 20:01:07'),
-('355','9313','6','242171387','2','1990-02-17 14:08:26'),
-('356','11779','2','173295569','2','1979-01-27 17:45:53'),
-('357','9314','3','84772277','1','2011-04-07 21:41:31'),
-('358','4287','1','118604620','3','1984-11-22 16:00:03'),
-('359','14446','3','122710187','2','2017-03-11 06:32:08'),
-('360','5868','6','291244273','1','2005-10-29 13:58:41'),
-('361','5125','5','18857598','3','2002-09-22 11:51:43'),
-('362','15332','4','228085956','1','1976-09-22 05:21:39'),
-('363','5234','6','355585577','1','1982-01-20 01:01:05'),
-('364','14774','6','114612597','2','1994-11-13 04:58:18'),
-('365','23','3','63050296','1','1997-06-28 09:20:39'),
-('366','549','6','259289837','1','2004-07-26 04:27:57'),
-('367','12073','2','108176618','1','1977-07-02 13:44:46'),
-('368','8254','5','377352068','2','1996-04-29 05:01:27'),
-('369','15528','4','156781491','1','1972-02-01 09:26:30'),
-('370','6105','6','288586479','1','1986-02-05 04:17:59'),
-('371','731','2','54205683','1','2011-04-21 13:25:34'),
-('372','15122','6','209122140','3','1991-01-20 15:04:44'),
-('373','30','6','52800556','3','1990-09-15 05:04:19'),
-('374','5517','3','276021221','2','2018-02-22 01:38:22'),
-('375','14965','2','46714733','2','1981-07-31 12:40:40'),
-('376','11727','5','6916608','1','1988-07-25 20:37:06'),
-('377','8595','1','286565794','2','1976-03-07 10:21:07'),
-('378','14725','4','377603526','3','1985-01-31 15:48:41'),
-('379','2469','1','22567917','2','1994-03-18 03:46:21'),
-('380','11883','5','380492363','2','2004-08-03 20:43:23'),
-('381','12578','4','242933838','3','1988-05-22 00:16:59'),
-('382','43','2','299604656','2','1981-06-08 15:02:14'),
-('383','13745','5','267471268','3','2002-11-22 08:34:25'),
-('384','2953','4','28753869','3','2000-07-10 17:25:49'),
-('385','13975','1','121182447','1','1998-08-12 20:15:09'),
-('386','11565','1','165334160','1','2013-07-20 15:35:20'),
-('387','3603','6','211581225','1','1981-04-11 19:48:56'),
-('388','10107','3','46328169','3','1992-01-01 22:11:09'),
-('389','11258','6','274272112','1','2006-06-30 05:58:38'),
-('390','13560','5','249521383','1','1982-10-21 00:27:43'),
-('391','6048','3','410430925','1','2000-03-09 05:35:43'),
-('392','9569','4','72925824','1','1980-11-02 02:31:50'),
-('393','4172','4','157609607','3','1977-09-06 00:07:18'),
-('394','3596','3','23101442','2','1974-01-29 20:59:29'),
-('395','7296','5','198038618','1','1977-12-20 01:03:51'),
-('396','15235','2','78700917','1','2008-10-05 07:33:28'),
-('397','13675','6','200594997','2','1982-08-01 16:15:19'),
-('398','1961','4','341056195','2','1989-10-01 15:20:48'),
-('399','1510','1','17174330','1','2010-02-13 04:01:00'),
-('400','16766','6','37827520','1','2017-07-29 15:48:51'),
-('401','15014','6','173015288','1','1990-04-25 09:27:25'),
-('402','2279','5','135303699','1','1988-02-28 06:06:04'),
-('403','3728','1','325126896','3','1985-08-15 13:29:23'),
-('404','14410','2','134917648','1','2007-06-10 19:01:55'),
-('405','15269','6','18348173','3','1987-10-29 18:11:27'),
-('406','1983','6','393668255','1','1994-11-26 10:54:09'),
-('407','3769','4','343145570','2','2009-05-17 23:16:13'),
-('408','10073','6','185133855','3','2010-05-19 08:44:58'),
-('409','11323','6','126939731','1','1977-01-12 01:37:29'),
-('410','5329','3','11390654','2','2000-04-06 07:05:29'),
-('411','5619','3','144483128','3','1994-08-13 04:22:49'),
-('412','935','1','313579673','2','1992-12-31 17:22:07'),
-('413','2697','2','149412888','1','1999-10-17 22:24:51'),
-('414','11996','5','137571045','3','2017-02-01 02:51:59'),
-('415','16110','5','381439756','2','1983-06-05 14:52:46'),
-('416','8414','6','205264757','2','2010-12-21 09:05:57'),
-('417','12950','3','139325696','3','2000-09-19 14:12:09'),
-('418','16959','3','86023654','1','1983-11-10 11:22:01'),
-('419','7241','2','225790442','3','2008-08-03 16:24:45'),
-('420','4273','1','351652178','2','1998-09-08 18:03:53'),
-('421','5013','2','320701103','1','1989-07-06 09:55:59'),
-('422','11048','2','318637770','1','1986-02-12 14:42:23'),
-('423','2982','6','144465166','3','1998-06-17 14:18:13'),
-('424','5579','4','378153743','2','2012-08-12 09:07:08'),
-('425','4604','1','63294189','3','1993-07-29 07:36:05'),
-('426','359','1','98390427','3','1981-11-30 07:54:57'),
-('427','16854','5','371592937','2','2002-10-19 09:56:53'),
-('428','7948','5','276484752','3','2004-09-08 13:05:42'),
-('429','4647','3','157464564','3','1996-07-04 11:28:22'),
-('430','10859','5','321204038','3','2016-08-03 18:41:56'),
-('431','2925','3','353367671','3','1980-12-25 17:29:21'),
-('432','16398','2','225898246','2','1970-01-12 07:34:34'),
-('433','2847','6','295714196','1','2005-03-09 03:56:04'),
-('434','7633','5','305759269','1','1974-07-22 05:46:27'),
-('435','14331','5','217495279','3','2008-11-21 09:09:58'),
-('436','14726','2','192123061','2','1980-12-22 03:34:04'),
-('437','3837','2','71257417','3','1984-12-19 06:23:06'),
-('438','7763','2','313323966','3','1986-12-03 23:28:48'),
-('439','7061','6','388643059','3','1983-07-21 19:21:53'),
-('440','5605','4','273725913','2','2008-08-26 10:21:52'),
-('441','1588','6','66754789','1','1976-11-05 16:08:50'),
-('442','1093','4','47606553','2','2006-06-25 23:28:33'),
-('443','6288','2','22616073','2','2016-01-14 01:31:21'),
-('444','5493','2','194086986','3','2004-11-27 07:03:16'),
-('445','4611','2','410164308','3','1973-04-08 03:32:41'),
-('446','12059','3','378700620','3','2019-02-15 14:21:17'),
-('447','15863','2','135806014','1','2003-12-10 01:16:40'),
-('448','16410','3','276076262','1','2007-11-15 22:04:16'),
-('449','1417','5','150039823','2','1984-04-14 10:14:42'),
-('450','6148','2','210769903','3','1982-12-14 21:40:48'),
-('451','12731','5','283702184','3','1986-02-09 08:53:27'),
-('452','11032','5','56817736','1','1984-06-07 20:24:41'),
-('453','3269','3','377106750','3','2002-07-25 19:09:12'),
-('454','3477','5','82684062','2','2015-12-27 17:44:34'),
-('455','12294','3','204239898','3','2004-04-27 10:28:26'),
-('456','7043','4','126615034','1','2010-07-18 09:42:23'),
-('457','5599','5','74709411','3','2014-10-06 12:59:35'),
-('458','9387','4','390037318','3','1978-10-25 07:51:11'),
-('459','9734','5','370414788','3','2008-11-17 20:35:06'),
-('460','16514','5','101476245','1','1997-02-21 10:06:25'),
-('461','6816','2','333364013','2','1977-10-24 07:19:00'),
-('462','11031','3','127606592','3','2004-05-02 23:42:56'),
-('463','4013','3','399323218','2','1974-09-11 19:32:12'),
-('464','2055','1','309121797','1','1975-04-05 18:15:59'),
-('465','13167','6','231852145','3','1991-06-13 12:05:21'),
-('466','12516','1','217382742','2','1976-11-26 06:21:03'),
-('467','12272','3','104014535','3','1998-09-23 20:42:36'),
-('468','11819','1','144202882','3','2017-03-10 23:07:51'),
-('469','6079','6','167399131','1','1989-05-05 20:03:21'),
-('470','1773','1','249040938','1','1989-03-15 18:37:33'),
-('471','12047','6','9714919','3','2014-06-14 22:21:13'),
-('472','13893','4','397401057','3','2012-07-30 03:26:51'),
-('473','10035','3','11009626','2','1970-10-07 10:53:14'),
-('474','15641','6','115849845','1','1999-03-24 13:39:25'),
-('475','15891','1','1192916','1','2001-12-20 17:53:11'),
-('476','5157','3','282885330','2','1970-08-08 09:22:01'),
-('477','16321','3','221980861','3','2007-08-20 03:25:22'),
-('478','5373','1','264776097','1','1978-06-23 14:23:13'),
-('479','14737','3','282065746','2','2006-02-17 15:56:42'),
-('480','6737','6','395532575','2','2011-09-12 21:43:43'),
-('481','15751','6','119904625','1','1999-06-07 09:40:14'),
-('482','14756','1','400360997','1','1977-12-15 01:10:10'),
-('483','2829','6','363900974','1','1972-01-05 06:55:53'),
-('484','6950','1','199856575','3','2007-09-29 02:47:05'),
-('485','16785','3','137185855','2','1974-08-21 01:06:41'),
-('486','13598','5','406094288','3','2018-02-05 13:03:06'),
-('487','10100','6','411128240','1','1977-03-12 20:27:29'),
-('488','13951','3','313659716','2','1971-11-16 03:05:54'),
-('489','16367','1','54051392','3','1976-09-10 15:19:50'),
-('490','261','2','205472549','3','2003-04-01 02:44:18'),
-('491','5938','4','23911996','1','2010-09-08 21:09:04'),
-('492','8210','5','407233777','2','2016-03-13 09:25:53'),
-('493','5924','1','336289499','2','1998-10-02 18:40:14'),
-('494','15681','1','346867518','3','1987-09-21 19:15:50'),
-('495','14125','1','45637820','2','1986-03-28 05:11:09'),
-('496','6433','4','2446265','1','1991-12-05 13:24:24'),
-('497','7142','6','172231160','2','1978-02-08 22:23:45'),
-('498','1999','4','340469392','3','1994-02-25 03:09:04'),
-('499','10772','1','290767635','2','1985-07-28 08:21:12'),
-('500','11498','2','26830697','2','1979-04-09 11:48:53'); 
+INSERT INTO `buy_orders` VALUES ('1', '147', '9243', '0', '365955578', '4', '1999-12-09 00:49:49'),
+('2', '252', '4582', '0', '336701570', '2', '1990-01-14 15:10:02'),
+('3', '244', '10085', '0', '371130395', '2', '1987-07-14 10:43:34'),
+('4', '357', '9437', '0', '276590518', '4', '1977-01-06 07:27:26'),
+('5', '328', '12820', '0', '62087280', '3', '2000-10-10 09:30:19'),
+('6', '206', '7601', '6', '6', '147875983', '1', '2010-07-07 00:04:33'),
+('7', '7', '15775', '0', '216969651', '4', '2016-03-17 09:58:52'),
+('8', '313', '10877', '0', '384157046', '2', '2012-12-15 14:48:32'),
+('9', '70', '14411', '0', '213876935', '3', '1979-10-11 21:20:20'),
+('10', '132', '2731', '1', '1', '128669635', '1', '1992-08-11 07:58:48'),
+('11', '138', '10788', '0', '223853978', '4', '1984-02-19 23:51:13'),
+('12', '411', '12812', '0', '237116207', '3', '1992-10-06 04:42:25'),
+('13', '172', '865', '0', '361733796', '2', '2001-12-22 16:47:28'),
+('14', '441', '10883', '0', '119687984', '2', '2011-11-12 07:40:14'),
+('15', '328', '5103', '0', '377671418', '4', '2001-04-03 17:04:18'),
+('16', '252', '6734', '0', '251627566', '3', '1989-06-13 00:16:44'),
+('17', '219', '10811', '0', '59102396', '3', '2005-12-30 13:49:35'),
+('18', '192', '7730', '0', '379445444', '3', '1976-06-17 06:15:35'),
+('19', '314', '6076', '0', '240016072', '3', '1995-04-17 01:27:14'),
+('20', '338', '6138', '4', '4', '164899342', '1', '2013-06-28 16:47:50'),
+('21', '470', '16452', '0', '247258445', '3', '2010-07-31 21:55:22'),
+('22', '397', '14867', '0', '50526155', '2', '1997-12-07 10:42:29'),
+('23', '116', '13055', '0', '69556896', '2', '2005-11-11 13:51:13'),
+('24', '90', '9649', '1', '1', '251219025', '1', '2010-11-04 21:15:40'),
+('25', '74', '16399', '1', '1', '255043943', '1', '2011-04-24 06:44:42'),
+('26', '149', '11604', '1', '1', '18751714', '1', '1973-01-22 18:20:10'),
+('27', '244', '7182', '0', '306462209', '4', '1990-08-29 01:29:08'),
+('28', '294', '6373', '0', '395006710', '2', '2017-11-22 09:52:34'),
+('29', '191', '13216', '6', '6', '70023120', '1', '1988-06-12 23:34:28'),
+('30', '1', '2646', '3', '3', '366579581', '1', '1999-03-19 19:48:48'),
+('31', '88', '8044', '0', '297750087', '2', '2015-12-25 15:37:20'),
+('32', '440', '2605', '0', '311088597', '2', '2005-03-03 19:28:31'),
+('33', '206', '16293', '1', '1', '113179507', '1', '1975-11-12 11:40:48'),
+('34', '382', '3819', '0', '315023821', '3', '2006-03-13 05:17:37'),
+('35', '157', '2275', '3', '3', '204127577', '1', '1986-04-02 02:54:37'),
+('36', '158', '11576', '0', '355800381', '2', '1999-10-02 17:32:18'),
+('37', '450', '1859', '3', '3', '324763131', '1', '2005-07-20 14:45:53'),
+('38', '316', '3419', '0', '343641168', '2', '2014-06-15 09:46:57'),
+('39', '499', '7634', '0', '20988436', '4', '1972-06-05 22:54:01'),
+('40', '230', '826', '0', '54024161', '3', '2017-06-11 05:53:16'),
+('41', '61', '9529', '4', '4', '378219266', '1', '1995-02-13 05:13:17'),
+('42', '9', '11284', '0', '166447352', '4', '1999-12-18 07:44:12'),
+('43', '3', '3501', '0', '222432607', '4', '2017-03-20 22:22:17'),
+('44', '16', '12665', '0', '288107428', '3', '1974-09-18 07:29:00'),
+('45', '360', '16289', '0', '309179797', '2', '2006-04-11 18:25:02'),
+('46', '259', '14471', '0', '359694324', '4', '1988-01-30 21:59:37'),
+('47', '181', '14819', '2', '2', '365773281', '1', '1997-08-15 14:55:13'),
+('48', '27', '3013', '3', '3', '91739762', '1', '2002-09-30 03:38:04'),
+('49', '271', '2409', '0', '85251346', '3', '2008-03-22 16:32:32'),
+('50', '285', '15490', '0', '394457541', '2', '2006-02-19 11:20:12'),
+('51', '2', '15536', '0', '92352485', '3', '2019-03-08 13:25:47'),
+('52', '338', '7879', '0', '332628488', '4', '2012-05-19 22:43:54'),
+('53', '417', '12124', '0', '358005678', '2', '1976-06-10 14:07:05'),
+('54', '345', '16871', '0', '133795086', '2', '1992-04-13 16:54:22'),
+('55', '43', '2747', '5', '5', '15849493', '1', '1978-09-21 17:20:33'),
+('56', '1', '12020', '0', '122443053', '4', '2017-05-22 18:48:13'),
+('57', '77', '8661', '4', '4', '363628506', '1', '1992-04-12 04:16:41'),
+('58', '103', '3882', '0', '95441451', '4', '1983-11-24 20:30:14'),
+('59', '382', '13153', '0', '330185460', '3', '2010-09-04 14:51:20'),
+('60', '240', '1134', '0', '298346948', '4', '2017-12-17 20:46:00'),
+('61', '383', '9369', '0', '406996582', '3', '2007-06-22 14:12:34'),
+('62', '334', '13991', '0', '80314676', '3', '1990-10-24 06:34:54'),
+('63', '165', '6691', '0', '400056123', '3', '2018-04-15 13:54:08'),
+('64', '42', '12828', '5', '5', '245900950', '1', '2018-07-01 00:04:52'),
+('65', '499', '5960', '5', '5', '352357187', '1', '1985-04-22 13:50:13'),
+('66', '238', '12654', '0', '208055693', '2', '2018-01-10 15:02:16'),
+('67', '259', '691', '0', '256602628', '4', '1998-04-04 05:46:48'),
+('68', '109', '8568', '0', '350219872', '2', '1997-11-25 07:32:50'),
+('69', '204', '6777', '0', '188423065', '4', '1972-09-23 12:45:51'),
+('70', '348', '12156', '5', '5', '192059098', '1', '1976-07-01 15:27:19'),
+('71', '214', '1877', '0', '135052365', '2', '1980-04-11 10:39:39'),
+('72', '195', '16557', '1', '1', '39474323', '1', '2016-08-05 10:44:36'),
+('73', '409', '1335', '0', '319705648', '2', '1977-04-14 19:09:34'),
+('74', '464', '15627', '0', '211424634', '2', '2001-03-05 15:49:58'),
+('75', '433', '9892', '0', '192046214', '2', '2013-02-15 23:27:12'),
+('76', '433', '11390', '0', '398894069', '4', '2003-01-09 00:36:56'),
+('77', '232', '2111', '4', '4', '226758382', '1', '1981-04-25 14:55:16'),
+('78', '410', '12910', '0', '349970289', '4', '1970-05-18 09:23:46'),
+('79', '271', '6842', '0', '266518524', '3', '2015-01-29 15:12:20'),
+('80', '105', '4335', '0', '226870235', '3', '2010-08-19 04:11:03'),
+('81', '33', '16309', '0', '7623847', '3', '1988-03-25 01:44:48'),
+('82', '99', '12558', '0', '185990194', '3', '2010-02-14 05:43:14'),
+('83', '327', '15262', '0', '297735323', '2', '2008-07-15 11:08:10'),
+('84', '346', '14047', '0', '332432351', '2', '1971-06-04 01:48:09'),
+('85', '466', '10550', '0', '183238992', '3', '2000-08-29 11:12:41'),
+('86', '252', '16306', '0', '374080203', '4', '2015-10-06 10:49:41'),
+('87', '419', '2681', '0', '183308251', '3', '1993-02-09 03:27:14'),
+('88', '353', '7728', '0', '399628369', '3', '2006-02-10 09:38:34'),
+('89', '498', '8543', '0', '156416576', '3', '1986-11-25 20:28:16'),
+('90', '134', '9972', '0', '100413334', '4', '1981-10-21 20:21:54'),
+('91', '440', '16264', '0', '115923192', '2', '1983-07-15 02:49:22'),
+('92', '289', '5232', '2', '2', '362047772', '1', '1979-02-26 06:18:25'),
+('93', '462', '16195', '0', '158687989', '4', '1986-01-01 20:08:53'),
+('94', '17', '1326', '0', '360634287', '4', '1992-06-15 18:31:28'),
+('95', '6', '6848', '0', '14242173', '2', '1979-03-17 05:00:27'),
+('96', '92', '4954', '0', '395064145', '2', '1999-03-23 11:41:13'),
+('97', '254', '16254', '6', '6', '218604356', '1', '2010-07-09 08:10:49'),
+('98', '40', '10562', '0', '169378491', '2', '1995-03-09 07:13:47'),
+('99', '360', '415', '0', '276626483', '3', '2007-02-28 12:00:47'),
+('100', '153', '11540', '0', '397434226', '4', '2012-06-02 08:49:13'),
+('101', '314', '11542', '0', '216075418', '3', '2005-11-17 00:19:00'),
+('102', '113', '8040', '0', '208743445', '2', '1987-11-29 20:21:20'),
+('103', '112', '3840', '0', '177491578', '3', '2019-01-26 01:05:27'),
+('104', '489', '15168', '2', '2', '55645032', '1', '2015-09-22 22:31:30'),
+('105', '327', '963', '0', '66065033', '2', '1990-02-07 07:57:24'),
+('106', '160', '13182', '0', '299870723', '4', '1991-01-24 12:57:47'),
+('107', '82', '7250', '0', '315919957', '2', '1970-12-16 01:42:52'),
+('108', '111', '1248', '0', '293535749', '3', '2013-06-05 21:35:36'),
+('109', '56', '9753', '0', '38995297', '2', '1993-05-28 07:33:47'),
+('110', '183', '8572', '0', '189830729', '4', '2010-06-21 12:26:55'),
+('111', '124', '3857', '0', '5218194', '4', '1978-04-19 09:25:25'),
+('112', '275', '16627', '0', '176415856', '3', '2014-07-07 18:40:56'),
+('113', '73', '3491', '0', '101581057', '2', '2017-10-12 22:38:02'),
+('114', '61', '16910', '0', '195578951', '3', '1992-10-09 04:28:37'),
+('115', '370', '10658', '0', '313218132', '4', '2004-10-29 01:40:18'),
+('116', '74', '5702', '3', '3', '252231578', '1', '2018-10-07 09:53:22'),
+('117', '109', '10083', '0', '1349604', '3', '1981-01-21 00:10:03'),
+('118', '145', '12904', '0', '5529230', '4', '1995-01-10 06:18:00'),
+('119', '419', '11352', '0', '97436097', '3', '1984-07-18 02:22:30'),
+('120', '273', '13317', '5', '5', '365198185', '1', '2017-03-14 11:20:20'),
+('121', '465', '3882', '0', '9287639', '3', '2005-02-21 10:36:54'),
+('122', '151', '13271', '0', '137091293', '3', '1971-02-14 16:55:57'),
+('123', '64', '7909', '0', '252742859', '2', '2000-08-03 11:08:31'),
+('124', '20', '6522', '0', '22646571', '4', '2005-08-21 05:10:31'),
+('125', '405', '2748', '0', '55481106', '3', '1978-06-13 23:33:38'),
+('126', '147', '16814', '0', '308017004', '4', '1986-12-31 04:47:14'),
+('127', '296', '10032', '0', '53323799', '4', '2019-10-22 16:32:27'),
+('128', '69', '2975', '0', '341328946', '2', '2008-09-26 18:46:02'),
+('129', '196', '15305', '5', '5', '341786369', '1', '1991-04-12 16:42:27'),
+('130', '464', '11216', '0', '319851491', '3', '2019-10-31 07:32:24'),
+('131', '112', '6827', '0', '64217690', '2', '2011-01-15 17:26:09'),
+('132', '58', '10867', '0', '242111387', '2', '2016-02-02 08:25:32'),
+('133', '180', '14851', '0', '383211511', '3', '2002-09-15 03:35:53'),
+('134', '88', '16175', '2', '2', '313235221', '1', '2001-03-31 08:55:53'),
+('135', '425', '12884', '0', '176816445', '3', '1982-04-27 19:15:42'),
+('136', '103', '9721', '0', '143978732', '4', '1990-06-25 04:24:17'),
+('137', '387', '4589', '0', '23957641', '3', '1984-06-22 02:34:47'),
+('138', '73', '9066', '0', '381954286', '4', '1981-12-28 23:19:57'),
+('139', '34', '3335', '0', '104327822', '2', '1996-05-30 03:58:17'),
+('140', '189', '2446', '0', '118083890', '3', '1990-06-17 11:48:50'),
+('141', '256', '12013', '0', '410470217', '2', '1978-09-20 08:41:00'),
+('142', '58', '10508', '6', '6', '48368121', '1', '1988-06-27 06:27:54'),
+('143', '106', '13055', '5', '5', '370277111', '1', '1988-08-29 23:37:41'),
+('144', '79', '14110', '0', '373245618', '2', '1987-02-08 02:14:57'),
+('145', '122', '10967', '0', '314182471', '3', '1993-09-13 01:29:41'),
+('146', '198', '11706', '0', '127981679', '3', '2008-10-18 00:47:10'),
+('147', '146', '858', '0', '306631114', '3', '2003-06-30 06:49:15'),
+('148', '434', '9872', '0', '308051636', '2', '2006-03-22 11:33:15'),
+('149', '123', '10423', '0', '29875633', '4', '2013-09-03 17:20:33'),
+('150', '263', '15654', '0', '298394588', '3', '1993-10-11 10:33:01'),
+('151', '493', '6047', '0', '209806953', '4', '1982-09-20 15:58:08'),
+('152', '447', '9935', '0', '274033039', '4', '1978-03-06 18:53:29'),
+('153', '406', '3449', '3', '3', '232390135', '1', '2006-01-03 17:22:20'),
+('154', '293', '13168', '0', '98819326', '4', '1989-12-06 11:25:57'),
+('155', '425', '7885', '0', '16878844', '4', '1999-06-28 16:00:36'),
+('156', '151', '15530', '0', '380119572', '3', '2007-04-15 14:24:27'),
+('157', '125', '15451', '5', '5', '269503321', '1', '1997-05-31 01:53:04'),
+('158', '244', '13362', '0', '335145628', '3', '1979-10-05 05:14:29'),
+('159', '186', '6091', '0', '282127774', '4', '2007-10-19 16:08:35'),
+('160', '131', '1031', '0', '210433086', '2', '1999-05-24 15:18:30'),
+('161', '39', '8597', '0', '100344182', '4', '1984-09-21 10:11:43'),
+('162', '153', '2939', '1', '1', '386467701', '1', '2002-01-01 09:21:02'),
+('163', '179', '15621', '0', '333072914', '4', '2015-08-20 00:04:28'),
+('164', '91', '9464', '0', '164615494', '2', '1990-08-06 21:30:48'),
+('165', '62', '4828', '3', '3', '379288479', '1', '1995-11-09 03:32:10'),
+('166', '333', '1209', '3', '3', '357316020', '1', '1996-09-11 19:00:24'),
+('167', '500', '12161', '0', '24179972', '2', '1970-12-19 06:15:26'),
+('168', '484', '7769', '0', '231565507', '4', '2001-07-15 17:53:04'),
+('169', '154', '7800', '0', '329323144', '2', '2000-09-10 05:43:20'),
+('170', '163', '9796', '0', '400904069', '4', '1973-08-06 11:46:51'),
+('171', '394', '9503', '0', '25584859', '2', '1971-12-12 17:00:26'),
+('172', '73', '12979', '0', '260605483', '3', '1987-11-26 13:52:10'),
+('173', '119', '11855', '0', '164077145', '2', '2016-12-23 02:34:51'),
+('174', '443', '13905', '4', '4', '36815104', '1', '2017-10-23 09:13:11'),
+('175', '118', '8989', '0', '316407377', '2', '1997-11-03 21:20:19'),
+('176', '39', '2405', '2', '2', '188101613', '1', '2014-02-25 13:52:31'),
+('177', '426', '10590', '3', '3', '37081620', '1', '2007-01-10 07:57:42'),
+('178', '143', '9667', '0', '302619698', '4', '2013-02-27 00:26:38'),
+('179', '80', '9327', '1', '1', '319741252', '1', '1999-02-20 12:16:47'),
+('180', '33', '11432', '6', '6', '298150638', '1', '1970-04-19 02:11:23'),
+('181', '500', '14630', '0', '94516505', '4', '1986-03-03 14:01:50'),
+('182', '219', '3714', '4', '4', '89973810', '1', '1978-07-26 18:47:52'),
+('183', '130', '5933', '0', '196635070', '3', '2000-05-21 16:01:13'),
+('184', '293', '1377', '0', '144407717', '4', '1979-10-31 21:49:41'),
+('185', '449', '3836', '0', '60474846', '2', '1997-01-14 03:10:29'),
+('186', '256', '9259', '0', '126418468', '3', '1982-08-25 13:19:23'),
+('187', '44', '4930', '5', '5', '359384561', '1', '2008-09-17 22:18:00'),
+('188', '378', '8619', '5', '5', '395514821', '1', '2003-02-23 04:54:02'),
+('189', '443', '10449', '5', '5', '328194918', '1', '2000-05-31 10:15:51'),
+('190', '410', '7065', '0', '263171648', '4', '2012-01-29 04:42:55'),
+('191', '35', '6554', '3', '3', '325268052', '1', '1996-01-03 12:11:06'),
+('192', '78', '2280', '0', '130708531', '2', '1973-11-02 20:28:48'),
+('193', '419', '16296', '0', '290816635', '2', '1976-03-28 05:32:23'),
+('194', '377', '16912', '0', '180674042', '4', '2003-08-15 20:45:19'),
+('195', '268', '3111', '0', '276524204', '3', '1993-01-15 21:17:52'),
+('196', '57', '5441', '0', '386422469', '2', '2016-09-14 18:10:26'),
+('197', '193', '9927', '0', '360727183', '2', '2003-07-29 23:37:02'),
+('198', '102', '10761', '0', '310818970', '3', '1972-03-22 09:22:55'),
+('199', '62', '6054', '0', '339748963', '2', '1994-02-13 04:37:58'),
+('200', '197', '4298', '0', '128095129', '2', '2010-04-27 13:37:57'),
+('201', '19', '10283', '0', '77764420', '2', '1983-04-10 16:36:18'),
+('202', '441', '7485', '0', '299837665', '2', '1970-11-15 22:37:10'),
+('203', '454', '9080', '0', '134377678', '4', '2004-12-18 16:26:12'),
+('204', '47', '1100', '5', '5', '28274645', '1', '2013-11-03 08:42:35'),
+('205', '332', '12013', '0', '223590921', '2', '1997-04-28 05:44:47'),
+('206', '117', '89', '0', '105701110', '3', '1979-07-15 05:39:52'),
+('207', '169', '10923', '1', '1', '329342208', '1', '1991-06-09 19:10:45'),
+('208', '360', '7844', '6', '6', '233889130', '1', '1981-09-28 16:35:19'),
+('209', '82', '13988', '0', '208062951', '3', '2014-02-02 13:25:01'),
+('210', '151', '4707', '0', '293704762', '2', '2017-03-22 01:28:09'),
+('211', '51', '7052', '0', '77892415', '4', '1985-08-13 17:42:13'),
+('212', '211', '6124', '0', '123878068', '2', '2008-05-10 06:15:53'),
+('213', '185', '6742', '0', '161200269', '2', '1991-08-05 13:04:09'),
+('214', '468', '4904', '0', '386821559', '4', '2015-01-15 09:55:05'),
+('215', '295', '11824', '3', '3', '56955308', '1', '1995-07-05 11:27:22'),
+('216', '455', '393', '0', '183109850', '3', '1983-03-18 03:11:21'),
+('217', '417', '15790', '2', '2', '205836629', '1', '2006-05-21 01:27:05'),
+('218', '156', '6428', '0', '32994366', '3', '2009-10-25 14:43:07'),
+('219', '37', '5991', '0', '238740534', '2', '1977-10-26 02:56:56'),
+('220', '77', '2251', '0', '149863965', '4', '1997-02-09 12:24:29'),
+('221', '478', '5326', '5', '5', '213722965', '1', '2004-12-07 16:28:50'),
+('222', '28', '14979', '0', '225568111', '2', '1997-09-23 00:46:14'),
+('223', '41', '9870', '0', '31206765', '2', '2015-01-23 07:32:16'),
+('224', '390', '10584', '1', '1', '299824549', '1', '2016-08-13 07:18:06'),
+('225', '227', '2637', '1', '1', '108622164', '1', '2001-12-16 14:16:11'),
+('226', '51', '16228', '3', '3', '390791491', '1', '1980-04-16 10:14:11'),
+('227', '85', '9485', '0', '187200643', '2', '1984-11-23 18:36:35'),
+('228', '354', '8592', '0', '198465833', '2', '1998-09-23 03:38:44'),
+('229', '91', '14350', '0', '333144292', '2', '2011-12-04 15:56:07'),
+('230', '110', '15786', '5', '5', '137594286', '1', '2015-01-16 02:18:10'),
+('231', '493', '10999', '0', '298562048', '2', '1975-08-29 17:11:08'),
+('232', '456', '629', '0', '209326637', '3', '1982-11-24 14:11:23'),
+('233', '405', '8063', '2', '2', '104684787', '1', '1983-07-15 23:53:20'),
+('234', '390', '14418', '0', '66054743', '3', '1990-05-30 02:21:47'),
+('235', '494', '10037', '0', '79842504', '4', '2010-12-27 08:30:38'),
+('236', '279', '15703', '0', '247254223', '3', '2014-12-30 01:57:36'),
+('237', '216', '15828', '0', '352600932', '3', '1999-09-06 03:45:14'),
+('238', '490', '9073', '0', '113596398', '4', '2018-11-15 05:58:15'),
+('239', '499', '16929', '0', '78930351', '4', '2014-06-04 01:07:24'),
+('240', '434', '14477', '3', '3', '103949864', '1', '1996-11-15 19:04:11'),
+('241', '61', '10701', '6', '6', '398025391', '1', '1971-03-06 02:50:57'),
+('242', '477', '2448', '0', '405122828', '3', '2005-10-03 17:43:31'),
+('243', '61', '8680', '0', '193510695', '2', '2014-10-31 11:22:03'),
+('244', '499', '8964', '0', '40675564', '4', '1970-08-25 01:11:00'),
+('245', '406', '9713', '3', '3', '262334655', '1', '2004-07-26 18:59:25'),
+('246', '163', '5808', '0', '399293492', '4', '1973-10-09 15:23:47'),
+('247', '498', '9096', '0', '132750364', '4', '1996-04-05 21:34:16'),
+('248', '419', '4680', '0', '27026600', '3', '1978-10-11 14:36:58'),
+('249', '149', '13991', '0', '250169814', '4', '1997-02-25 01:33:25'),
+('250', '139', '11694', '3', '3', '104451766', '1', '1970-05-10 12:26:29'),
+('251', '433', '15694', '3', '3', '47473958', '1', '2008-10-22 17:52:49'),
+('252', '458', '1126', '0', '90661984', '3', '1994-10-13 14:57:33'),
+('253', '413', '15552', '0', '87019033', '4', '2001-02-19 11:57:06'),
+('254', '428', '5593', '0', '236615213', '3', '2010-01-11 17:42:41'),
+('255', '20', '9192', '0', '292020080', '4', '2002-05-18 07:08:43'),
+('256', '70', '1976', '0', '70927701', '3', '2011-01-06 03:43:42'),
+('257', '340', '16552', '0', '103128368', '3', '2001-08-27 12:44:02'),
+('258', '40', '3102', '0', '373060565', '2', '1970-09-29 22:16:24'),
+('259', '59', '3315', '0', '321096616', '2', '2001-05-30 09:50:45'),
+('260', '253', '6551', '3', '3', '235724516', '1', '1971-06-13 21:36:25'),
+('261', '307', '8362', '0', '156698789', '2', '1975-02-09 19:26:22'),
+('262', '183', '8485', '0', '196289224', '2', '1986-05-24 22:09:01'),
+('263', '368', '9192', '0', '310672968', '3', '1998-07-23 09:06:01'),
+('264', '314', '11474', '1', '1', '214729345', '1', '2016-12-14 12:32:29'),
+('265', '290', '6227', '0', '271229070', '4', '1997-08-21 08:09:27'),
+('266', '223', '13077', '0', '313321298', '4', '2008-12-22 10:44:28'),
+('267', '58', '4060', '0', '272074572', '2', '1973-09-07 01:04:08'),
+('268', '71', '6077', '0', '45157656', '2', '2018-10-23 13:16:58'),
+('269', '8', '9707', '0', '19511159', '2', '1973-07-15 19:53:49'),
+('270', '42', '10637', '0', '98554886', '3', '1980-02-28 13:16:56'),
+('271', '247', '15244', '0', '261397618', '3', '1993-07-29 14:15:42'),
+('272', '254', '15739', '6', '6', '97813604', '1', '2001-04-04 02:07:57'),
+('273', '312', '5590', '0', '288031500', '4', '2014-03-27 13:29:00'),
+('274', '70', '762', '0', '10463708', '2', '2019-11-21 17:02:34'),
+('275', '81', '2319', '0', '316992798', '3', '2003-01-28 14:01:22'),
+('276', '24', '2060', '4', '4', '76273361', '1', '2019-04-03 14:20:17'),
+('277', '252', '6825', '6', '6', '385012309', '1', '1977-07-17 13:53:20'),
+('278', '137', '6937', '0', '200356846', '3', '1989-02-02 04:47:40'),
+('279', '121', '12930', '6', '6', '76522765', '1', '2012-09-04 08:04:58'),
+('280', '261', '1884', '2', '2', '197799422', '1', '1987-07-27 07:37:57'),
+('281', '56', '2188', '4', '4', '318080566', '1', '1970-07-02 14:21:05'),
+('282', '468', '1159', '0', '289076733', '4', '2007-04-22 14:30:25'),
+('283', '410', '15146', '0', '197747084', '4', '1993-03-02 00:15:30'),
+('284', '32', '11108', '0', '41490299', '2', '1998-09-19 01:09:00'),
+('285', '323', '13187', '0', '347540463', '4', '1993-12-07 09:07:07'),
+('286', '393', '580', '4', '4', '167763594', '1', '1985-05-22 09:06:34'),
+('287', '453', '1018', '1', '1', '266499419', '1', '1994-09-22 09:19:33'),
+('288', '468', '4645', '0', '249353216', '2', '2002-07-06 08:33:52'),
+('289', '245', '8906', '0', '405063315', '4', '1973-11-27 08:02:59'),
+('290', '201', '16826', '6', '6', '173784796', '1', '2012-09-21 11:49:11'),
+('291', '455', '1651', '6', '6', '276278658', '1', '1985-07-13 02:50:24'),
+('292', '58', '1232', '3', '3', '353061053', '1', '2018-05-08 19:20:21'),
+('293', '56', '16015', '0', '82433846', '4', '1979-02-23 20:09:13'),
+('294', '113', '10395', '0', '240114448', '4', '1973-05-10 23:25:07'),
+('295', '426', '5117', '2', '2', '263211359', '1', '1996-10-16 12:32:45'),
+('296', '494', '13992', '0', '259025116', '2', '1970-12-21 16:51:03'),
+('297', '240', '3216', '2', '2', '201685636', '1', '1979-07-03 18:33:04'),
+('298', '212', '6698', '3', '3', '189352162', '1', '1970-12-16 12:48:27'),
+('299', '366', '14639', '0', '374672618', '2', '1998-09-12 04:45:50'),
+('300', '168', '5886', '3', '3', '260367151', '1', '1991-03-10 18:37:42'),
+('301', '411', '12614', '0', '390596910', '4', '2005-12-13 03:37:12'),
+('302', '168', '5073', '0', '137061923', '3', '1994-06-10 16:52:08'),
+('303', '410', '2405', '6', '6', '412058487', '1', '1983-07-09 19:32:08'),
+('304', '384', '8341', '0', '60279674', '4', '1975-04-04 12:18:55'),
+('305', '129', '5506', '0', '172801323', '3', '1978-01-13 01:42:54'),
+('306', '333', '10307', '1', '1', '281853867', '1', '2015-09-03 20:39:25'),
+('307', '170', '15239', '0', '35795236', '3', '2011-04-17 18:57:47'),
+('308', '388', '7213', '0', '154356183', '3', '1995-11-07 20:46:01'),
+('309', '262', '3523', '0', '289507708', '3', '2019-05-13 15:31:30'),
+('310', '497', '9211', '4', '4', '27444728', '1', '2013-11-30 06:04:26'),
+('311', '120', '1457', '0', '230663157', '4', '2013-01-02 18:12:52'),
+('312', '107', '11204', '0', '328252194', '2', '1974-01-03 07:07:07'),
+('313', '431', '840', '0', '396648152', '3', '1975-11-07 23:33:13'),
+('314', '191', '1360', '3', '3', '168946987', '1', '1996-03-07 04:27:20'),
+('315', '348', '10490', '0', '175611795', '3', '2019-09-18 13:24:55'),
+('316', '84', '11262', '1', '1', '107131906', '1', '2018-09-24 02:55:32'),
+('317', '4', '10876', '2', '2', '222944378', '1', '1994-04-21 22:25:03'),
+('318', '500', '15599', '5', '5', '355620091', '1', '2009-01-16 22:46:52'),
+('319', '247', '10493', '0', '50065923', '3', '1988-09-26 15:37:54'),
+('320', '32', '2165', '2', '2', '344733970', '1', '2004-04-15 01:10:49'),
+('321', '387', '15102', '3', '3', '231393352', '1', '1996-02-24 04:18:51'),
+('322', '95', '9465', '0', '365273832', '2', '1980-05-28 20:20:06'),
+('323', '57', '1571', '0', '161666688', '4', '1994-04-21 06:41:13'),
+('324', '22', '3110', '0', '214087640', '2', '2009-11-17 07:24:00'),
+('325', '159', '6538', '0', '30563017', '4', '2008-11-03 03:27:01'),
+('326', '261', '11526', '0', '132419105', '4', '2001-10-16 13:30:48'),
+('327', '497', '7362', '0', '230343495', '4', '1988-05-27 00:06:58'),
+('328', '264', '12652', '0', '138664091', '4', '2002-11-14 04:17:45'),
+('329', '401', '12387', '0', '266806935', '3', '1996-03-02 03:33:30'),
+('330', '307', '2740', '5', '5', '382642639', '1', '1985-09-29 02:27:23'),
+('331', '351', '12494', '0', '116053758', '2', '1997-04-01 11:13:50'),
+('332', '271', '16937', '1', '1', '49767231', '1', '2002-05-01 23:21:27'),
+('333', '171', '7031', '0', '280555804', '4', '1981-10-29 00:13:54'),
+('334', '66', '8048', '1', '1', '353121262', '1', '2004-11-18 20:05:09'),
+('335', '99', '4161', '0', '135059744', '2', '2005-01-29 15:22:35'),
+('336', '204', '4304', '0', '364696816', '4', '1987-09-10 11:29:54'),
+('337', '170', '277', '0', '19690597', '3', '1983-02-01 08:01:02'),
+('338', '281', '9133', '0', '274751279', '2', '1982-08-31 18:45:11'),
+('339', '371', '12821', '0', '37547009', '3', '1995-12-07 08:19:03'),
+('340', '233', '459', '0', '32085672', '2', '1994-01-23 21:35:30'),
+('341', '277', '10080', '2', '2', '371711867', '1', '1995-01-27 05:44:10'),
+('342', '245', '12240', '0', '225627022', '2', '1982-06-02 00:01:59'),
+('343', '392', '11365', '0', '191805300', '4', '1987-03-22 00:59:12'),
+('344', '465', '2180', '2', '2', '31329537', '1', '1973-11-09 14:47:54'),
+('345', '112', '8228', '4', '4', '207354711', '1', '1971-07-28 03:57:58'),
+('346', '156', '11711', '0', '268488383', '3', '1993-03-28 05:59:59'),
+('347', '368', '11217', '0', '108150', '2', '1971-07-25 12:08:43'),
+('348', '160', '1822', '0', '344891762', '3', '1977-11-18 11:54:15'),
+('349', '352', '1236', '5', '5', '252936902', '1', '1979-01-03 10:32:36'),
+('350', '189', '8502', '0', '149745949', '4', '2012-07-22 15:41:16'),
+('351', '306', '13567', '0', '306372887', '3', '2012-07-01 22:35:14'),
+('352', '442', '14645', '2', '2', '27822964', '1', '2004-10-05 23:01:44'),
+('353', '447', '11172', '0', '118928409', '2', '2018-05-05 07:44:47'),
+('354', '200', '1147', '0', '336276085', '3', '1989-08-03 05:29:56'),
+('355', '403', '14960', '0', '209834107', '4', '1980-12-24 23:47:46'),
+('356', '451', '6690', '0', '151021779', '2', '1978-01-23 19:27:14'),
+('357', '82', '12556', '0', '326335321', '3', '1998-09-13 06:59:23'),
+('358', '437', '5869', '0', '126948449', '4', '1995-08-01 06:03:55'),
+('359', '116', '697', '0', '257913170', '3', '1984-01-13 18:15:46'),
+('360', '197', '14558', '0', '409990062', '4', '1973-05-12 20:23:20'),
+('361', '303', '5289', '2', '2', '232514512', '1', '2016-12-29 20:26:32'),
+('362', '396', '8021', '0', '25320792', '2', '1984-07-17 08:03:58'),
+('363', '70', '6821', '0', '319136317', '3', '1999-07-21 05:07:37'),
+('364', '292', '2909', '0', '213765673', '2', '2008-05-01 20:40:02'),
+('365', '249', '13504', '4', '4', '387818857', '1', '1998-10-10 19:26:01'),
+('366', '173', '7391', '4', '4', '124213841', '1', '1974-05-29 17:02:22'),
+('367', '79', '2892', '1', '1', '292462453', '1', '2003-01-12 10:17:32'),
+('368', '44', '10683', '4', '4', '37594286', '1', '2010-03-02 02:43:48'),
+('369', '51', '2659', '0', '381129813', '3', '1999-02-09 03:02:53'),
+('370', '436', '6008', '0', '158814502', '3', '1983-12-20 13:33:23'),
+('371', '268', '5873', '0', '11965793', '4', '2018-06-08 16:18:13'),
+('372', '346', '1093', '0', '172775541', '2', '1978-01-15 18:49:42'),
+('373', '429', '16913', '0', '313611354', '4', '2018-10-31 07:32:21'),
+('374', '27', '13547', '0', '104954943', '3', '2010-10-17 05:41:20'),
+('375', '48', '13309', '5', '5', '63512661', '1', '1996-05-18 02:26:16'),
+('376', '266', '7121', '0', '187398791', '3', '2001-01-22 02:43:34'),
+('377', '52', '10737', '0', '187482180', '2', '2003-08-29 13:12:07'),
+('378', '318', '7586', '0', '208103237', '4', '1998-08-11 19:33:58'),
+('379', '7', '12391', '0', '243038319', '4', '1983-01-12 11:50:33'),
+('380', '417', '6182', '0', '264562474', '2', '1983-12-15 23:44:31'),
+('381', '398', '8671', '3', '3', '40711615', '1', '1985-10-07 18:38:20'),
+('382', '460', '8138', '0', '300008743', '2', '2008-08-16 15:36:45'),
+('383', '359', '16904', '0', '138048966', '4', '1971-08-30 08:29:25'),
+('384', '11', '16435', '6', '6', '48328924', '1', '1977-09-27 14:19:26'),
+('385', '236', '11627', '0', '82008461', '2', '1975-05-21 12:56:58'),
+('386', '365', '2950', '0', '336513413', '4', '2003-08-30 17:06:24'),
+('387', '242', '10482', '0', '305356591', '2', '1982-07-05 04:53:55'),
+('388', '381', '8487', '0', '82381991', '2', '1982-11-11 11:55:11'),
+('389', '13', '738', '3', '3', '249848688', '1', '1987-11-14 20:55:11'),
+('390', '89', '4135', '0', '69571748', '4', '2014-07-27 09:08:13'),
+('391', '452', '3053', '0', '27453565', '2', '1985-01-27 12:53:31'),
+('392', '71', '5325', '0', '190306346', '4', '1979-07-11 19:16:02'),
+('393', '78', '11647', '0', '197004724', '3', '1971-11-03 13:20:06'),
+('394', '344', '5528', '6', '6', '136035374', '1', '1996-08-10 05:10:38'),
+('395', '284', '2885', '0', '342085107', '3', '1971-01-15 17:29:50'),
+('396', '318', '15111', '4', '4', '301356986', '1', '2012-02-25 21:30:59'),
+('397', '266', '2856', '0', '81054540', '4', '2009-09-26 15:07:22'),
+('398', '176', '4139', '1', '1', '155698656', '1', '1979-11-21 15:32:29'),
+('399', '441', '3097', '0', '410211229', '2', '2015-08-27 08:21:47'),
+('400', '290', '6672', '1', '1', '201888059', '1', '1999-12-01 11:52:53'),
+('401', '78', '5420', '0', '106003388', '3', '2014-04-14 07:12:41'),
+('402', '118', '9356', '1', '1', '190150646', '1', '2009-02-14 07:12:58'),
+('403', '226', '1680', '0', '95775729', '2', '2009-01-03 13:21:36'),
+('404', '117', '14519', '0', '112936338', '3', '1977-02-10 11:59:05'),
+('405', '313', '2974', '0', '109276264', '2', '2004-05-16 19:51:45'),
+('406', '460', '13626', '0', '402202890', '3', '1971-12-12 22:47:10'),
+('407', '177', '2131', '1', '1', '92888332', '1', '1979-11-19 04:13:26'),
+('408', '421', '14271', '0', '306502545', '4', '1991-04-13 18:24:37'),
+('409', '211', '7827', '4', '4', '23419640', '1', '2001-07-27 05:36:35'),
+('410', '112', '4737', '0', '303980861', '3', '1973-09-22 17:54:07'),
+('411', '110', '7597', '0', '251356582', '4', '1972-05-09 17:31:42'),
+('412', '326', '11711', '0', '182457629', '3', '2004-02-13 22:10:43'),
+('413', '410', '4237', '0', '127324102', '4', '1992-11-12 22:52:04'),
+('414', '34', '15175', '0', '62089058', '3', '2016-03-19 02:29:13'),
+('415', '395', '13356', '1', '1', '112468683', '1', '1989-07-30 23:24:58'),
+('416', '45', '2951', '6', '6', '134958012', '1', '1987-07-07 16:30:32'),
+('417', '266', '7738', '0', '109365826', '3', '1978-11-23 12:54:53'),
+('418', '459', '8460', '4', '4', '43807036', '1', '1982-08-25 05:02:27'),
+('419', '235', '16452', '0', '90135696', '4', '1974-06-01 21:31:40'),
+('420', '305', '15241', '6', '6', '92094704', '1', '2009-04-03 02:45:57'),
+('421', '443', '3196', '3', '3', '53649515', '1', '1991-04-18 07:12:41'),
+('422', '119', '7683', '0', '306896016', '2', '1994-07-30 07:24:28'),
+('423', '231', '8940', '4', '4', '231665093', '1', '2008-01-22 08:19:27'),
+('424', '460', '6581', '0', '168460465', '2', '1991-01-09 18:07:57'),
+('425', '201', '9307', '0', '350873545', '2', '1973-09-12 04:03:32'),
+('426', '9', '11598', '2', '2', '61633429', '1', '2009-10-24 03:12:07'),
+('427', '367', '7838', '0', '159575142', '4', '1977-11-11 16:16:00'),
+('428', '371', '6928', '0', '31886510', '3', '1977-01-07 06:34:12'),
+('429', '192', '9492', '0', '324714700', '3', '1992-12-05 19:51:09'),
+('430', '383', '2255', '0', '408169696', '3', '2013-12-05 22:47:24'),
+('431', '230', '1927', '0', '310701061', '4', '1970-05-15 05:29:17'),
+('432', '18', '10397', '1', '1', '269539014', '1', '1972-03-10 15:29:01'),
+('433', '168', '10879', '0', '111892485', '4', '1994-11-24 21:07:05'),
+('434', '164', '13826', '0', '362054234', '2', '2011-02-08 22:27:38'),
+('435', '416', '7561', '0', '143226001', '2', '2019-08-30 17:43:37'),
+('436', '187', '3491', '0', '386097211', '2', '2000-01-17 15:30:23'),
+('437', '58', '9721', '0', '152626882', '2', '1995-01-26 19:45:29'),
+('438', '239', '1888', '6', '6', '348167936', '1', '2019-02-14 06:56:44'),
+('439', '13', '13431', '0', '312978141', '3', '2018-06-09 17:07:53'),
+('440', '78', '10087', '0', '230420707', '2', '1985-02-22 14:07:18'),
+('441', '422', '4045', '0', '269912063', '3', '1980-06-09 04:17:00'),
+('442', '48', '5187', '0', '272694959', '3', '1985-09-02 22:43:56'),
+('443', '257', '13294', '0', '4686247', '2', '1971-12-30 12:19:01'),
+('444', '220', '1342', '0', '91631070', '2', '2013-12-27 19:46:14'),
+('445', '217', '12244', '0', '236410982', '2', '1992-07-22 07:32:25'),
+('446', '194', '9244', '2', '2', '316178569', '1', '1983-02-11 15:57:17'),
+('447', '4', '11164', '3', '3', '110860582', '1', '1976-02-27 01:58:54'),
+('448', '58', '13892', '2', '2', '107265686', '1', '1985-06-05 11:44:45'),
+('449', '455', '3384', '0', '409142416', '4', '1996-11-04 14:09:37'),
+('450', '290', '1092', '0', '236169817', '3', '1992-07-02 13:38:21'),
+('451', '262', '5029', '0', '276370163', '4', '1991-01-12 17:49:08'),
+('452', '357', '2839', '0', '256532934', '3', '1980-06-13 02:16:28'),
+('453', '467', '5277', '0', '98584301', '2', '1992-09-19 05:23:47'),
+('454', '469', '5936', '2', '2', '374567205', '1', '1972-11-12 22:20:35'),
+('455', '427', '280', '0', '293342384', '2', '2015-10-18 08:11:25'),
+('456', '310', '13350', '0', '160864753', '2', '1995-08-15 02:27:50'),
+('457', '81', '11542', '3', '3', '1722176', '1', '2004-12-02 19:28:46'),
+('458', '18', '228', '0', '40555935', '4', '1977-05-28 22:32:35'),
+('459', '438', '16308', '3', '3', '48269741', '1', '1981-05-03 07:04:35'),
+('460', '290', '9546', '0', '311801497', '4', '1977-09-05 22:49:46'),
+('461', '384', '1048', '3', '3', '377391010', '1', '1990-09-27 07:57:42'),
+('462', '197', '3529', '2', '2', '375424418', '1', '1990-09-19 19:44:10'),
+('463', '432', '5620', '0', '381411439', '2', '1977-11-28 17:13:06'),
+('464', '291', '11018', '0', '58599544', '2', '2006-10-14 02:04:11'),
+('465', '222', '278', '0', '383841155', '4', '1984-10-26 08:42:42'),
+('466', '390', '959', '0', '375372869', '2', '2007-02-27 06:51:08'),
+('467', '252', '4540', '0', '192329446', '4', '1989-01-13 09:58:39'),
+('468', '234', '7476', '1', '1', '147809726', '1', '2013-03-06 12:14:07'),
+('469', '294', '13389', '2', '2', '238752892', '1', '2017-08-04 02:14:12'),
+('470', '325', '1379', '0', '43078910', '4', '2018-01-25 17:58:01'),
+('471', '302', '1024', '0', '114521447', '4', '1991-07-10 06:37:03'),
+('472', '413', '2747', '0', '17981119', '3', '1979-12-17 11:05:09'),
+('473', '104', '15738', '3', '3', '355691080', '1', '1980-04-14 01:11:05'),
+('474', '263', '797', '3', '3', '314885553', '1', '2001-02-17 21:28:50'),
+('475', '179', '3561', '0', '189877785', '4', '1980-04-08 08:55:14'),
+('476', '227', '16519', '0', '34949153', '4', '2013-02-03 08:02:20'),
+('477', '52', '14256', '0', '121941939', '2', '1971-09-10 16:56:26'),
+('478', '80', '380', '0', '40535307', '4', '2009-10-30 09:08:45'),
+('479', '400', '5014', '0', '393878322', '2', '2011-01-16 07:47:51'),
+('480', '320', '4022', '0', '229691996', '3', '1970-05-02 05:37:12'),
+('481', '291', '7067', '0', '347339111', '4', '1978-01-26 16:03:05'),
+('482', '304', '3550', '0', '336058756', '3', '1978-08-21 03:15:09'),
+('483', '294', '5107', '0', '30306073', '4', '2004-10-19 07:41:55'),
+('484', '435', '8961', '0', '49097414', '4', '2008-01-26 23:39:05'),
+('485', '14', '3638', '0', '358393019', '3', '1996-09-09 15:48:18'),
+('486', '128', '13643', '0', '51294686', '3', '1983-05-10 02:04:47'),
+('487', '42', '9709', '0', '156451631', '3', '2016-12-09 17:55:52'),
+('488', '308', '9804', '0', '55774369', '2', '1982-01-01 20:30:10'),
+('489', '106', '15607', '1', '1', '99639055', '1', '1981-12-21 18:08:20'),
+('490', '215', '12671', '5', '5', '213281418', '1', '1983-05-01 04:29:33'),
+('491', '241', '7522', '0', '288425996', '3', '1980-06-02 15:05:50'),
+('492', '44', '6322', '0', '285337243', '3', '1998-04-29 23:45:12'),
+('493', '444', '3775', '0', '377171794', '3', '1979-07-02 21:17:26'),
+('494', '216', '5991', '0', '303170533', '3', '1990-10-04 22:58:57'),
+('495', '104', '1790', '0', '101445372', '3', '1989-03-03 07:44:26'),
+('496', '350', '1635', '0', '179598038', '3', '1971-04-04 10:20:39'),
+('497', '115', '3391', '0', '32225181', '4', '1996-07-02 04:55:01'),
+('498', '418', '12722', '3', '3', '301963361', '1', '2005-03-03 23:08:29'),
+('499', '35', '13388', '0', '330638841', '3', '1990-06-09 18:50:02'),
+('500', '417', '8564', '0', '137303495', '3', '2017-01-20 14:15:39');
 
 
 
