@@ -1,6 +1,27 @@
 SHOW DATABASES;
 USE bitskins;
 
+ALTER TABLE sold_items DROP FOREIGN KEY sold_items_seller_id_fk;
+ALTER TABLE sold_items DROP FOREIGN KEY sold_items_buyer_id_fk;
+ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_type_id_fk;
+ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_quality_id_fk;
+
+ALTER TABLE item_types DROP FOREIGN KEY item_types_image_id_fk;
+ALTER TABLE item_types DROP FOREIGN KEY item_types_app_id_fk;
+
+ALTER TABLE profiles DROP FOREIGN KEY profiles_user_id_fk;
+
+ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_type_id_fk;
+ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_quality_id_fk;
+ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_seller_id_fk;
+ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_bot_id_fk;
+
+
+ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_seller_id_fk;
+ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_type_id_fk;
+ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_quality_id_fk;
+ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_app_id_id_fk;
+
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
   id INT(10) UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,  
@@ -82,13 +103,13 @@ CREATE TABLE bots (
   steam_id INT(10) UNSIGNED NOT NULL
 );
 
-DROP TABLE IF EXISTS items_types;
-CREATE TABLE items_types (
+DROP TABLE IF EXISTS item_types;
+CREATE TABLE item_types (
   id INT(10) UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
   market_hash_name VARCHAR(100) NOT NULL UNIQUE,
-  image_id INT(10) UNSIGNED NOT NULL DEFAULT 0,
+  image_id INT(10) UNSIGNED NOT NULL,
   suggested_price INT(10) DEFAULT 0,
-  app_id INT(10) UNSIGNED NOT NULL DEFAULT 0
+  app_id INT(10) UNSIGNED NOT NULL
 );
 
 
@@ -100,15 +121,10 @@ CREATE TABLE buy_orders (
   item_type_id INT(10) UNSIGNED NOT NULL,
   item_quality_id INT(10) UNSIGNED NOT NULL,
   price INT(10) NOT NULL,
-  app_id INT(10) UNSIGNED NOT NULL DEFAULT 0,
+  app_id INT(10) UNSIGNED NOT NULL,
   created_at DATETIME DEFAULT NOW()
 );
 
-
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_seller_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_buyer_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_type_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_quality_id_fk;
 
 ALTER TABLE sold_items
   ADD CONSTRAINT sold_items_seller_id_fk
@@ -118,27 +134,23 @@ ALTER TABLE sold_items
     FOREIGN KEY (buyer_id) REFERENCES users(id)
       ON DELETE CASCADE,
   ADD CONSTRAINT sold_items_item_type_id_fk
-    FOREIGN KEY (item_type_id) REFERENCES items_types(id)
+    FOREIGN KEY (item_type_id) REFERENCES item_types(id)
       ON DELETE CASCADE,
   ADD CONSTRAINT sold_items_item_quality_id_fk
     FOREIGN KEY (item_quality_id) REFERENCES item_qualities(id)
       ON DELETE CASCADE;
 
 
-ALTER TABLE items_types DROP FOREIGN KEY items_types_image_id_fk;
-ALTER TABLE items_types DROP FOREIGN KEY items_types_app_id_fk;
 
 
-ALTER TABLE items_types
-  ADD CONSTRAINT items_types_image_id_fk
+ALTER TABLE item_types
+  ADD CONSTRAINT item_types_image_id_fk
     FOREIGN KEY (image_id) REFERENCES images(id)
       ON DELETE CASCADE,
-  ADD CONSTRAINT items_types_app_id_fk
+  ADD CONSTRAINT item_types_app_id_fk
     FOREIGN KEY (app_id) REFERENCES apps(id)
       ON DELETE CASCADE;
 
-
-ALTER TABLE profiles DROP FOREIGN KEY profiles_user_id_fk;
 
 
 ALTER TABLE profiles
@@ -148,14 +160,10 @@ ALTER TABLE profiles
 
 
 
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_type_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_quality_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_type_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_bot_id_fk;
 
 ALTER TABLE specific_items_on_sale
   ADD CONSTRAINT specific_items_on_sale_item_type_id_fk
-    FOREIGN KEY (item_type_id) REFERENCES items_types(id)
+    FOREIGN KEY (item_type_id) REFERENCES item_types(id)
       ON DELETE CASCADE,
   ADD CONSTRAINT specific_items_on_sale_item_quality_id_fk
     FOREIGN KEY (item_quality_id) REFERENCES item_qualities(id)
@@ -169,17 +177,13 @@ ALTER TABLE specific_items_on_sale
 
 
 
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_seller_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_type_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_quality_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_app_id_id_fk;
 
 ALTER TABLE buy_orders
   ADD CONSTRAINT buy_orders_seller_id_fk
     FOREIGN KEY (buyer_id) REFERENCES users(id)
       ON DELETE CASCADE,
   ADD CONSTRAINT buy_orders_item_type_id_fk
-    FOREIGN KEY (item_type_id) REFERENCES items_types(id)
+    FOREIGN KEY (item_type_id) REFERENCES item_types(id)
       ON DELETE CASCADE,
   ADD CONSTRAINT buy_orders_item_quality_id_fk
     FOREIGN KEY (item_quality_id) REFERENCES item_qualities(id)
