@@ -46,6 +46,10 @@ CREATE TABLE profiles (
   steam_id INT(10) NOT NULL UNIQUE
 );
 
+CREATE INDEX profiles_api_key_idx ON profiles(api_key);
+CREATE INDEX profiles_secure_access_idx ON profiles(secure_access);
+CREATE INDEX profiles_trade_url_idx ON profiles(trade_url);
+
 
 DROP TABLE IF EXISTS apps;
 CREATE TABLE apps (
@@ -75,6 +79,8 @@ CREATE TABLE specific_items_on_sale (
   created_at DATETIME DEFAULT NOW(),
   updated_at DATETIME DEFAULT NOW() ON UPDATE NOW()
 );
+
+
 
 
 
@@ -112,6 +118,7 @@ CREATE TABLE item_types (
   app_id INT(10) UNSIGNED NOT NULL
 );
 
+CREATE INDEX item_types_market_hash_name_idx ON item_types(market_hash_name);
 
 
 DROP TABLE IF EXISTS buy_orders;
@@ -125,6 +132,7 @@ CREATE TABLE buy_orders (
   created_at DATETIME DEFAULT NOW()
 );
 
+CREATE INDEX buy_orders_item_type_id_idx ON buy_orders(item_type_id);
 
 ALTER TABLE sold_items
   ADD CONSTRAINT sold_items_seller_id_fk
