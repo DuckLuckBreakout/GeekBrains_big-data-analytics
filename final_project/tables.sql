@@ -81,6 +81,7 @@ CREATE TABLE specific_items_on_sale (
 );
 
 
+CREATE INDEX specific_items_on_sale_item_type_id_idx ON specific_items_on_sale(item_type_id);
 
 
 
@@ -94,6 +95,9 @@ CREATE TABLE sold_items (
   buyer_id INT(10) UNSIGNED NOT NULL,
   sold_at DATETIME DEFAULT NOW()
 );
+
+CREATE INDEX sold_items_item_type_id_idx ON sold_items(item_type_id);
+
 
 
 DROP TABLE IF EXISTS images;
