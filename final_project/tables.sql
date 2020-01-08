@@ -1,27 +1,3 @@
-SHOW DATABASES;
-USE bitskins;
-
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_seller_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_buyer_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_type_id_fk;
-ALTER TABLE sold_items DROP FOREIGN KEY sold_items_item_quality_id_fk;
-
-ALTER TABLE item_types DROP FOREIGN KEY item_types_image_id_fk;
-ALTER TABLE item_types DROP FOREIGN KEY item_types_app_id_fk;
-
-ALTER TABLE profiles DROP FOREIGN KEY profiles_user_id_fk;
-
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_type_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_item_quality_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_seller_id_fk;
-ALTER TABLE specific_items_on_sale DROP FOREIGN KEY specific_items_on_sale_bot_id_fk;
-
-
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_seller_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_type_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_item_quality_id_fk;
-ALTER TABLE buy_orders DROP FOREIGN KEY buy_orders_app_id_id_fk;
-
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
   id INT(10) UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,  
