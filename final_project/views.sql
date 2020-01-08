@@ -31,3 +31,17 @@ SELECT steam_item_id,
        JOIN
        apps
        ON app_id = apps.id;
+
+/*
+   Получить новые suggested_prices для всех предметов.
+   Данное поле равно средней цене, по которой был куплен предмет за все время.
+*/
+CREATE VIEW new_suggested_prices AS
+  SELECT sold_items.item_type_id AS item_type_id,
+         AVG(price) AS new_suggested_price
+    FROM sold_items
+         JOIN item_types
+         ON sold_items.item_type_id = item_types.id
+GROUP BY sold_items.item_type_id
+ORDER BY sold_items.item_type_id;
+
